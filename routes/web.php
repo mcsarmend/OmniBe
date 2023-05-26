@@ -1,10 +1,14 @@
 <?php
 
+use App\Http\Controllers\humanresourcesController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\adminsettingsController;
 use App\Http\Controllers\labelledController;
 use App\Http\Controllers\reportController;
+use App\Http\Controllers\clientsController;
 use App\Http\Controllers\statusController;
+use App\Http\Controllers\systemsController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -34,16 +38,17 @@ Route::get('/dashboard', function () {
 })->middleware(['auth']);
 
 // Configuraciones
-Route::get('admin/settings',[adminsettingsController::class, 'index'])->middleware(['auth']);
+Route::get('admin/userGenerate',[adminsettingsController::class, 'usersGenerate'])->middleware(['auth']);
 
-//Etiqeutado
-Route::get('etiquetado/jucavi/bursa', [labelledController::class, 'jucavibursa'])->middleware('auth');
-Route::get('etiquetado/jucavi/promecap', [labelledController::class, 'jucavipromecap'])->middleware('auth');
-Route::get('etiquetado/jucavi/blao', [labelledController::class, 'jucaviblao'])->middleware('auth');
-Route::get('etiquetado/mambu/bursa', [labelledController::class, 'mambubursa'])->middleware('auth');
-Route::get('etiquetado/mambu/promecap', [labelledController::class, 'mambupromecap'])->middleware('auth');
-Route::get('etiquetado/mambu/blao', [labelledController::class, 'mambublao'])->middleware('auth');
-Route::get('etiquetado/mambu/mintos', [labelledController::class, 'mambumintos'])->middleware('auth');
+//Sistemas
+Route::get('systems/tickets',[systemsController::class, 'tickets'])->middleware(['auth']);
+Route::get('systems/calendar',[systemsController::class, 'calendar'])->middleware(['auth']);
+Route::get('systems/binnacle_temperatures',[systemsController::class, 'binnacle_temperatures'])->middleware(['auth']);
+Route::get('systems/query_moper',[systemsController::class, 'query_moper'])->middleware(['auth']);
+Route::get('systems/documents_generate',[systemsController::class, 'documents_generate'])->middleware(['auth']);
+
+
+
 
 //Reportes
 Route::get('reportes/recuperacioncartera', [reportController::class, 'recuperacioncartera'])->middleware('auth');
@@ -55,6 +60,22 @@ Route::get('reportes/fondeadores', [reportController::class, 'fondeadores'])->mi
 Route::get('estatus/importantes', [statusController::class, 'importantes'])->middleware('auth');
 Route::get('estatus/avisos', [statusController::class, 'avisos'])->middleware('auth');
 Route::get('estatus/informacion', [statusController::class, 'informacion'])->middleware('auth');
+
+// capitalhumano/operaciones/busquedayseleccion/catalogodepuestos
+
+Route::get('capitalhumano/operaciones/busquedayseleccion/catalogodepuestos', [humanresourcesController::class, 'catalogodepuestos'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/estatusvacantes', [humanresourcesController::class, 'estatusvacantes'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/reporterotacion', [humanresourcesController::class, 'reporterotacion'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/prealta', [humanresourcesController::class, 'prealta'])->middleware('auth');
+
+
+
+
+
+// clientes
+Route::get('clientes/cuestionario', [clientsController::class, 'cuestionario'])->middleware('auth');
+
+
 
 
 

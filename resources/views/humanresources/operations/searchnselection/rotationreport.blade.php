@@ -1,15 +1,15 @@
 @extends('adminlte::page')
 
-@section('title', 'Configuraciones')
+@section('title', 'Reporte mensual de rotación')
 
 @section('content_header')
-
-<h1>Reporte 3</h1>
+    <h1>Reporte mensual de rotación</h1>
 @stop
+
 @section('content')
    <div class="card">
     <div class="card-header">
-        <h1 class="card-title">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est maxime aperiam eveniet dolores officiis nemo alias vel corporis blanditiis voluptatem dicta et quod, quis repellendus laudantium! Voluptate, odio itaque! Autem!</h1>
+        <h1 class="card-title">Aqui se encontrará el reporte mensual de rotación</h1>
     </div>
     <div class="card-body">
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil laboriosam temporibus architecto, cumque accusamus asperiores in iusto dignissimos sequi. Odio alias commodi dicta repellat rerum quisquam! Ab aut nemo accusamus!</p>
@@ -23,5 +23,5 @@
 @stop
 
 @section('js')
-    <script> console.log('Hi!'); </script>
+    <script></script>
 @stop

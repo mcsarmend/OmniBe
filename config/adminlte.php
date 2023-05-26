@@ -290,45 +290,109 @@ return [
     */
 
     'menu' => [
-        // Navbar items:
+        ['header' => 'SELECCIÓN'],
         [
-            'type'         => 'navbar-search',
-            'text'         => 'search',
-            'topnav_right' => true,
-        ],
-        [
-            'type'         => 'fullscreen-widget',
-            'topnav_right' => true,
-        ],
-
-        ['header' => 'DESARROLLO ORGANIZACIONAL'],
-        [
-            'text' => 'MOPER',
-            'icon' => 'fas fa-fw fa-square',
+            'text' => 'CONTACT CENTER',
+            'icon' => 'fas fa-fw fa-stop-circle',
+            'icon_color' =>'red',
             'submenu' => [
                 [
-                    'text' => 'ENTRADA 1',
+                    'text' => 'WHATS APP',
+                    'url' => 'https://web.whatsapp.com/',
+                ],
+                [
+                    'text' => 'ISABELLE',
                     'url' => '#',
-                    'submenu' =>[
+                ],
+                [
+                    'text' => 'LIVERPOOL',
+                    'url' => '#',
+                ],
+                [
+                    'text' => 'YAHOO MAIL',
+                    'url' => 'https://login.yahoo.com/?.intl=mx',
+                ],
+            ],
+
+        ],
+        [
+            'text' => 'CLIENTES',
+            'icon' => 'fas fa-fw fa-people-arrows',
+            'submenu' => [
+                [
+                    'text' => 'CUESTIONARIO PARA DELIMITAR UNA VACANTE',
+                    'url' => 'clientes/cuestionario',
+                ]
+            ],
+
+        ],
+        [
+            'text' => 'CAPITAL HUMANO',
+            'icon' => 'fas fa-fw fa-user-astronaut:',
+            'submenu' => [
+
+                [
+                    'text' => 'OPERACIONES',
+                    'url' => '#',
+                    'submenu' => [
+                        [
+                            'text' => 'BUSQUEDA Y SELECCION',
+                            'url' => 'etiquetado/mambu/bursa',
+                            'submenu' => [
+                                [
+                                    'text' => 'CATALOGO DE PUESTOS',
+                                    'icon'=>'fas fa-fw fa-hand-paper',
+                                    'url' => 'capitalhumano/operaciones/busquedayseleccion/catalogodepuestos',
+                                ],
+                                [
+                                    'text' => 'ESTATUS DE VACANTES',
+                                    'icon'=>'fas fa-fw fa-hands-wash',
+                                    'url' => 'capitalhumano/operaciones/busquedayseleccion/estatusvacantes',
+                                ],
+                                [
+                                    'text' => 'REPORTE MENSUAL DE ROTACION',
+                                    'icon'=>'fas fa-fw fa-hat-cowboy-side',
+                                    'url' => 'capitalhumano/operaciones/busquedayseleccion/reporterotacion',
+                                ],
+                                [
+                                    'text' => 'PRE-ALTA',
+                                    'icon'=>'fas fa-fw fa-angle-double-up',
+                                    'url' => 'capitalhumano/operaciones/busquedayseleccion/prealta',
+                                ],
+
+                            ]
+                        ],
+                    ]
+                ],
+                [
+                    'text' => 'ADMINISTRACIÓN',
+                    'icon'=>'fas fa-fw fa-tablet',
+                    'url' => '#',
+                    'submenu' => [
                         [
                             'text' => 'Opción 1',
-                            'url' => 'etiquetado/jucavi/bursa',
+                            'url' => 'etiquetado/mambu/bursa',
                         ],
                         [
                             'text' => 'Opción 2',
-                            'url' => 'etiquetado/jucavi/promecap',
+                            'url' => 'etiquetado/mambu/promecap',
                         ],
                         [
                             'text' => 'Opción 3',
-                            'url' => 'etiquetado/jucavi/blao',
+                            'url' => 'etiquetado/mambu/blao',
+                        ],
+                        [
+                            'text' => 'Opción 4',
+                            'url' => 'etiquetado/mambu/mintos',
                         ],
 
                     ]
                 ],
                 [
-                    'text' => 'ENTRADA 2',
+                    'text' => 'DESARROLLO ORGANIZACIONAL',
                     'url' => '#',
-                    'submenu' =>[
+                    'icon'=>'fas fa-fw fa-diagnoses',
+                    'submenu' => [
                         [
                             'text' => 'Opción 1',
                             'url' => 'etiquetado/mambu/bursa',
@@ -352,41 +416,74 @@ return [
             ],
 
         ],
-        [
-            'text' => 'Reportes',
-            'icon' => 'fas fa-fw fa-file',
-            'submenu' =>[
-                [
-                    'text' => 'Reporte 1',
-                    'url' => 'reportes/recuperacioncartera',
-                ],
-                [
-                    'text' => 'Reporte 2',
-                    'url' => 'reportes/sesioncartera',
-                ],
-                [
-                    'text' => 'Reporte 3',
-                    'url' => 'reportes/fondeadores',
-                ]
+        // [
+        //     'text' => 'Reportes',
+        //     'icon' => 'fas fa-fw fa-file',
+        //     'submenu' =>[
+        //         [
+        //             'text' => 'Reporte 1',
+        //             'url' => 'reportes/recuperacioncartera',
+        //         ],
+        //         [
+        //             'text' => 'Reporte 2',
+        //             'url' => 'reportes/sesioncartera',
+        //         ],
+        //         [
+        //             'text' => 'Reporte 3',
+        //             'url' => 'reportes/fondeadores',
+        //         ]
 
-            ]
-        ],
-        ['header' => 'Estatus de creditos'],
-        [
-            'text' => 'Importantes',
-            'icon_color' => 'red',
-            'url' => 'estatus/importantes',
-        ],
-        [
-            'text' => 'Avisos',
-            'icon_color' => 'yellow',
-            'url' => 'estatus/avisos',
-        ],
-        [
-            'text' => 'Informacion',
-            'icon_color' => 'cyan',
-            'url' => 'estatus/informacion',
-        ]
+        //     ]
+        // ],
+
+        // ['header' => 'SUPER ADMINISTRADOR'],
+        // [
+        //     'text' => 'USUARIOS',
+        //     'icon_color' => 'white',
+        //     'icon' => 'fas fa-fw fa-light fa-users',
+        //     'url' => 'admin/userGenerate',
+        // ],
+        // ['header' => 'SISTEMAS'],
+        // [
+        //     'text' => 'TICKETS',
+        //     'icon_color' => 'white',
+        //     'icon'=>'fas fa-fw fa-ticket-alt',
+        //     'url' => 'systems/tickets',
+        // ],
+        // [
+        //     'text' => 'CALENDARIO',
+        //     'icon_color' => 'white',
+        //     'icon'=>'fas fa-fw fa-regular fa-calendar',
+        //     'url' => 'systems/calendar',
+        // ],
+        // [
+        //     'text' => 'BITACORA TEMPERATURAS',
+        //     'icon_color' => 'white',
+        //     'icon'=>'fas fa-fw fa-solid fa-pen-alt',
+        //     'url' => 'systems/binnacle_temperatures',
+        // ],
+        // [
+        //     'text' => 'CONSULTA MOPER',
+        //     'icon_color' => 'white',
+        //     'icon'=>'fas fa-fw fa-thin fa-file',
+        //     'url' => 'systems/query_moper',
+        // ],
+        // [
+        //     'text' => 'GENERACION DE DOCUMENTOS',
+        //     'icon_color' => 'white',
+        //     'icon'=>'fas fa-fw fa-sharp fa-light fa-file-export',
+        //     'url' => 'systems/documents_generate',
+        // ],
+        // [
+        //     'text' => 'Avisos',
+        //     'icon_color' => 'yellow',
+        //     'url' => 'estatus/avisos',
+        // ],
+        // [
+        //     'text' => 'Informacion',
+        //     'icon_color' => 'cyan',
+        //     'url' => 'estatus/informacion',
+        // ]
     ],
 
     /*
@@ -425,22 +522,37 @@ return [
 
     'plugins' => [
         'Datatables' => [
-            'active' => false,
+            'active' => true,
             'files' => [
                 [
                     'type' => 'js',
-                    'asset' => false,
+                    'asset' => true,
                     'location' => '//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js',
                 ],
                 [
                     'type' => 'js',
-                    'asset' => false,
+                    'asset' => true,
                     'location' => '//cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js',
                 ],
                 [
                     'type' => 'css',
-                    'asset' => false,
+                    'asset' => true,
                     'location' => '//cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css',
+                ],
+            ],
+        ],
+        'Bootstrap' => [
+            'active' => true,
+            'files' => [
+                [
+                    'type' => 'js',
+                    'asset' => false,
+                    'location' => '//cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js',
+                ],
+                [
+                    'type' => 'css',
+                    'asset' => true,
+                    'location' => '//cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css',
                 ],
             ],
         ],
@@ -470,7 +582,7 @@ return [
             ],
         ],
         'Sweetalert2' => [
-            'active' => false,
+            'active' => true,
             'files' => [
                 [
                     'type' => 'js',

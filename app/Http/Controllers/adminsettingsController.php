@@ -10,4 +10,8 @@ class adminsettingsController extends Controller
     {
         return view('admin.settings');
     }
+    public function usersGenerate()
+    {
+        return view('admin.usersGenerate');
+    }
 }
