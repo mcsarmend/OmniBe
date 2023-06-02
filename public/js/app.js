@@ -6,7 +6,7 @@
   !*** ./node_modules/alpinejs/dist/module.esm.js ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-import axios from "axios";
+
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
