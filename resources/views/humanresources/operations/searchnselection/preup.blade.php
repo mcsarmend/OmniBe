@@ -130,7 +130,7 @@
 @stop
 
 @section('css')
-    <link rel="stylesheet" href="/css/admin_custom.css">
+
     <style>
         .form-style {
             max-width: 600px;

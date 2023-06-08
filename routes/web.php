@@ -67,6 +67,7 @@ Route::get('capitalhumano/operaciones/busquedayseleccion/catalogodepuestos', [hu
 Route::get('capitalhumano/operaciones/busquedayseleccion/estatusvacantes', [humanresourcesController::class, 'estatusvacantes'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/reporterotacion', [humanresourcesController::class, 'reporterotacion'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/prealta', [humanresourcesController::class, 'prealta'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/infostalls', [humanresourcesController::class, 'infostalls']);
 
 
 
