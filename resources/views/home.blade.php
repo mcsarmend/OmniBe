@@ -3,16 +3,16 @@
 @section('title', 'Dashboard')
 
 @section('content_header')
-    <h1>Tablero</h1>
+    <h1>Bienvenido</h1>
 @stop
 
 @section('content')
    <div class="card">
     <div class="card-header">
-        <h1 class="card-title">Hola mundo</h1>
+        {{-- <h1 class="card-title"></h1> --}}
     </div>
     <div class="card-body">
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil laboriosam temporibus architecto, cumque accusamus asperiores in iusto dignissimos sequi. Odio alias commodi dicta repellat rerum quisquam! Ab aut nemo accusamus!</p>
+        <p>Muchas gracias por usar el sistema <b>Omni</b>BE</p>
     </div>
 
    </div>
@@ -24,10 +24,6 @@
 
 @section('js')
     <script>
-        Swal.fire(
-        'Good job!',
-        'You clicked the button!',
-        'success'
-        )
+
     </script>
 @stop

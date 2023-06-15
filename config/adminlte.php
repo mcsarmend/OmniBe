@@ -301,12 +301,12 @@ return [
                     'url' => 'https://web.whatsapp.com/',
                 ],
                 [
-                    'text' => 'ISABELLE',
-                    'url' => '#',
+                    'text' => 'ISABEL',
+                    'url' => 'https://10.80.81.32/index.php',
                 ],
                 [
                     'text' => 'LIVERPOOL',
-                    'url' => '#',
+                    'url' => 'http://10.80.81.170:82/system/login/',
                 ],
                 [
                     'text' => 'YAHOO MAIL',
