@@ -9,6 +9,7 @@ use App\Http\Controllers\reportController;
 use App\Http\Controllers\clientsController;
 use App\Http\Controllers\statusController;
 use App\Http\Controllers\systemsController;
+use App\Http\Controllers\siteController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -20,13 +21,16 @@ use App\Http\Controllers\systemsController;
 |
 */
 
+
+
 Route::get('/', function () {
     if (Auth::check()) {
         return redirect('/home');
     } else {
-        return redirect('/login');
+        return view('/welcome');
     }
-})->middleware('auth');
+
+});
 
 
 Route::get('/dashboard', function () {
@@ -77,6 +81,11 @@ Route::get('capitalhumano/operaciones/busquedayseleccion/infostalls', [humanreso
 Route::get('clientes/cuestionario', [clientsController::class, 'cuestionario'])->middleware('auth');
 
 
+
+//Site
+Route::get('/servicios', [siteController::class, 'servicios'])->name('servicios');
+Route::get('/bi', [siteController::class, 'bi'])->name('bi');
+Route::get('/contacto', [siteController::class, 'contacto'])->name('contacto');
 
 
 
