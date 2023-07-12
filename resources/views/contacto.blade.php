@@ -7,7 +7,11 @@
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <title>Be Group | Contacto</title>
+    <link rel="icon" href="assets/images/logo.png" type="image/x-icon">
 </head>
 <style>
     .btn-primary {
@@ -153,6 +157,9 @@
                             <a class="nav-link" href="{{ route('contacto') }}">Contacto</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="{{ route('formulario') }}">Formulario</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="https://begb.com.mx/" target="_blank"
                                 rel="noopener noreferrer">Nom 035</a>
                         </li>
@@ -203,7 +210,7 @@
                             <label for="fname">Nombre</label>
                         </div>
                         <div class="col-75">
-                            <input type="text" id="fname" name="firstname" placeholder="Nombre(s)..">
+                            <input type="text" id="fname" name="fname" placeholder="Nombre(s)..">
                         </div>
                     </div>
                     <div class="row">
@@ -211,7 +218,7 @@
                             <label for="lname">Apellido</label>
                         </div>
                         <div class="col-75">
-                            <input type="text" id="lname" name="lastname" placeholder="Apellido..">
+                            <input type="text" id="lname" name="lname" placeholder="Apellido..">
                         </div>
                     </div>
                     <div class="row">

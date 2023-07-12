@@ -71,7 +71,10 @@ Route::get('capitalhumano/operaciones/busquedayseleccion/catalogodepuestos', [hu
 Route::get('capitalhumano/operaciones/busquedayseleccion/estatusvacantes', [humanresourcesController::class, 'estatusvacantes'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/reporterotacion', [humanresourcesController::class, 'reporterotacion'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/prealta', [humanresourcesController::class, 'prealta'])->middleware('auth');
-Route::get('capitalhumano/operaciones/busquedayseleccion/infostalls', [humanresourcesController::class, 'infostalls']);
+Route::get('capitalhumano/operaciones/busquedayseleccion/altayobel', [humanresourcesController::class, 'altayobel'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/infostalls', [humanresourcesController::class, 'infostalls'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/preuplist', [humanresourcesController::class, 'preuplist'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/yobellist', [humanresourcesController::class, 'yobellist'])->middleware('auth');
 
 
 
@@ -86,6 +89,8 @@ Route::get('clientes/cuestionario', [clientsController::class, 'cuestionario'])-
 Route::get('/servicios', [siteController::class, 'servicios'])->name('servicios');
 Route::get('/bi', [siteController::class, 'bi'])->name('bi');
 Route::get('/contacto', [siteController::class, 'contacto'])->name('contacto');
+Route::get('/formulario', [siteController::class, 'formulario'])->name('formulario');
+Route::post('/enviar_datos', [siteController::class, 'enviar_datos']);
 
 
 

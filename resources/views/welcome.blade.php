@@ -6,6 +6,8 @@
         integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>Be Group | Inicio</title>
+    <link rel="icon" href="assets/images/logo.png" type="image/x-icon">
     <style>
         .bg-image-1 {
             position: relative;
@@ -175,6 +177,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('contacto') }}">Contacto</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('formulario') }}">Formulario</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="https://begb.com.mx/" target="_blank"

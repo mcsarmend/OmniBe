@@ -359,6 +359,11 @@ return [
                                     'icon'=>'fas fa-fw fa-angle-double-up',
                                     'url' => 'capitalhumano/operaciones/busquedayseleccion/prealta',
                                 ],
+                                [
+                                    'text' => 'ALTA YOBEL',
+                                    'icon'=>'fas fa-fw fa-angle-double-up',
+                                    'url' => 'capitalhumano/operaciones/busquedayseleccion/altayobel',
+                                ],
 
                             ]
                         ],
@@ -587,7 +592,7 @@ return [
                 [
                     'type' => 'js',
                     'asset' => false,
-                    'location' => '//cdn.jsdelivr.net/npm/sweetalert2@8',
+                    'location' => 'https://cdn.jsdelivr.net/npm/sweetalert2@11.7.12/dist/sweetalert2.all.min.js',
                 ],
             ],
         ],

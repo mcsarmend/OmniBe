@@ -6,7 +6,8 @@
         integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-
+    <title>Be Group | Servicios</title>
+    <link rel="icon" href="assets/images/logo.png" type="image/x-icon">
 
 </head>
 <style>
@@ -61,6 +62,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="https://begb.com.mx/" target="_blank"
                                 rel="noopener noreferrer">Nom 035</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('formulario') }}">Formulario</a>
                         </li>
                     </ul>
                 </div>
