@@ -72,10 +72,16 @@ Route::get('capitalhumano/operaciones/busquedayseleccion/estatusvacantes', [huma
 Route::get('capitalhumano/operaciones/busquedayseleccion/reporterotacion', [humanresourcesController::class, 'reporterotacion'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/prealta', [humanresourcesController::class, 'prealta'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/altayobel', [humanresourcesController::class, 'altayobel'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/altageneral', [humanresourcesController::class, 'altageneral'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/infostalls', [humanresourcesController::class, 'infostalls'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/preuplist', [humanresourcesController::class, 'preuplist'])->middleware('auth');
 Route::get('capitalhumano/operaciones/busquedayseleccion/yobellist', [humanresourcesController::class, 'yobellist'])->middleware('auth');
-
+Route::get('capitalhumano/operaciones/busquedayseleccion/generallist', [humanresourcesController::class, 'generallist'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/obtenerEmpleadoYobel', [humanresourcesController::class, 'obtenerEmpleadoYobel'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/obtenerEmpleadoGeneral', [humanresourcesController::class, 'obtenerEmpleadoGeneral'])->middleware('auth');
+Route::get('capitalhumano/operaciones/busquedayseleccion/obtenerEmpleadoPrealta', [humanresourcesController::class, 'obtenerEmpleadoPrealta'])->middleware('auth');
+Route::post('capitalhumano/operaciones/busquedayseleccion/asignarEmpleadoYobel', [humanresourcesController::class, 'asignarEmpleadoYobel']);
+Route::post('capitalhumano/operaciones/busquedayseleccion/asignarEmpleadoGeneral', [humanresourcesController::class, 'asignarEmpleadoGeneral']);
 
 
 
@@ -100,3 +106,4 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
+Route::get('/logout', 'Auth\LoginController@logout')->name('logout');

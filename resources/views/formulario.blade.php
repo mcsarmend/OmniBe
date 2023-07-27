@@ -195,21 +195,24 @@
                             <label for="lname">Apellido paterno</label>
                         </div>
                         <div class="col-75">
-                            <input type="text" id="lname" name="lname" placeholder="Apellido paterno.." required>
+                            <input type="text" id="lname" name="lname" placeholder="Apellido paterno.."
+                                required>
                         </div>
 
                         <div class="col-25">
                             <label for="sname">Apellido materno</label>
                         </div>
                         <div class="col-75">
-                            <input type="text" id="sname" name="sname" placeholder="Apellido materno.."required>
+                            <input type="text" id="sname" name="sname"
+                                placeholder="Apellido materno.."required>
                         </div>
 
                         <div class="col-25">
                             <label for="email">Correo electrónico :</label>
                         </div>
                         <div class="col-75">
-                            <input type="text" id="email" name="email" placeholder="Correo electrónico.."required>
+                            <input type="text" id="email" name="email"
+                                placeholder="Correo electrónico.."required>
                         </div>
 
                         <div class="col-25">
@@ -225,6 +228,81 @@
                         <div class="col-75">
                             <input type="text" id="rfc" name="rfc" placeholder="RFC.."required>
                         </div>
+
+                        <div class="col-25">
+                            <label for="nss">NSS :</label>
+                        </div>
+                        <div class="col-75">
+                            <input class="form-control" type="number" id="nss" name="nss"
+                                placeholder="Número de Seguro Social.."required>
+                        </div>
+
+                        <div class="col-25">
+                            <label for="fecha_nac">Fecha de Nacimiento :</label>
+                        </div>
+                        <div class="col-75">
+                            <input type="date" id="fecha_nac" name="fecha_nac" class="form-control"
+                                placeholder="Fecha de nacimiento.."required>
+                        </div>
+
+                        <div class="col-25">
+                            <label for="lugar_nac">Lugar de Nacimiento :</label>
+                        </div>
+                        <div class="col-75">
+                            <input type="text" id="lugar_nac" name="lugar_nac" class="form-control"
+                                placeholder="Lugar de nacimiento.."required>
+                        </div>
+
+
+                        <div class="col-25">
+                            <label for="estado_civil">Estado Civil :</label>
+                        </div>
+                        <div class="col-75 ">
+                            <Select id="estado_civil" name="estado_civil">
+                                <option class="form-control" value="SOLTERO">Soltero</option>
+                                <option class="form-control" value="CASADO">Casado</option>
+                                <option class="form-control" value="SEPARADO">Separado</option>
+                                <option class="form-control" value="DIVORCIADO">Divorciado</option>
+                                <option class="form-control" value="VIUDO">Viudo</option>
+                            </Select>
+                        </div>
+
+
+                        <div class="col-25">
+                            <label for="escolaridad">Escolaridad :</label>
+                        </div>
+                        <div class="col-75 ">
+                            <Select id="escolaridad" name="escolaridad">
+                                <option class="form-control" value="PREESCOLAR">Preescolar</option>
+                                <option class="form-control" value="PRIMARIA">Primaria</option>
+                                <option class="form-control" value="SECUNDARIA">Secundaria</option>
+                                <option class="form-control" value="BACHILLERATO">Bachillerato</option>
+                                <option class="form-control" value="LICENCIATURA">Licenciatura</option>
+                                <option class="form-control" value="MAESTRIA">Maestria</option>
+                                <option class="form-control" value="DOCTORADO">Doctorado</option>
+                            </Select>
+                        </div>
+
+                        <div class="col-25">
+                            <label for="genero">Género :</label>
+                        </div>
+                        <div class="col-75 ">
+                            <Select id="genero" name="genero">
+                                <option class="form-control" value="HOMBRE">Hombre</option>
+                                <option class="form-control" value="MUJER">Mujer</option>
+                                <option class="form-control" value="NODECIR">Prefiero no decirlo</option>
+                                <option class="form-control" value="OTRO">otro</option>
+                            </Select>
+                        </div>
+
+                        <div class="col-25">
+                            <label for="celular">Celular :</label>
+                        </div>
+                        <div class="col-75">
+                            <input class="form-control" type="number" id="celular" name="celular"
+                                placeholder="Celular.."required>
+                        </div>
+
 
                         <div class="col-25">
                             <label for="street">Calle :</label>
@@ -269,6 +347,17 @@
                             <input type="text" id="state" name="state" class="form-control"
                                 placeholder="Estado..."required>
                         </div>
+
+                        <div class="col-25">
+                            <label for="cp">Codigo postal:</label>
+                        </div>
+                        <div class="col-75">
+                            <input type="text" id="cp" name="cp" class="form-control"
+                                placeholder="Codigo Postal..."required>
+                        </div>
+
+
+
                         <div class="col-25">
                             <label for="application_date">Fecha de Solicitud:</label>
                         </div>
@@ -402,7 +491,23 @@
             var currentDate = new Date().toISOString().split('T')[0];
             $('#application_date').val(currentDate);
 
+            const fechaInput = document.getElementById('fecha_nac');
 
+            // Obtener la fecha actual
+            const fechaActual = new Date();
+
+            // Calcular el año actual y los límites para el input de fecha
+            const yearActual = fechaActual.getFullYear();
+            const minYear = yearActual - 100;
+            const maxYear = yearActual - 18;
+
+            // Formatear los límites para que el input de fecha los acepte en el formato "AAAA-MM-DD"
+            const formattedMinDate = `${minYear}-01-01`;
+            const formattedMaxDate = `${maxYear}-12-31`;
+
+            // Establecer los atributos "min" y "max" del input de fecha
+            fechaInput.setAttribute('min', formattedMinDate);
+            fechaInput.setAttribute('max', formattedMaxDate);
 
 
         });

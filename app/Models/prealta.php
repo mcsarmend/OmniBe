@@ -28,7 +28,8 @@ class prealta extends Model
       'town',
       'state',
       'application_date',
-      'recrutier'
+      'recrutier',
+      'cp'
     ];
 
     protected $guarded =[];

@@ -4,8 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\DB;
+
 class siteController extends Controller
 {
     public function servicios()
@@ -26,31 +26,37 @@ class siteController extends Controller
     }
     public function enviar_datos(Request $request)
     {
-
         try {
             DB::table('prealta')->insert([
-                'name' => $request->name,
-                'lname' => $request->lname,
-                'sname' => $request->sname,
-                'email' => $request->email,
-                'curp' => $request->curp,
-                'rfc' => $request->rfc,
-                'street' => $request->street,
+                'name' => strtoupper($request->name),
+                'lname' => strtoupper($request->lname),
+                'sname' => strtoupper($request->sname),
+                'email' => strtoupper($request->email),
+                'curp' => strtoupper($request->curp),
+                'rfc' => strtoupper($request->rfc),
+                'street' => strtoupper($request->street),
                 'streetnum' => $request->streetnum,
-                'apple' => $request->apple,
-                'col' => $request->col,
-                'town' => $request->town,
-                'state' => $request->state,
-                'application_date' => $request->application_date,
-                'recrutier' => $request->recrutier
+                'apple' => strtoupper($request->apple),
+                'col' => strtoupper($request->col),
+                'town' => strtoupper($request->town),
+                'state' => strtoupper($request->state),
+                'application_date' => strtoupper($request->application_date),
+                'recrutier' => strtoupper($request->recrutier),
+                'nss' => strtoupper($request->nss),
+                'fecha_nac' => strtoupper($request->fecha_nac),
+                'lugar_nac' => strtoupper($request->lugar_nac),
+                'estado_civil' => strtoupper($request->estado_civil),
+                'escolaridad' => strtoupper($request->escolaridad),
+                'genero' => strtoupper($request->genero),
+                'celular' => strtoupper($request->celular),
+                'cp' => $request->cp,
             ]);
 
             return response()->json(['success' => "Formulario enviado correctamente"], 200);
 
         } catch (\Throwable $th) {
-            return response()->json(['error' => "Ocurrió un error: ". $th], 401);
+            return response()->json(['error' => "Ocurrió un error: " . $th], 401);
         }
-
 
     }
 }

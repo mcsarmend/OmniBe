@@ -5,9 +5,9 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class empleados_yobel extends Model
+class empleados_general extends Model
 {
-    protected $table = 'empleados_yobel';
+    protected $table = 'empleados_base';
 
     protected $primary_key = 'id';
 
@@ -54,3 +54,6 @@ class empleados_yobel extends Model
 
     protected $guarded =[];
 }
+
+
+

@@ -364,6 +364,11 @@ return [
                                     'icon'=>'fas fa-fw fa-angle-double-up',
                                     'url' => 'capitalhumano/operaciones/busquedayseleccion/altayobel',
                                 ],
+                                [
+                                    'text' => 'ALTA GENERAL',
+                                    'icon'=>'fas fa-fw fa-angle-double-up',
+                                    'url' => 'capitalhumano/operaciones/busquedayseleccion/altageneral',
+                                ],
 
                             ]
                         ],

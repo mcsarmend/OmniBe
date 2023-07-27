@@ -1,9 +1,9 @@
 @extends('adminlte::page')
 
-@section('title', 'Alta Yobel')
+@section('title', 'Alta General')
 
 @section('content_header')
-    <h1>Altas Yobel</h1>
+    <h1>Altas General</h1>
 
 @stop
 
@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="{{ asset('css/moper.css') }}">
     <div class="card">
         <div class="card-header">
-            <h1 class="card-title">Lista de altas en YOBEL</h1>
+            <h1 class="card-title">Lista de altas en General</h1>
         </div>
         <div class="card-body">
             <table id="prealtatabla" class="table table-hover tabpre" style="width: 600px; overflow-x: auto;">
@@ -1715,7 +1715,7 @@
                 message: 'Cargando...'
             });
             $.ajax({
-                url: "yobellist",
+                url: "generallist",
                 method: "GET",
                 dataType: "JSON",
                 data: {},
@@ -1829,7 +1829,7 @@
 
 
             $.ajax({
-                url: "obtenerEmpleadoYobel",
+                url: "obtenerEmpleadoGeneral",
                 method: "GET",
                 dataType: "JSON",
                 data: {
