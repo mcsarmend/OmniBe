@@ -74,6 +74,7 @@
                     <div class="modal-body">
 
                         <div id="moperbody">
+
                             <table border="0" cellpadding="0" cellspacing="0" id="sheet0" class="sheet0">
                                 <col class="col0">
                                 <col class="col1">
@@ -113,369 +114,632 @@
                                 <col class="col35">
                                 <col class="col36">
                                 <col class="col37">
+                                <col class="col38">
+                                <col class="col39">
+                                <col class="col40">
+                                <col class="col41">
+                                <col class="col42">
+                                <col class="col43">
+                                <col class="col44">
+                                <col class="col45">
+                                <col class="col46">
+                                <col class="col47">
+                                <col class="col48">
+                                <col class="col49">
+                                <col class="col50">
+                                <col class="col51">
+                                <col class="col52">
+                                <col class="col53">
+                                <col class="col54">
+                                <col class="col55">
+                                <col class="col56">
+                                <col class="col57">
+                                <col class="col58">
+                                <col class="col59">
+                                <col class="col60">
+                                <col class="col61">
+                                <col class="col62">
+                                <col class="col63">
+                                <col class="col64">
+                                <col class="col65">
+                                <col class="col66">
+                                <col class="col67">
+                                <col class="col68">
+                                <col class="col69">
+                                <col class="col70">
+                                <col class="col71">
+                                <col class="col72">
+                                <col class="col73">
+                                <col class="col74">
+                                <col class="col75">
+                                <col class="col76">
+                                <col class="col77">
+                                <col class="col78">
+                                <col class="col79">
+                                <col class="col80">
+                                <col class="col81">
+                                <col class="col82">
+                                <col class="col83">
+                                <col class="col84">
+                                <col class="col85">
+                                <col class="col86">
+                                <col class="col87">
+                                <col class="col88">
+                                <col class="col89">
+                                <col class="col90">
+                                <col class="col91">
+                                <col class="col92">
+                                <col class="col93">
+                                <col class="col94">
                                 <tbody>
-                                    <tr class="row0">
+                                    <tr class="row5">
                                         <td class="column0">&nbsp;</td>
+                                        <td class="column1 style1 null"></td>
+                                        <td class="column2 style2 null"></td>
+                                        <td class="column3 style2 null"></td>
+                                        <td class="column4 style2 null"></td>
+                                        <td class="column5 style2 null"></td>
+                                        <td class="column6 style2 null"></td>
+                                        <td class="column7 style2 null"></td>
+                                        <td class="column8 style2 null"></td>
+                                        <td class="column9 style2 null"></td>
+                                        <td class="column10 style2 null"></td>
+                                        <td class="column11 style2 null"></td>
+                                        <td class="column12 style2 null"></td>
+                                        <td class="column13 style2 null"></td>
+                                        <td class="column14 style2 null"></td>
+                                        <td class="column15 style2 null"></td>
+                                        <td class="column16 style2 null"></td>
+                                        <td class="column17 style2 null"></td>
+                                        <td class="column18 style2 null"></td>
+                                        <td class="column19 style2 null"></td>
+                                        <td class="column20 style2 null"></td>
+                                        <td class="column21 style2 null"></td>
+                                        <td class="column22 style2 null"></td>
+                                        <td class="column23 style2 null"></td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row6">
+                                        <td class="column0 style5 null"></td>
                                         <td class="column1">&nbsp;</td>
                                         <td class="column2">&nbsp;</td>
                                         <td class="column3">&nbsp;</td>
                                         <td class="column4">&nbsp;</td>
                                         <td class="column5">&nbsp;</td>
                                         <td class="column6">&nbsp;</td>
-                                        <td class="column7">&nbsp;</td>
-                                        <td class="column8">&nbsp;</td>
-                                        <td class="column9">&nbsp;</td>
-                                        <td class="column10">&nbsp;</td>
-                                        <td class="column11">&nbsp;</td>
-                                        <td class="column12">&nbsp;</td>
-                                        <td class="column13">&nbsp;</td>
-                                        <td class="column14">&nbsp;</td>
-                                        <td class="column15">&nbsp;</td>
-                                        <td class="column16">&nbsp;</td>
-                                        <td class="column17">&nbsp;</td>
-                                        <td class="column18">&nbsp;</td>
-                                        <td class="column19">&nbsp;</td>
-                                        <td class="column20">&nbsp;</td>
-                                        <td class="column21">&nbsp;</td>
-                                        <td class="column22">&nbsp;</td>
-                                        <td class="column23">&nbsp;</td>
-                                        <td class="column24">&nbsp;</td>
-                                        <td class="column25">&nbsp;</td>
-                                        <td class="column26">&nbsp;</td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row1">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
+                                        <td class="column7 style59 null style59" colspan="2" rowspan="6">
                                         <td class="column5 style8 null style16" colspan="3" rowspan="6">
                                             <div style="position: relative;"><img
-                                                    style="position: absolute; z-index: 1; left: 17px; top: -45px; width: 124px; height: 90px;"
+                                                    style="position: absolute; z-index: 1; left: -160px; top: -45px; width: 124px; height: 90px;"
                                                     src="{{ asset('assets/images/logo3.png') }}" border="0" /></div>
                                         </td>
-                                        <td class="column8 style79 s style170" colspan="19" rowspan="2">BE GROUP
-                                        </td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style169 null"></td>
-                                        <td class="column32 style169 null"></td>
-
-                                    </tr>
-                                    <tr class="row2">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style171 null"></td>
-                                        <td class="column32 style171 null"></td>
-
-                                    </tr>
-                                    <tr class="row3">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column8 style83 s style173" colspan="19" rowspan="2">MOVIMIENTO
-                                            DE
-                                            PERSONAL</td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row4">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row5">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column8 style87 s style94" colspan="4" rowspan="2">CÓDIGO:
-                                            F-MPER-RH/18</td>
-                                        <td class="column12 style90 s style135" colspan="8" rowspan="2">VERSIÓN: 01
-                                        </td>
-                                        <td class="column20 style133 s style175" colspan="7" rowspan="2">Página
-                                            <span
-                                                style="font-weight:bold; color:#000000; font-family:'Arial'; font-size:10pt">1</span><span
-                                                style="color:#000000; font-family:'Arial'; font-size:10pt"> de </span><span
-                                                style="font-weight:bold; color:#000000; font-family:'Arial'; font-size:10pt">1</span>
-                                        </td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row6">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row7">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2 style17 null"></td>
-                                        <td class="column3 style17 null"></td>
-                                        <td class="column4 style17 null"></td>
-                                        <td class="column5 style18 null"></td>
-                                        <td class="column6 style18 null"></td>
-                                        <td class="column7 style18 null"></td>
-                                        <td class="column8 style18 null"></td>
-                                        <td class="column9 style18 null"></td>
-                                        <td class="column10 style18 null"></td>
-                                        <td class="column11 style18 null"></td>
-                                        <td class="column12 style18 null"></td>
-                                        <td class="column13 style18 null"></td>
-                                        <td class="column14 style18 null"></td>
-                                        <td class="column15 style97 null"></td>
-                                        <td class="column16">&nbsp;</td>
-                                        <td class="column17">&nbsp;</td>
+                                        <td class="column9 style60 s style60" colspan="8" rowspan="2">BE GROUP</td>
+                                        <td class="column17 style7 null"></td>
                                         <td class="column18">&nbsp;</td>
                                         <td class="column19">&nbsp;</td>
                                         <td class="column20">&nbsp;</td>
                                         <td class="column21">&nbsp;</td>
                                         <td class="column22">&nbsp;</td>
                                         <td class="column23">&nbsp;</td>
-                                        <td class="column24 style176 null"></td>
-                                        <td class="column25">&nbsp;</td>
+                                        <td class="column24 style7 null"></td>
+                                        <td class="column25 style7 null"></td>
                                         <td class="column26">&nbsp;</td>
                                         <td class="column27">&nbsp;</td>
                                         <td class="column28">&nbsp;</td>
                                         <td class="column29">&nbsp;</td>
                                         <td class="column30">&nbsp;</td>
-                                        <td class="column31 style177 null"></td>
-                                        <td class="column32 style177 null"></td>
-
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row7">
+                                        <td class="column0 style3 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2">&nbsp;</td>
+                                        <td class="column3">&nbsp;</td>
+                                        <td class="column4">&nbsp;</td>
+                                        <td class="column5">&nbsp;</td>
+                                        <td class="column6">&nbsp;</td>
+                                        <td class="column17 style8 null"></td>
+                                        <td class="column18 style9 null"></td>
+                                        <td class="column19 style9 null"></td>
+                                        <td class="column20 style9 null"></td>
+                                        <td class="column21 style9 null"></td>
+                                        <td class="column22 style9 null"></td>
+                                        <td class="column23 style9 null"></td>
+                                        <td class="column24 style10 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row8">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2 style19 null"></td>
-                                        <td class="column3 style19 null"></td>
-                                        <td class="column4 style19 null"></td>
-                                        <td class="column5 style17 null"></td>
-                                        <td class="column6 style20 null"></td>
-                                        <td class="column7 style20 null"></td>
-                                        <td class="column8 style20 null"></td>
-                                        <td class="column9 style20 null"></td>
-                                        <td class="column10 style20 null"></td>
-                                        <td class="column11 style20 null"></td>
-                                        <td class="column12 style20 null"></td>
-                                        <td class="column13 style20 null"></td>
-                                        <td class="column14 style20 null"></td>
-                                        <td class="column15 style98 null"></td>
-                                        <td class="column16 style22 s style22" colspan="2">FECHA</td>
-                                        <td class="column18 style138 f style138" colspan="6" id="fechaActual">
-                                        </td>
-                                        <td class="column24 style178 null"></td>
-                                        <td class="column25">&nbsp;</td>
+                                        <td class="column1 style1 null"></td>
+                                        <td class="column2 style1 null"></td>
+                                        <td class="column3 style1 null"></td>
+                                        <td class="column4 style1 null"></td>
+                                        <td class="column5 style1 null"></td>
+                                        <td class="column6 style1 null"></td>
+                                        <td class="column9 style61 s style61" colspan="8" rowspan="2">Movimiento de
+                                            personal</td>
+                                        <td class="column17 style8 null"></td>
+                                        <td class="column18 style9 null"></td>
+                                        <td class="column19 style9 null"></td>
+                                        <td class="column20 style9 null"></td>
+                                        <td class="column21 style9 null"></td>
+                                        <td class="column22 style9 null"></td>
+                                        <td class="column23 style9 null"></td>
+                                        <td class="column24 style10 null"></td>
+                                        <td class="column25 style2 null"></td>
                                         <td class="column26">&nbsp;</td>
                                         <td class="column27">&nbsp;</td>
                                         <td class="column28">&nbsp;</td>
                                         <td class="column29">&nbsp;</td>
                                         <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row9">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2 style19 null"></td>
-                                        <td class="column3 style19 null"></td>
-                                        <td class="column4 style19 null"></td>
-                                        <td class="column5 style17 null"></td>
-                                        <td class="column6 style20 null"></td>
-                                        <td class="column7 style20 null"></td>
-                                        <td class="column8 style20 null"></td>
-                                        <td class="column9 style20 null"></td>
-                                        <td class="column10 style20 null"></td>
-                                        <td class="column11 style20 null"></td>
-                                        <td class="column12 style20 null"></td>
-                                        <td class="column13 style20 null"></td>
-                                        <td class="column14 style20 null"></td>
-                                        <td class="column15 style99 null"></td>
-                                        <td class="column16 style99 null"></td>
-                                        <td class="column17 style99 null"></td>
-                                        <td class="column18 style139 null"></td>
-                                        <td class="column19 style139 null"></td>
-                                        <td class="column20 style139 null"></td>
-                                        <td class="column21 style139 null"></td>
-                                        <td class="column22 style139 null"></td>
-                                        <td class="column23 style139 null"></td>
-                                        <td class="column24 style179 null"></td>
-                                        <td class="column25">&nbsp;</td>
+                                        <td class="column1 style1 null"></td>
+                                        <td class="column2 style1 null"></td>
+                                        <td class="column3 style1 null"></td>
+                                        <td class="column4 style1 null"></td>
+                                        <td class="column5 style1 null"></td>
+                                        <td class="column6 style1 null"></td>
+                                        <td class="column17 style8 null"></td>
+                                        <td class="column18 style9 null"></td>
+                                        <td class="column19 style9 null"></td>
+                                        <td class="column20 style9 null"></td>
+                                        <td class="column21 style9 null"></td>
+                                        <td class="column22 style9 null"></td>
+                                        <td class="column23 style9 null"></td>
+                                        <td class="column24 style10 null"></td>
+                                        <td class="column25 style2 null"></td>
                                         <td class="column26">&nbsp;</td>
                                         <td class="column27">&nbsp;</td>
                                         <td class="column28">&nbsp;</td>
                                         <td class="column29">&nbsp;</td>
                                         <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row10">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2 style19 null"></td>
-                                        <td class="column3 style19 null"></td>
-                                        <td class="column4 style19 null"></td>
-                                        <td class="column5 style19 null"></td>
-                                        <td class="column6 style21 s style21" colspan="12">Seleccione la opcion a la que
-                                            pertenezca el personal
+                                        <td class="column1 style1 null"></td>
+                                        <td class="column2 style1 null"></td>
+                                        <td class="column3 style1 null"></td>
+                                        <td class="column4 style1 null"></td>
+                                        <td class="column5 style1 null"></td>
+                                        <td class="column6 style1 null"></td>
+                                        <td class="column9 style62 s style62" colspan="3" rowspan="2">CÓDIGO:
+                                            <br />
+                                            OP-MPE/01-02
                                         </td>
-                                        <td class="column18 style140 null"></td>
-                                        <td class="column19 style140 null"></td>
-                                        <td class="column20 style140 null"></td>
-                                        <td class="column21 style140 null"></td>
-                                        <td class="column22 style140 null"></td>
-                                        <td class="column23 style140 null"></td>
-                                        <td class="column24 style19 null"></td>
-                                        <td class="column25">&nbsp;</td>
+                                        <td class="column12 style63 s style63" colspan="3" rowspan="2">
+                                            VERSIÓN:02</td>
+                                        <td class="column15 style62 s style63" colspan="2" rowspan="2">PÁGINA:
+                                            <br />
+                                            Página 1 de 1
+                                        </td>
+                                        <td class="column17 style8 null"></td>
+                                        <td class="column18 style10 null"></td>
+                                        <td class="column19 style10 null"></td>
+                                        <td class="column20 style10 null"></td>
+                                        <td class="column21 style10 null"></td>
+                                        <td class="column22 style10 null"></td>
+                                        <td class="column23 style10 null"></td>
+                                        <td class="column24 style10 null"></td>
+                                        <td class="column25 style2 null"></td>
                                         <td class="column26">&nbsp;</td>
                                         <td class="column27">&nbsp;</td>
                                         <td class="column28">&nbsp;</td>
                                         <td class="column29">&nbsp;</td>
                                         <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row11">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2 style19 null"></td>
-                                        <td class="column3 style19 null"></td>
-                                        <td class="column4 style19 null"></td>
-                                        <td class="column5 style19 null"></td>
-                                        <td class="column6 style22 s style22" colspan="2" rowspan="2">SEGESCRED
-                                        </td>
-                                        <td class="column8 style100 null style100" colspan="2" rowspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" id="checksegescred">
-                                            </div>
-                                        </td>
-                                        <td class="column10 style98 null"></td>
-                                        <td class="column11 style101 null"></td>
-                                        <td class="column12 style22 s style22" colspan="3" rowspan="2">CLIENTE</td>
-                                        <td class="column8 style100 null style100" colspan="2" rowspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" id="checkcliente">
-                                            </div>
-                                        </td>
-                                        <td class="column18 style20 null"></td>
-                                        <td class="column19 style20 null"></td>
-                                        <td class="column20 style20 null"></td>
-                                        <td class="column21 style20 null"></td>
-                                        <td class="column22 style20 null"></td>
-                                        <td class="column23 style20 null"></td>
-                                        <td class="column24 style179 null"></td>
-                                        <td class="column25">&nbsp;</td>
-                                        <td class="column26">&nbsp;</td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row12">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2 style19 null"></td>
-                                        <td class="column3 style19 null"></td>
-                                        <td class="column4 style19 null"></td>
-                                        <td class="column5 style19 null"></td>
-                                        <td class="column10 style98 null"></td>
-                                        <td class="column11 style101 null"></td>
-                                        <td class="column18 style140 null"></td>
-                                        <td class="column19 style140 null"></td>
-                                        <td class="column20 style140 null"></td>
-                                        <td class="column21 style140 null"></td>
-                                        <td class="column22 style140 null"></td>
-                                        <td class="column23 style140 null"></td>
-                                        <td class="column24 style141 null"></td>
-                                        <td class="column25">&nbsp;</td>
-                                        <td class="column26">&nbsp;</td>
-                                        <td class="column27">&nbsp;</td>
-                                        <td class="column28">&nbsp;</td>
-                                        <td class="column29">&nbsp;</td>
-                                        <td class="column30">&nbsp;</td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row13">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3 style23 null"></td>
-                                        <td class="column4 style23 null"></td>
-                                        <td class="column5 style23 null"></td>
-                                        <td class="column6 style24 null"></td>
-                                        <td class="column7 style24 null"></td>
-                                        <td class="column8 style29 null"></td>
-                                        <td class="column9 style29 null"></td>
-                                        <td class="column10 style29 null"></td>
-                                        <td class="column11">&nbsp;</td>
-                                        <td class="column12">&nbsp;</td>
-                                        <td class="column13 style29 null"></td>
-                                        <td class="column14 style29 null"></td>
-                                        <td class="column15 style29 null"></td>
-                                        <td class="column16 style141 null"></td>
-                                        <td class="column17 style141 null"></td>
-                                        <td class="column18 style141 null"></td>
-                                        <td class="column19 style141 null"></td>
-                                        <td class="column20 style141 null"></td>
-                                        <td class="column21 style29 null"></td>
-                                        <td class="column22 style29 null"></td>
-                                        <td class="column23 style29 null"></td>
-                                        <td class="column24 style141 null"></td>
-                                        <td class="column25">&nbsp;</td>
+                                        <td class="column1 style1 null"></td>
+                                        <td class="column2 style1 null"></td>
+                                        <td class="column3 style1 null"></td>
+                                        <td class="column4 style1 null"></td>
+                                        <td class="column5 style1 null"></td>
+                                        <td class="column6 style1 null"></td>
+                                        <td class="column17 style8 null"></td>
+                                        <td class="column18 style2 null"></td>
+                                        <td class="column19 style2 null"></td>
+                                        <td class="column20 style2 null"></td>
+                                        <td class="column21 style2 null"></td>
+                                        <td class="column22 style2 null"></td>
+                                        <td class="column23 style2 null"></td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
                                         <td class="column26">&nbsp;</td>
                                         <td class="column27">&nbsp;</td>
                                         <td class="column28">&nbsp;</td>
@@ -483,1019 +747,1646 @@
                                         <td class="column30">&nbsp;</td>
                                         <td class="column31">&nbsp;</td>
                                         <td class="column32">&nbsp;</td>
-
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row12">
+                                        <td class="column0 style11 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style13 null"></td>
+                                        <td class="column3 style13 null"></td>
+                                        <td class="column4 style13 null"></td>
+                                        <td class="column5 style13 null"></td>
+                                        <td class="column6 style14 null"></td>
+                                        <td class="column7 style14 null"></td>
+                                        <td class="column8 style14 null"></td>
+                                        <td class="column9 style14 null"></td>
+                                        <td class="column10 style14 null"></td>
+                                        <td class="column11">&nbsp;</td>
+                                        <td class="column12 style13 null"></td>
+                                        <td class="column13 style13 null"></td>
+                                        <td class="column14 style13 null"></td>
+                                        <td class="column15 style15 null"></td>
+                                        <td class="column16">&nbsp;</td>
+                                        <td class="column17">&nbsp;</td>
+                                        <td class="column18">&nbsp;</td>
+                                        <td class="column19">&nbsp;</td>
+                                        <td class="column20">&nbsp;</td>
+                                        <td class="column21">&nbsp;</td>
+                                        <td class="column22">&nbsp;</td>
+                                        <td class="column23">&nbsp;</td>
+                                        <td class="column24 style16 null"></td>
+                                        <td class="column25 style17 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row13">
+                                        <td class="column0 style3 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style18 null"></td>
+                                        <td class="column3 style18 null"></td>
+                                        <td class="column4 style18 null"></td>
+                                        <td class="column5 style18 null"></td>
+                                        <td class="column6 style19 null style19" colspan="2"></td>
+                                        <td class="column8 style20 null style20" colspan="6"></td>
+                                        <td class="column14 style18 null"></td>
+                                        <td class="column15 style21 null"></td>
+                                        <td class="column16 style64 s style64" colspan="2">FECHA</td>
+                                        <td class="column18 style65 null style65" colspan="6" id="fechaActual">
+                                        </td>
+                                        <td class="column24 style22 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row14">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4 style25 null"></td>
-                                        <td class="column5 style26 s style26" colspan="2">SEMANA</td>
-                                        <td class="column7 style27 s style27" colspan="2"># EMPLEADO</td>
-                                        <td class="column9 style27 s style27" colspan="9">NOMBRE(Apellido Paterno,
-                                            Materno
-                                            Nombre(S)</td>
-                                        <td class="column18 style142 s" colspan="4">FECHA DE INGRESO</td>
-                                        <td class="column24 style26 s" colspan="5">FECHA DE BAJA</td>
-                                        <td class="column27 style181 null"></td>
-                                        <td class="column28 style181 null"></td>
+                                        <td class="column1 style1 null"></td>
+                                        <td class="column2 style18 null"></td>
+                                        <td class="column3 style18 null"></td>
+                                        <td class="column4 style18 null"></td>
+                                        <td class="column5 style18 null"></td>
+                                        <td class="column6 style23 null"></td>
+                                        <td class="column7 style23 null"></td>
+                                        <td class="column8 style23 null"></td>
+                                        <td class="column9 style23 null"></td>
+                                        <td class="column10 style23 null"></td>
+                                        <td class="column11 style1 null"></td>
+                                        <td class="column12 style18 null"></td>
+                                        <td class="column13 style18 null"></td>
+                                        <td class="column14 style18 null"></td>
+                                        <td class="column15 style24 null"></td>
+                                        <td class="column16 style24 null"></td>
+                                        <td class="column17 style24 null"></td>
+                                        <td class="column18 style25 null"></td>
+                                        <td class="column19 style25 null"></td>
+                                        <td class="column20 style25 null"></td>
+                                        <td class="column21 style25 null"></td>
+                                        <td class="column22 style25 null"></td>
+                                        <td class="column23 style25 null"></td>
+                                        <td class="column24 style22 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
                                         <td class="column29">&nbsp;</td>
                                         <td class="column30">&nbsp;</td>
                                         <td class="column31">&nbsp;</td>
                                         <td class="column32">&nbsp;</td>
-
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row15">
                                         <td class="column0">&nbsp;</td>
                                         <td class="column1 style1 null"></td>
                                         <td class="column2">&nbsp;</td>
                                         <td class="column3">&nbsp;</td>
-                                        <td class="column4 style25 null"></td>
-                                        <td class="column5 style28 null style28" colspan="2" rowspan="2"
-                                            id="currentweek"></td>
-                                        <td class="column7 style28 null style28" colspan="2" rowspan="2"
-                                            id="idempleado"></td>
-                                        <td class="column9 style28 null style28" colspan="9" rowspan="2"
-                                            id="nombrecompleto"></td>
-                                        <td class="column18 style33 s style33" colspan="2">DIA</td>
-                                        <td class="column20 style33 s">MES</td>
-                                        <td class="column21 style143 s">AÑO</td>
-                                        <td class="column22 style143 s style144" colspan="2">DIA</td>
-                                        <td class="column24 style143 s style144" colspan="2">MES</td>
-                                        <td class="column26 style143 s">AÑO</td>
-                                        <td class="column27 style21 null"></td>
-                                        <td class="column28 style149 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column4">&nbsp;</td>
+                                        <td class="column5 style18 null"></td>
+                                        <td class="column6 style26 s style26" colspan="8">Seleccione una opcion</td>
+                                        <td class="column14 style1 null"></td>
+                                        <td class="column15 style1 null"></td>
+                                        <td class="column16 style1 null"></td>
+                                        <td class="column17 style1 null"></td>
+                                        <td class="column18 style1 null"></td>
+                                        <td class="column19 style1 null"></td>
+                                        <td class="column20 style1 null"></td>
+                                        <td class="column21 style1 null"></td>
+                                        <td class="column22 style1 null"></td>
+                                        <td class="column23 style1 null"></td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row16">
                                         <td class="column0">&nbsp;</td>
                                         <td class="column1 style1 null"></td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4 style25 null"></td>
-                                        <td class="column18 style145 null style146" colspan="2" id="diaingreso"></td>
-                                        <td class="column20 style57 null" id="mesingreso"></td>
-                                        <td class="column21 style57 null" id="anoingreso"></td>
-                                        <td class="column22 style145 null style146" colspan="2" id="diabaja"></td>
-                                        <td class="column24 style145 null style146" colspan="2" id="mesbaja"></td>
-                                        <td class="column26 style145 null" id="anobaja"></td>
-                                        <td class="column27 style182 null"></td>
-                                        <td class="column28 style182 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column2 style21 null"></td>
+                                        <td class="column3 style21 null"></td>
+                                        <td class="column4 style21 null"></td>
+                                        <td class="column5 style9 null"></td>
+                                        <td class="column6 style64 s style64" colspan="2" rowspan="2">BE Group
+                                        </td>
+                                        <td class="column8 style66 null style66" colspan="2" rowspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column10 style9 null"></td>
+                                        <td class="column11 style2 null"></td>
+                                        <td class="column12 style64 s style64" colspan="3" rowspan="2">CLIENTE
+                                        </td>
+                                        <td class="column15 style66 null style66" colspan="3" rowspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column18 style18 null"></td>
+                                        <td class="column19 style18 null"></td>
+                                        <td class="column20 style18 null"></td>
+                                        <td class="column21 style18 null"></td>
+                                        <td class="column22 style18 null"></td>
+                                        <td class="column23 style18 null"></td>
+                                        <td class="column24 style27 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row17">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2 style29 null"></td>
-                                        <td class="column3 style29 null"></td>
-                                        <td class="column4 style29 null"></td>
-                                        <td class="column5 style29 null"></td>
-                                        <td class="column6 style29 null"></td>
-                                        <td class="column7 style29 null"></td>
-                                        <td class="column8 style29 null"></td>
-                                        <td class="column9 style29 null"></td>
-                                        <td class="column10 style29 null"></td>
-                                        <td class="column11 style29 null"></td>
-                                        <td class="column12 style23 null"></td>
-                                        <td class="column13 style23 null"></td>
-                                        <td class="column14 style29 null"></td>
-                                        <td class="column15 style29 null"></td>
-                                        <td class="column16 style29 null"></td>
-                                        <td class="column17 style29 null"></td>
-                                        <td class="column18 style29 null"></td>
-                                        <td class="column19 style29 null"></td>
-                                        <td class="column20 style29 null"></td>
-                                        <td class="column21 style29 null"></td>
-                                        <td class="column22 style29 null"></td>
-                                        <td class="column23 style29 null"></td>
-                                        <td class="column24 style29 null"></td>
-                                        <td class="column25">&nbsp;</td>
+                                        <td class="column1 style1 null"></td>
+                                        <td class="column2 style21 null"></td>
+                                        <td class="column3 style21 null"></td>
+                                        <td class="column4 style21 null"></td>
+                                        <td class="column5 style9 null"></td>
+                                        <td class="column10 style9 null"></td>
+                                        <td class="column11 style2 null"></td>
+                                        <td class="column18 style1 null"></td>
+                                        <td class="column19 style1 null"></td>
+                                        <td class="column20 style1 null"></td>
+                                        <td class="column21 style1 null"></td>
+                                        <td class="column22 style1 null"></td>
+                                        <td class="column23 style1 null"></td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
                                         <td class="column26">&nbsp;</td>
-                                        <td class="column27 style6 null"></td>
+                                        <td class="column27">&nbsp;</td>
                                         <td class="column28">&nbsp;</td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row18">
                                         <td class="column0">&nbsp;</td>
                                         <td class="column1">&nbsp;</td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style30 null"></td>
-                                        <td class="column4 style31 s style31" colspan="26">Seleccione una opcion por la
-                                            cual
-                                            se realiza el
-                                            movimiento</td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column2">&nbsp;</td>
+                                        <td class="column3 style28 null style28" colspan="3"></td>
+                                        <td class="column6 style29 null"></td>
+                                        <td class="column7 style29 null"></td>
+                                        <td class="column8 style30 null style30" colspan="3"></td>
+                                        <td class="column11 style2 null"></td>
+                                        <td class="column12">&nbsp;</td>
+                                        <td class="column13 style30 null style30" colspan="3"></td>
+                                        <td class="column16 style31 null"></td>
+                                        <td class="column17 style31 null"></td>
+                                        <td class="column18 style31 null"></td>
+                                        <td class="column19 style31 null"></td>
+                                        <td class="column20 style31 null"></td>
+                                        <td class="column21 style30 null style30" colspan="3"></td>
+                                        <td class="column24 style32 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row19">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style32 null"></td>
-                                        <td class="column2 style32 null"></td>
-                                        <td class="column3 style32 null"></td>
-                                        <td class="column4 style26 s style26" colspan="4">ALTA</td>
-                                        <td class="column8 style26 s style26" colspan="7">CAMBIO POR</td>
-                                        <td class="column15 style26 s style26" colspan="5">PERMISO</td>
-                                        <td class="column20 style26 s style26" colspan="8">BAJA POR</td>
-                                        <td class="column28 style26 s style26" colspan="2">CAMBIO DE SALARIO</td>
-                                        <td class="column30 style5 null"></td>
-                                        <td class="column31 style5 null"></td>
-                                        <td class="column32">&nbsp;</td>
-
+                                        <td class="column0 style33 null"></td>
+                                        <td class="column1 style33 null"></td>
+                                        <td class="column2 style67 s style67" colspan="2">SEMANA</td>
+                                        <td class="column4 style68 s style68" colspan="2"># EMPLEADO</td>
+                                        <td class="column6 style67 s style67" colspan="6">NOMBRE(Apellido Paterno,
+                                            Materno Nombre(S)</td>
+                                        <td class="column12 style67 s style67" colspan="6">FECHA DE INGRESO</td>
+                                        <td class="column18 style67 s style67" colspan="6">FECHA DE BAJA</td>
+                                        <td class="column24 style34 null"></td>
+                                        <td class="column25 style35 null"></td>
+                                        <td class="column26 style33 null"></td>
+                                        <td class="column27 style33 null"></td>
+                                        <td class="column28 style33 null"></td>
+                                        <td class="column29 style33 null"></td>
+                                        <td class="column30 style33 null"></td>
+                                        <td class="column31 style33 null"></td>
+                                        <td class="column32 style33 null"></td>
+                                        <td class="column33 style33 null"></td>
+                                        <td class="column34 style33 null"></td>
+                                        <td class="column35 style33 null"></td>
+                                        <td class="column36 style33 null"></td>
+                                        <td class="column37 style33 null"></td>
+                                        <td class="column38 style33 null"></td>
+                                        <td class="column39 style33 null"></td>
+                                        <td class="column40 style33 null"></td>
+                                        <td class="column41 style33 null"></td>
+                                        <td class="column42 style33 null"></td>
+                                        <td class="column43 style33 null"></td>
+                                        <td class="column44 style33 null"></td>
+                                        <td class="column45 style33 null"></td>
+                                        <td class="column46 style33 null"></td>
+                                        <td class="column47 style33 null"></td>
+                                        <td class="column48 style33 null"></td>
+                                        <td class="column49 style33 null"></td>
+                                        <td class="column50 style33 null"></td>
+                                        <td class="column51 style33 null"></td>
+                                        <td class="column52 style33 null"></td>
+                                        <td class="column53 style33 null"></td>
+                                        <td class="column54 style33 null"></td>
+                                        <td class="column55 style33 null"></td>
+                                        <td class="column56 style33 null"></td>
+                                        <td class="column57 style33 null"></td>
+                                        <td class="column58 style33 null"></td>
+                                        <td class="column59 style33 null"></td>
+                                        <td class="column60 style33 null"></td>
+                                        <td class="column61 style33 null"></td>
+                                        <td class="column62 style33 null"></td>
+                                        <td class="column63 style33 null"></td>
+                                        <td class="column64 style33 null"></td>
+                                        <td class="column65 style33 null"></td>
+                                        <td class="column66 style33 null"></td>
+                                        <td class="column67 style33 null"></td>
+                                        <td class="column68 style33 null"></td>
+                                        <td class="column69 style33 null"></td>
+                                        <td class="column70 style33 null"></td>
+                                        <td class="column71 style33 null"></td>
+                                        <td class="column72 style33 null"></td>
+                                        <td class="column73 style33 null"></td>
+                                        <td class="column74 style33 null"></td>
+                                        <td class="column75 style33 null"></td>
+                                        <td class="column76 style33 null"></td>
+                                        <td class="column77 style33 null"></td>
+                                        <td class="column78 style33 null"></td>
+                                        <td class="column79 style33 null"></td>
+                                        <td class="column80 style33 null"></td>
+                                        <td class="column81 style33 null"></td>
+                                        <td class="column82 style33 null"></td>
+                                        <td class="column83 style33 null"></td>
+                                        <td class="column84 style33 null"></td>
+                                        <td class="column85 style33 null"></td>
+                                        <td class="column86 style33 null"></td>
+                                        <td class="column87 style33 null"></td>
+                                        <td class="column88 style33 null"></td>
+                                        <td class="column89 style33 null"></td>
+                                        <td class="column90 style33 null"></td>
+                                        <td class="column91 style33 null"></td>
+                                        <td class="column92 style33 null"></td>
+                                        <td class="column93 style33 null"></td>
+                                        <td class="column94 style33 null"></td>
                                     </tr>
                                     <tr class="row20">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style32 null"></td>
-                                        <td class="column2 style32 null"></td>
-                                        <td class="column3 style32 null"></td>
-                                        <td class="column4 style33 s style33" colspan="2" rowspan="2">INGRESO</td>
-                                        <td class="column6 style33 s style33" colspan="2" rowspan="2">REINGRESO
-                                        </td>
-                                        <td class="column8 style47 s style47" colspan="2" rowspan="2">PROMOCION
-                                        </td>
-                                        <td class="column10 style47 s style47" colspan="2" rowspan="2">TIPO DE
-                                            NOMINA
-                                        </td>
-                                        <td class="column12 style47 s style47" colspan="3" rowspan="2">
-                                            TRANSFERENCIA
-                                        </td>
-                                        <td class="column15 style47 s style47" colspan="2" rowspan="2">C/GOCE DE
-                                            SUELDO
-                                        </td>
-                                        <td class="column17 style47 s style47" colspan="3" rowspan="2">S/GOCE DE
-                                            SUELDO
-                                        </td>
-                                        <td class="column20 style33 s style33" colspan="2" rowspan="2">RENUNCIA
-                                        </td>
-                                        <td class="column22 style47 s style47" colspan="4" rowspan="2">TERMINACION
-                                            DE
-                                            CONTRATO</td>
-                                        <td class="column26 style33 s style33" colspan="2" rowspan="2">OTROS</td>
-                                        <td class="column28 style183 null style184" colspan="2" rowspan="3">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style69 null style69" colspan="2" rowspan="2"
+                                            id="currentweek"></td>
+                                        <td class="column4 style69 null style69" colspan="2" rowspan="2">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp" id="idempleado"
+                                                    placeholder="Escribe aquí">
                                             </div>
                                         </td>
-                                        <td class="column30 style6 null"></td>
-                                        <td class="column31 style6 null"></td>
+                                        <td class="column6 style69 null style69" colspan="6" rowspan="2">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp" id="nombrecompleto"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column12 style70 s style70" colspan="2">DIA</td>
+                                        <td class="column14 style70 s style70" colspan="2">MES</td>
+                                        <td class="column16 style70 s style70" colspan="2">AÑO</td>
+                                        <td class="column18 style70 s style70" colspan="2">DIA</td>
+                                        <td class="column20 style70 s style70" colspan="2">MES</td>
+                                        <td class="column22 style70 s style70" colspan="2">AÑO</td>
+                                        <td class="column24 style37 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
                                         <td class="column32">&nbsp;</td>
-
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row21">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style32 null"></td>
-                                        <td class="column2 style32 null"></td>
-                                        <td class="column3 style32 null"></td>
-                                        <td class="column30 style6 null"></td>
-                                        <td class="column31 style6 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column12 style71 null style71" colspan="2" id="diaingreso"></td>
+                                        <td class="column14 style71 null style71" colspan="2" id="mesingreso"></td>
+                                        <td class="column16 style71 null style71" colspan="2" id="anoingreso"></td>
+                                        <td class="column18 style72 null style72" colspan="2" id="diabaja"></td>
+                                        <td class="column20 style72 null style72" colspan="2" id="mesbaja"></td>
+                                        <td class="column22 style72 null style72" colspan="2" id="anobaja"></td>
+                                        <td class="column24 style38 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
                                         <td class="column32">&nbsp;</td>
-
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row22">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style32 null"></td>
-                                        <td class="column2 style32 null"></td>
-                                        <td class="column3 style32 null"></td>
-                                        <td class="column4 style34 null style34" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column6 style35 null style36" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column8 style35 null style36" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column10 style35 null style36" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column12 style35 null style36" colspan="3">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column15 style34 null style34" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column17 style147 null style147" colspan="3">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column20 style147 null style147" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column22 style147 null style147" colspan="4">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column26 style147 s style147" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column30 style42 null"></td>
-                                        <td class="column31 style42 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style31 null"></td>
+                                        <td class="column3 style31 null"></td>
+                                        <td class="column4 style31 null"></td>
+                                        <td class="column5 style31 null"></td>
+                                        <td class="column6 style31 null"></td>
+                                        <td class="column7 style31 null"></td>
+                                        <td class="column8 style31 null"></td>
+                                        <td class="column9 style31 null"></td>
+                                        <td class="column10 style31 null"></td>
+                                        <td class="column11 style31 null"></td>
+                                        <td class="column12 style29 null"></td>
+                                        <td class="column13 style29 null"></td>
+                                        <td class="column14 style31 null"></td>
+                                        <td class="column15 style31 null"></td>
+                                        <td class="column16 style31 null"></td>
+                                        <td class="column17 style31 null"></td>
+                                        <td class="column18 style31 null"></td>
+                                        <td class="column19 style31 null"></td>
+                                        <td class="column20 style31 null"></td>
+                                        <td class="column21 style31 null"></td>
+                                        <td class="column22 style31 null"></td>
+                                        <td class="column23 style31 null"></td>
+                                        <td class="column24 style32 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
                                         <td class="column32">&nbsp;</td>
-
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row23">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style32 null"></td>
-                                        <td class="column2 style32 null"></td>
-                                        <td class="column3 style32 null"></td>
-                                        <td class="column4 style37 null"></td>
-                                        <td class="column5 style37 null"></td>
-                                        <td class="column6 style38 null"></td>
-                                        <td class="column7 style38 null"></td>
-                                        <td class="column8 style38 null"></td>
-                                        <td class="column9 style37 null"></td>
-                                        <td class="column10 style37 null"></td>
-                                        <td class="column11 style37 null"></td>
-                                        <td class="column12 style37 null"></td>
-                                        <td class="column13 style37 null"></td>
-                                        <td class="column14 style37 null"></td>
-                                        <td class="column15 style37 null"></td>
-                                        <td class="column16 style37 null"></td>
-                                        <td class="column17 style37 null"></td>
-                                        <td class="column18 style37 null"></td>
-                                        <td class="column19 style37 null"></td>
-                                        <td class="column20 style148 null"></td>
-                                        <td class="column21 style148 null"></td>
-                                        <td class="column22 style148 null"></td>
-                                        <td class="column23 style148 null"></td>
-                                        <td class="column24 style148 null"></td>
-                                        <td class="column25 style149 null"></td>
-                                        <td class="column26 style149 null"></td>
-                                        <td class="column27 style185 null"></td>
-                                        <td class="column28 style149 null"></td>
-                                        <td class="column29 style149 null"></td>
-                                        <td class="column30 style185 null"></td>
-                                        <td class="column31 style185 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style39 s">Seleccione una opcion</td>
+                                        <td class="column3 style15 null"></td>
+                                        <td class="column4 style15 null"></td>
+                                        <td class="column5 style15 null"></td>
+                                        <td class="column6 style15 null"></td>
+                                        <td class="column7 style15 null"></td>
+                                        <td class="column8 style15 null"></td>
+                                        <td class="column9 style15 null"></td>
+                                        <td class="column10 style15 null"></td>
+                                        <td class="column11 style15 null"></td>
+                                        <td class="column12 style15 null"></td>
+                                        <td class="column13 style15 null"></td>
+                                        <td class="column14 style15 null"></td>
+                                        <td class="column15 style15 null"></td>
+                                        <td class="column16 style15 null"></td>
+                                        <td class="column17 style15 null"></td>
+                                        <td class="column18 style15 null"></td>
+                                        <td class="column19 style15 null"></td>
+                                        <td class="column20 style15 null"></td>
+                                        <td class="column21 style15 null"></td>
+                                        <td class="column22 style15 null"></td>
+                                        <td class="column23 style15 null"></td>
+                                        <td class="column24 style40 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row24">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style39 s style39" colspan="15">Datos que deben ser llenados
-                                            por
-                                            el responsable del
-                                            area</td>
-                                        <td class="column17 style149 null"></td>
-                                        <td class="column18 style149 null"></td>
-                                        <td class="column19 style149 null"></td>
-                                        <td class="column20 style149 null"></td>
-                                        <td class="column21 style149 null"></td>
-                                        <td class="column22 style149 null"></td>
-                                        <td class="column23 style149 null"></td>
-                                        <td class="column24 style149 null"></td>
-                                        <td class="column25 style149 null"></td>
-                                        <td class="column26 style149 null"></td>
-                                        <td class="column27 style185 null"></td>
-                                        <td class="column28 style149 null"></td>
-                                        <td class="column29 style149 null"></td>
-                                        <td class="column30 style185 null"></td>
-                                        <td class="column31 style185 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column0 style41 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style64 s style64" colspan="4">ALTA</td>
+                                        <td class="column6 style64 s style64" colspan="3">CAMBIO POR</td>
+                                        <td class="column9 style64 s style64" colspan="5">PERMISO</td>
+                                        <td class="column14 style64 s style64" colspan="6">BAJA POR</td>
+                                        <td class="column20 style64 s style64" colspan="4">CAMBIO DE SALARIO</td>
+                                        <td class="column24 style42 null"></td>
+                                        <td class="column25 style27 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row25">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style40 s style40" colspan="3">CONCEPTO</td>
-                                        <td class="column5 style41 s style41" colspan="4">CONDICIONES ACTUALES (LLENAR
-                                            EN
-                                            CAMBIOS Y BAJAS)</td>
-                                        <td class="column9 style104 s style105" colspan="8">ALTAS O NUEVAS CONDICIONES
+                                        <td class="column0 style43 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style73 s style73" colspan="2" rowspan="2">INGRESO
                                         </td>
-                                        <td class="column17 style150 null"></td>
-                                        <td class="column18 style150 null"></td>
-                                        <td class="column19 style151 s style151" colspan="12">En caso de baja anote el
-                                            motivo</td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column4 style73 s style73" colspan="2" rowspan="2">REINGRESO
+                                        </td>
+                                        <td class="column6 style74 s style74" rowspan="2">PROMOCION</td>
+                                        <td class="column7 style74 s style74" rowspan="2">TIPO DE NOMINA</td>
+                                        <td class="column8 style74 s style74" rowspan="2">TRANSFERENCIA</td>
+                                        <td class="column9 style74 s style74" colspan="2" rowspan="2">C/GOCE DE
+                                            SUELDO</td>
+                                        <td class="column11 style74 s style74" colspan="3" rowspan="2">S/GOCE DE
+                                            SUELDO</td>
+                                        <td class="column14 style73 s style73" colspan="2" rowspan="2">RENUNCIA
+                                        </td>
+                                        <td class="column16 style75 s style75" colspan="2" rowspan="2">
+                                            TERMINACION DE CONTRATO</td>
+                                        <td class="column18 style73 s style73" colspan="2" rowspan="2">OTROS
+                                        </td>
+                                        <td class="column20 style76 null style76" colspan="4" rowspan="3">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style45 null"></td>
+                                        <td class="column25 style46 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row26">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style42 null"></td>
-                                        <td class="column2 style43 s style43" colspan="3">PUESTO</td>
-                                        <td class="column5 style44 null style106" colspan="4" id="puesto"></td>
-                                        <td class="column9 style44 null style45" colspan="8">
-                                            <input type="text" class="form-control"
-                                                placeholder="Escribe aquí..."id="area">
-                                        </td>
-                                        <td class="column17 style152 null"></td>
-                                        <td class="column18 style152 null"></td>
-                                        <td class="column19 style153 null style153" colspan="12" rowspan="5">
-                                            <textarea class="form-control" rows="5" placeholder="Escribe aquí..." id="causabaja"></textarea>
-                                        </td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style42 null"></td>
-
+                                        <td class="column0 style43 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style45 null"></td>
+                                        <td class="column25 style46 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row27">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style42 null"></td>
-                                        <td class="column2 style43 s style43" colspan="3">AREA</td>
-                                        <td class="column5 style44 null style106" colspan="4">
-                                            <input type="text" class="form-control" placeholder="Escribe aquí..."
-                                                id="area">
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style77 null style77" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
                                         </td>
-                                        <td class="column9 style44 null style45" colspan="8">
-                                            <input type="text" class="form-control" placeholder="Escribe aquí..."
-                                                id="area">
+                                        <td class="column4 style77 null style77" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
                                         </td>
-                                        <td class="column17 style152 null"></td>
-                                        <td class="column18 style152 null"></td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style42 null"></td>
-
+                                        <td class="column6 style78 null">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column7 style78 null">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column8 style78 null">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column9 style77 null style77" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column11 style77 null style77" colspan="3">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column14 style77 null style77" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column16 style77 null style77" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column18 style79 null style79" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style45 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row28">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style42 null"></td>
-                                        <td class="column2 style43 s style43" colspan="3">CONTRATO</td>
-                                        <td class="column5 style44 null style106" colspan="4"></td>
-                                        <td class="column9 style44 null style45" colspan="8">
-                                            <input type="text" class="form-control" placeholder="Escribe aquí..."
-                                                id="area">
-                                        </td>
-                                        <td class="column17 style152 null"></td>
-                                        <td class="column18 style152 null"></td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style42 null"></td>
-
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style47 null"></td>
+                                        <td class="column3 style47 null"></td>
+                                        <td class="column4 style47 null"></td>
+                                        <td class="column5 style47 null"></td>
+                                        <td class="column6 style13 null"></td>
+                                        <td class="column7 style13 null"></td>
+                                        <td class="column8 style13 null"></td>
+                                        <td class="column9 style47 null"></td>
+                                        <td class="column10 style47 null"></td>
+                                        <td class="column11 style47 null"></td>
+                                        <td class="column12 style47 null"></td>
+                                        <td class="column13 style47 null"></td>
+                                        <td class="column14 style47 null"></td>
+                                        <td class="column15 style47 null"></td>
+                                        <td class="column16 style47 null"></td>
+                                        <td class="column17 style47 null"></td>
+                                        <td class="column18 style47 null"></td>
+                                        <td class="column19 style47 null"></td>
+                                        <td class="column20 style48 null"></td>
+                                        <td class="column21 style48 null"></td>
+                                        <td class="column22 style48 null"></td>
+                                        <td class="column23 style48 null"></td>
+                                        <td class="column24 style45 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row29">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style42 null"></td>
-                                        <td class="column2 style43 s style43" colspan="3">PREDIO</td>
-                                        <td class="column5 style44 null style106" colspan="4" id="predio"></td>
-                                        <td class="column9 style44 null style45" colspan="8">
-                                            <input type="text" class="form-control" placeholder="Escribe aquí..."
-                                                id="area">
-                                        </td>
-                                        <td class="column17 style152 null"></td>
-                                        <td class="column18 style152 null"></td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style42 null"></td>
-
-                                    </tr>
-                                    <tr class="row30">
-                                        <td class="column0 style7 null"></td>
-                                        <td class="column1 style46 null"></td>
-                                        <td class="column2 style43 s style43" colspan="3" rowspan="2">SUELDO</td>
-                                        <td class="column5 style47 s style47" colspan="2" rowspan="2">ESPECIFICAR
-                                            DE
-                                            ACUERDO AL TIPO DE
-                                            NOMINA</td>
-                                        <td class="column7 style48 s">FIJO</td>
-                                        <td class="column8 style48 s">VARIABLE</td>
-                                        <td class="column9 style107 s style108" colspan="2">AUMENTO</td>
-                                        <td class="column11 style107 s style108" colspan="2">EMPLEADO</td>
-                                        <td class="column13 style107 s style108" colspan="2">FIJO</td>
-                                        <td class="column15 style107 s style154" colspan="2">VARIABLE</td>
-                                        <td class="column17 style149 null"></td>
-                                        <td class="column18 style149 null"></td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row31">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column7 style49 null">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column8 style49 null">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column9 style109 null style110" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column11 style109 null style110" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column13 style111 null style112" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column15 style113 null style155" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column17 style156 null"></td>
-                                        <td class="column18 style156 null"></td>
-                                        <td class="column19 style156 null"></td>
-                                        <td class="column20 style156 null"></td>
-                                        <td class="column21 style157 null"></td>
-                                        <td class="column22 style157 null"></td>
-                                        <td class="column23 style157 null"></td>
-                                        <td class="column24 style186 null"></td>
-                                        <td class="column25 style149 null"></td>
-                                        <td class="column26 style149 null"></td>
-                                        <td class="column27 style149 null"></td>
-                                        <td class="column28 style149 null"></td>
-                                        <td class="column29 style149 null"></td>
-                                        <td class="column30 style149 null"></td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row32">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style1 null"></td>
-                                        <td class="column6 style1 null"></td>
-                                        <td class="column7 style1 null"></td>
-                                        <td class="column8 style1 null"></td>
-                                        <td class="column9 style1 null"></td>
-                                        <td class="column10 style1 null"></td>
-                                        <td class="column11 style1 null"></td>
-                                        <td class="column12 style1 null"></td>
-                                        <td class="column13 style1 null"></td>
-                                        <td class="column14 style1 null"></td>
-                                        <td class="column15 style1 null"></td>
-                                        <td class="column16 style1 null"></td>
-                                        <td class="column17 style149 null"></td>
-                                        <td class="column18 style149 null"></td>
-                                        <td class="column19 style149 null"></td>
-                                        <td class="column20 style149 null"></td>
-                                        <td class="column21 style149 null"></td>
-                                        <td class="column22 style149 null"></td>
-                                        <td class="column23 style149 null"></td>
-                                        <td class="column24 style149 null"></td>
-                                        <td class="column25 style149 null"></td>
-                                        <td class="column26 style149 null"></td>
-                                        <td class="column27 style149 null"></td>
-                                        <td class="column28 style149 null"></td>
-                                        <td class="column29 style149 null"></td>
-                                        <td class="column30 style149 null"></td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row33">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style1 null"></td>
-                                        <td class="column6 style1 null"></td>
-                                        <td class="column7 style1 null"></td>
-                                        <td class="column8 style1 null"></td>
-                                        <td class="column9 style1 null"></td>
-                                        <td class="column10 style1 null"></td>
-                                        <td class="column11 style1 null"></td>
-                                        <td class="column12 style1 null"></td>
-                                        <td class="column13 style1 null"></td>
-                                        <td class="column14 style1 null"></td>
-                                        <td class="column15 style1 null"></td>
-                                        <td class="column16 style1 null"></td>
-                                        <td class="column17 style149 null"></td>
-                                        <td class="column18 style149 null"></td>
-                                        <td class="column19 style149 null"></td>
-                                        <td class="column20 style149 null"></td>
-                                        <td class="column21 style149 null"></td>
-                                        <td class="column22 style149 null"></td>
-                                        <td class="column23 style149 null"></td>
-                                        <td class="column24 style149 null"></td>
-                                        <td class="column25 style149 null"></td>
-                                        <td class="column26 style149 null"></td>
-                                        <td class="column27 style149 null"></td>
-                                        <td class="column28 style149 null"></td>
-                                        <td class="column29 style149 null"></td>
-                                        <td class="column30 style149 null"></td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row34">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style50 s style50" colspan="15">Datos de afiliacion deben
-                                            ser
-                                            llenados por
-                                            Reclutamiento y Selección</td>
-                                        <td class="column17 style158 null"></td>
-                                        <td class="column18 style158 null"></td>
-                                        <td class="column19 style158 null"></td>
-                                        <td class="column20 style158 null"></td>
-                                        <td class="column21 style158 null"></td>
-                                        <td class="column22 style158 null"></td>
-                                        <td class="column23 style158 null"></td>
-                                        <td class="column24 style187 null"></td>
-                                        <td class="column25 style187 null"></td>
-                                        <td class="column26 style187 null"></td>
-                                        <td class="column27 style187 null"></td>
-                                        <td class="column28 style187 null"></td>
-                                        <td class="column29 style149 null"></td>
-                                        <td class="column30 style149 null"></td>
-                                        <td class="column31 style149 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row35">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style51 s style51" colspan="15">DOMICILIO Y TELEFONO</td>
-                                        <td class="column17 style51 s style51" colspan="5">No. DE INFONAVIT</td>
-                                        <td class="column22 style51 s style51" colspan="7">REGISTRO FEDERAL DE
-                                            CONTRIBUYENTES</td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row36">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style28 null style28" colspan="15" rowspan="3"
-                                            id="domicilioytelefono"></td>
-                                        <td class="column17 style159 s style159" colspan="5" rowspan="3"></td>
-                                        <td class="column22 style160 null style160" colspan="7" rowspan="3"
-                                            id="rfc"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row37">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row38">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row39">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style52 s style53" colspan="27">DOMICILIO Y TELEFONO FISCAL
-                                        </td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row40">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style54 null style55" colspan="27" rowspan="3"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row41">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row42">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row43">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style1 null"></td>
-                                        <td class="column6 style1 null"></td>
-                                        <td class="column7 style1 null"></td>
-                                        <td class="column8 style1 null"></td>
-                                        <td class="column9 style1 null"></td>
-                                        <td class="column10 style1 null"></td>
-                                        <td class="column11 style1 null"></td>
-                                        <td class="column12 style1 null"></td>
-                                        <td class="column13 style1 null"></td>
-                                        <td class="column14 style1 null"></td>
-                                        <td class="column15 style1 null"></td>
-                                        <td class="column16 style1 null"></td>
-                                        <td class="column17 style1 null"></td>
-                                        <td class="column18 style1 null"></td>
-                                        <td class="column19 style1 null"></td>
-                                        <td class="column20 style1 null"></td>
-                                        <td class="column21 style1 null"></td>
-                                        <td class="column22 style1 null"></td>
-                                        <td class="column23 style1 null"></td>
-                                        <td class="column24 style188 null"></td>
-                                        <td class="column25 style189 null"></td>
-                                        <td class="column26 style1 null"></td>
-                                        <td class="column27 style1 null"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row44">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style1 null"></td>
-                                        <td class="column6 style56 s style56" colspan="2" rowspan="2">PLANTA
-                                        </td>
-                                        <td class="column8 style56 s style56" colspan="3" rowspan="2">EVENTUAL
-                                        </td>
-                                        <td class="column11 style51 s style51" colspan="2">SEXO</td>
-                                        <td class="column13 style56 s style56" colspan="3">HAND KEY</td>
-                                        <td class="column16 style161 s style161" colspan="3">NACIONALIDAD</td>
-                                        <td class="column19 style51 s style51" colspan="4">FECHA DE NACIMIENTO</td>
-                                        <td class="column23 style162 s style191" colspan="5">C.U.R.P.</td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row45">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style1 null"></td>
-                                        <td class="column11 style33 s style33" rowspan="2">M</td>
-                                        <td class="column12 style33 s style33" rowspan="2">F</td>
-                                        <td class="column13 style33 s style33" rowspan="2">SI</td>
-                                        <td class="column14 style33 s style33" colspan="2" rowspan="2">NO</td>
-                                        <td class="column16 style57 s style57" colspan="3" rowspan="3">MEXICANA
-                                        </td>
-                                        <td class="column19 style33 s style33" rowspan="2">DIA</td>
-                                        <td class="column20 style33 s style33" colspan="2" rowspan="2">MES</td>
-                                        <td class="column22 style33 s style33" rowspan="2">AÑO</td>
-                                        <td class="column23 style57 null style57" colspan="5" rowspan="3"
-                                            id="curp"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row46">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style1 null"></td>
-                                        <td class="column6 style57 null style57" colspan="2" rowspan="2"></td>
-                                        <td class="column8 style57 null style57" colspan="3" rowspan="2"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row47">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style1 null"></td>
-                                        <td class="column11 style57 null">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column12 style57 null">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column13 style114 null">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column14 style115 null style116" colspan="2">
-                                            <div class="form-check">
-                                                <input class="form-check-input" type="checkbox">
-                                            </div>
-                                        </td>
-                                        <td class="column19 style57 null" id="dianac"></td>
-                                        <td class="column20 style57 null style57" colspan="2" id="mesnac"></td>
-                                        <td class="column22 style57 null" id="anonac"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style192 null"></td>
-                                        <td class="column32 style192 null"></td>
-                                        <td class="column33 style195 null"></td>
-                                        <td class="column34 style195 null"></td>
-                                        <td class="column35 style195 null"></td>
-                                        <td class="column36 style195 null"></td>
-                                        <td class="column37 style195 null"></td>
-                                    </tr>
-                                    <tr class="row48">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style1 null"></td>
-                                        <td class="column6 style1 null"></td>
-                                        <td class="column7 style1 null"></td>
-                                        <td class="column8 style1 null"></td>
-                                        <td class="column9 style1 null"></td>
-                                        <td class="column10 style1 null"></td>
-                                        <td class="column11 style1 null"></td>
-                                        <td class="column12 style1 null"></td>
-                                        <td class="column13 style1 null"></td>
-                                        <td class="column14 style1 null"></td>
-                                        <td class="column15 style1 null"></td>
-                                        <td class="column16 style1 null"></td>
-                                        <td class="column17 style1 null"></td>
-                                        <td class="column18 style1 null"></td>
-                                        <td class="column19 style1 null"></td>
-                                        <td class="column20 style1 null"></td>
-                                        <td class="column21 style1 null"></td>
-                                        <td class="column22 style1 null"></td>
-                                        <td class="column23 style1 null"></td>
-                                        <td class="column24 style193 null"></td>
-                                        <td class="column25 style189 null"></td>
-                                        <td class="column26 style1 null"></td>
-                                        <td class="column27 style1 null"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style192 null"></td>
-                                        <td class="column32 style192 null"></td>
-                                        <td class="column33 style195 null"></td>
-                                        <td class="column34 style195 null"></td>
-                                        <td class="column35 style195 null"></td>
-                                        <td class="column36 style195 null"></td>
-                                        <td class="column37 style195 null"></td>
-                                    </tr>
-                                    <tr class="row49">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column5 style58 s style58" colspan="2">PUESTO NUEVO</td>
-                                        <td class="column7 style58 s style58" colspan="9">EN CASO DE SER PUESTO
-                                            NUEVO,
-                                            REMPLAZA A</td>
-                                        <td class="column16 style58 s style58" colspan="4">CORREO ELECTRÓNICO</td>
-                                        <td class="column20 style58 s style58" colspan="3">UMF</td>
-                                        <td class="column23 style58 s style58" colspan="4">ESTADO CIVIL</td>
-                                        <td class="column27 style58 s style58" colspan="3">No. DE AFILIACION DEL
-                                            I.M.S.S.
-                                        </td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style192 null"></td>
-                                        <td class="column32 style192 null"></td>
-                                        <td class="column33 style195 null"></td>
-                                        <td class="column34 style195 null"></td>
-                                        <td class="column35 style195 null"></td>
-                                        <td class="column36 style195 null"></td>
-                                        <td class="column37 style195 null"></td>
-                                    </tr>
-                                    <tr class="row50">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column5 style59 s style59" rowspan="2">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input">
-                                                SI
-                                            </label>
-                                        </td>
-                                        <td class="column5 style59 s style59" rowspan="2">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input">
-                                                NO
-                                            </label>
-                                        </td>
-                                        <td class="column7 style60 null style60" colspan="9" rowspan="2">
-                                            <input type="text" class="form-control" placeholder="Escribe aquí...">
-                                        </td>
-                                        <td class="column16 style121 null style121" colspan="4" rowspan="2">
-                                            <input type="text" class="form-control" placeholder="Escribe aquí...">
-                                        </td>
-                                        <td class="column20 style163 null style163" colspan="3" rowspan="2">
-                                            <input type="text" class="form-control" placeholder="Escribe aquí...">
-                                        </td>
-                                        <td class="column23 style164 null style164" colspan="4" rowspan="2">
-                                            <input type="text" class="form-control" placeholder="Escribe aquí...">
-                                        </td>
-                                        <td class="column27 style194 null style194" colspan="3" rowspan="2"
-                                            id="nss">
-                                        </td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style192 null"></td>
-                                        <td class="column32 style192 null"></td>
-                                        <td class="column33 style195 null"></td>
-                                        <td class="column34 style195 null"></td>
-                                        <td class="column35 style195 null"></td>
-                                        <td class="column36 style195 null"></td>
-                                        <td class="column37 style195 null"></td>
-                                    </tr>
-                                    <tr class="row51">
-                                        <td class="column0">&nbsp;</td>
                                         <td class="column1">&nbsp;</td>
-                                        <td class="column2 style61 null"></td>
-                                        <td class="column3 style61 null"></td>
-                                        <td class="column4 style62 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style192 null"></td>
-                                        <td class="column32 style192 null"></td>
-                                        <td class="column33 style195 null"></td>
-                                        <td class="column34 style195 null"></td>
-                                        <td class="column35 style195 null"></td>
-                                        <td class="column36 style195 null"></td>
-                                        <td class="column37 style195 null"></td>
-                                    </tr>
-                                    <tr class="row52">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2 style63 null style63" colspan="2"></td>
-                                        <td class="column4 style63 null"></td>
-                                        <td class="column5 style63 null"></td>
-                                        <td class="column6 style64 null"></td>
-                                        <td class="column7 style64 null"></td>
-                                        <td class="column8 style117 null"></td>
-                                        <td class="column9 style118 null"></td>
-                                        <td class="column10 style64 null"></td>
-                                        <td class="column11 style117 null"></td>
-                                        <td class="column12 style118 null"></td>
-                                        <td class="column13 style119 null"></td>
-                                        <td class="column14 style119 null"></td>
-                                        <td class="column15 style119 null"></td>
-                                        <td class="column16 style119 null"></td>
-                                        <td class="column17 style165 null"></td>
-                                        <td class="column18 style165 null"></td>
-                                        <td class="column19 style165 null"></td>
-                                        <td class="column20 style165 null"></td>
-                                        <td class="column21 style165 null"></td>
-                                        <td class="column22 style165 null"></td>
-                                        <td class="column23 style166 null"></td>
-                                        <td class="column24 style101 null"></td>
-                                        <td class="column25 style101 null"></td>
-                                        <td class="column26 style101 null"></td>
-                                        <td class="column27 style101 null"></td>
-                                        <td class="column28 style101 null"></td>
-                                        <td class="column29 style101 null"></td>
-                                        <td class="column30 style195 null"></td>
-                                        <td class="column31 style195 null"></td>
-                                        <td class="column32 style195 null"></td>
-                                        <td class="column33 style195 null"></td>
-                                        <td class="column34">&nbsp;</td>
-                                        <td class="column35">&nbsp;</td>
-                                        <td class="column36">&nbsp;</td>
-                                        <td class="column37">&nbsp;</td>
-                                    </tr>
-                                    <tr class="row53">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style51 s style51" colspan="26">PRESTACIONES </td>
-                                        <td class="column28 style51 s style51" colspan="2">&nbsp;ESCOLARIDAD</td>
-                                        <td class="column30 style192 null"></td>
-                                        <td class="column31 style192 null"></td>
-                                        <td class="column32 style192 null"></td>
-                                        <td class="column33 style195 null"></td>
-                                        <td class="column34">&nbsp;</td>
-                                        <td class="column35">&nbsp;</td>
-                                        <td class="column36">&nbsp;</td>
-                                        <td class="column37">&nbsp;</td>
-                                    </tr>
-                                    <tr class="row54">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style52 s style71" colspan="4" rowspan="4">SEGURO DE
-                                            ACCIDENTES</td>
-                                        <td class="column6 style33 s style33" colspan="2" rowspan="2">
-                                            Beneficiario
-                                        </td>
-                                        <td class="column8 style120 null style120" colspan="14" rowspan="2"
-                                            id="beneficiario"></td>
-                                        <td class="column22 style47 s style47" colspan="4" rowspan="4">
-                                            PORCENTAJE
-                                        </td>
-                                        <td class="column26 style196 n style196" colspan="2" rowspan="4">100%
-                                        </td>
-                                        <td class="column28 style194 null style194" colspan="2" rowspan="4">
-                                        </td>
-                                        <td class="column30 style192 null"></td>
-                                        <td class="column31 style192 null"></td>
-                                        <td class="column32 style192 null"></td>
-                                        <td class="column33 style195 null"></td>
-                                        <td class="column34">&nbsp;</td>
-                                        <td class="column35">&nbsp;</td>
-                                        <td class="column36">&nbsp;</td>
-                                        <td class="column37">&nbsp;</td>
-                                    </tr>
-                                    <tr class="row55">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row56">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column6 style33 s style33" colspan="2" rowspan="2">Parentezco
-                                        </td>
-                                        <td class="column8 style121 null style121" colspan="14" rowspan="2"
-                                            id="parentezco"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row57">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
-                                    </tr>
-                                    <tr class="row58">
-                                        <td class="column0">&nbsp;</td>
-                                        <td class="column1">&nbsp;</td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
+                                        <td class="column2 style13 s">Responsable de área</td>
+                                        <td class="column3 style49 null"></td>
                                         <td class="column4">&nbsp;</td>
                                         <td class="column5">&nbsp;</td>
                                         <td class="column6">&nbsp;</td>
@@ -1514,20 +2405,715 @@
                                         <td class="column19">&nbsp;</td>
                                         <td class="column20">&nbsp;</td>
                                         <td class="column21">&nbsp;</td>
-                                        <td class="column22 style167 null"></td>
-                                        <td class="column23 style167 null"></td>
-                                        <td class="column24 style167 null"></td>
-                                        <td class="column25 style167 null"></td>
+                                        <td class="column22">&nbsp;</td>
+                                        <td class="column23">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
                                         <td class="column26">&nbsp;</td>
                                         <td class="column27">&nbsp;</td>
                                         <td class="column28">&nbsp;</td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
-                                    <tr class="row59">
+                                    <tr class="row30">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style80 s style80" colspan="3">CONCEPTO</td>
+                                        <td class="column5 style80 s style80" colspan="8">CONDICIONES ACTUALES
+                                            (LLENAR EN CAMBIOS Y BAJAS)</td>
+                                        <td class="column13 style80 s style80" colspan="11">ALTAS O NUEVAS CONDICIONES
+                                        </td>
+                                        <td class="column24 style42 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row31">
+                                        <td class="column0 style50 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style81 s style81" colspan="3">PUESTO</td>
+                                        <td class="column5 style82 null style82" colspan="8">
+                                            <div class="form-control backinp2">
+                                                <input type="text" class="form-control backinp2"
+                                                    placeholder="Escribe aquí...">
+                                            </div>
+                                        </td>
+                                        <td class="column13 style82 null style82" colspan="11">
+                                            <div class="form-control backinp2">
+                                                <input type="text" class="form-control backinp2" id="puesto"
+                                                    placeholder="Escribe aquí...">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style52 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row32">
+                                        <td class="column0 style50 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style81 s style81" colspan="3">AREA</td>
+                                        <td class="column5 style82 null style82" colspan="8">
+                                            <div class="form-control backinp2">
+                                                <input type="text" class="form-control backinp2"
+                                                    placeholder="Escribe aquí...">
+                                            </div>
+                                        </td>
+                                        <td class="column13 style82 null style82" colspan="11">
+                                            <div class="form-control backinp2">
+                                                <input type="text" class="form-control backinp2"
+                                                    placeholder="Escribe aquí...">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style52 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row33">
+                                        <td class="column0 style50 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style81 s style81" colspan="3">CONTRATO</td>
+                                        <td class="column5 style82 null style82" colspan="8">
+                                            <div class="form-control backinp2">
+                                                <input type="text" class="form-control backinp2"
+                                                    placeholder="Escribe aquí...">
+                                            </div>
+                                        </td>
+                                        <td class="column13 style82 null style82" colspan="11">
+                                            <div class="form-control backinp2">
+                                                <input type="text" class="form-control backinp2"
+                                                    placeholder="Escribe aquí...">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style52 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row34">
+                                        <td class="column0 style50 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style81 s style81" colspan="3">PREDIO</td>
+                                        <td class="column5 style82 null style82" colspan="8">
+                                            <div class="form-control backinp2">
+                                                <input type="text" class="form-control backinp2"
+                                                    placeholder="Escribe aquí...">
+                                            </div>
+                                        </td>
+                                        <td class="column13 style82 null style82" colspan="11">
+                                            <div class="form-control backinp2">
+                                                <input type="text" class="form-control backinp2"
+                                                    placeholder="Escribe aquí...">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style52 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row35">
+                                        <td class="column0 style50 null"></td>
+                                        <td class="column1 style50 null"></td>
+                                        <td class="column2 style81 s style81" colspan="3" rowspan="2">SUELDO
+                                        </td>
+                                        <td class="column5 style83 s style83" colspan="2" rowspan="2">
+                                            ESPECIFICAR DE ACUERDO AL TIPO DE NOMINA</td>
+                                        <td class="column7 style84 s">FIJO</td>
+                                        <td class="column8 style84 s">VARIABLE</td>
+                                        <td class="column9 style85 null style85" colspan="4" rowspan="2"></td>
+                                        <td class="column13 style86 s style86" colspan="3">AUMENTO</td>
+                                        <td class="column16 style84 s">EMPLEADO</td>
+                                        <td class="column17 style86 s style86" colspan="2">FIJO</td>
+                                        <td class="column19 style86 s style86" colspan="2">VARIABLE</td>
+                                        <td class="column21 style87 n style87" colspan="3" rowspan="2">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp" id="sueldo"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style53 null"></td>
+                                        <td class="column25 style52 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row36">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column7 style88 null">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column8 style88 null">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column13 style87 null style87" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column15 style89 null">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column16 style90 null">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column17 style91 null style91" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column19 style91 null style91" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style53 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row37">
                                         <td class="column0">&nbsp;</td>
                                         <td class="column1">&nbsp;</td>
                                         <td class="column2">&nbsp;</td>
@@ -1552,122 +3138,3764 @@
                                         <td class="column21">&nbsp;</td>
                                         <td class="column22">&nbsp;</td>
                                         <td class="column23">&nbsp;</td>
-                                        <td class="column24">&nbsp;</td>
-                                        <td class="column25">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
                                         <td class="column26">&nbsp;</td>
                                         <td class="column27">&nbsp;</td>
                                         <td class="column28">&nbsp;</td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row38">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2">&nbsp;</td>
+                                        <td class="column3">&nbsp;</td>
+                                        <td class="column4">&nbsp;</td>
+                                        <td class="column5">&nbsp;</td>
+                                        <td class="column6">&nbsp;</td>
+                                        <td class="column7">&nbsp;</td>
+                                        <td class="column8">&nbsp;</td>
+                                        <td class="column9">&nbsp;</td>
+                                        <td class="column10">&nbsp;</td>
+                                        <td class="column11">&nbsp;</td>
+                                        <td class="column12">&nbsp;</td>
+                                        <td class="column13">&nbsp;</td>
+                                        <td class="column14">&nbsp;</td>
+                                        <td class="column15">&nbsp;</td>
+                                        <td class="column16">&nbsp;</td>
+                                        <td class="column17">&nbsp;</td>
+                                        <td class="column18">&nbsp;</td>
+                                        <td class="column19">&nbsp;</td>
+                                        <td class="column20">&nbsp;</td>
+                                        <td class="column21">&nbsp;</td>
+                                        <td class="column22">&nbsp;</td>
+                                        <td class="column23">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row39">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style54 s style54" colspan="5">En caso de baja anote el
+                                            motivo</td>
+                                        <td class="column7 style49 null"></td>
+                                        <td class="column8 style49 null"></td>
+                                        <td class="column9 style49 null"></td>
+                                        <td class="column10 style49 null"></td>
+                                        <td class="column11 style49 null"></td>
+                                        <td class="column12 style49 null"></td>
+                                        <td class="column13 style49 null"></td>
+                                        <td class="column14 style49 null"></td>
+                                        <td class="column15 style49 null"></td>
+                                        <td class="column16 style49 null"></td>
+                                        <td class="column17 style49 null"></td>
+                                        <td class="column18 style49 null"></td>
+                                        <td class="column19 style49 null"></td>
+                                        <td class="column20 style49 null"></td>
+                                        <td class="column21 style49 null"></td>
+                                        <td class="column22 style49 null"></td>
+                                        <td class="column23 style49 null"></td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row40">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style92 null style92" colspan="22" rowspan="5">
+                                            <div class="form-group">
+                                                <textarea class="form-control" id="causabaja" rows="5" placeholder="Escribe aquí" id="causabaja"></textarea>
+                                            </div>
+                                        </td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row41">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row42">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row43">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row44">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row45">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style49 null"></td>
+                                        <td class="column3 style49 null"></td>
+                                        <td class="column4 style49 null"></td>
+                                        <td class="column5 style49 null"></td>
+                                        <td class="column6 style49 null"></td>
+                                        <td class="column7 style49 null"></td>
+                                        <td class="column8 style49 null"></td>
+                                        <td class="column9 style49 null"></td>
+                                        <td class="column10 style49 null"></td>
+                                        <td class="column11 style49 null"></td>
+                                        <td class="column12 style49 null"></td>
+                                        <td class="column13 style49 null"></td>
+                                        <td class="column14 style49 null"></td>
+                                        <td class="column15 style49 null"></td>
+                                        <td class="column16 style49 null"></td>
+                                        <td class="column17 style49 null"></td>
+                                        <td class="column18 style49 null"></td>
+                                        <td class="column19 style49 null"></td>
+                                        <td class="column20 style49 null"></td>
+                                        <td class="column21 style49 null"></td>
+                                        <td class="column22 style49 null"></td>
+                                        <td class="column23 style49 null"></td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row46">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style55 s style55" colspan="22">Llenado por Reclutamiento
+                                        </td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row47">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style93 s style93" colspan="10">DOMICILIO Y TELEFONO ACTUAL
+                                        </td>
+                                        <td class="column12 style93 s style93" colspan="12">DOMICILIO Y TELEFONO
+                                            FISCAL</td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row48">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style94 null style94" colspan="10" rowspan="5">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2"
+                                                    id="domicilioytelefono" placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column12 style95 null style95" colspan="12" rowspan="5">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row49">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row50">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style52 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row51">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row52">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row53">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style54 null style54" colspan="15"></td>
+                                        <td class="column17 style49 null"></td>
+                                        <td class="column18 style49 null"></td>
+                                        <td class="column19 style49 null"></td>
+                                        <td class="column20 style49 null"></td>
+                                        <td class="column21 style49 null"></td>
+                                        <td class="column22 style49 null"></td>
+                                        <td class="column23 style49 null"></td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row54">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style93 s style93" colspan="5">No. DE INFONAVIT</td>
+                                        <td class="column7 style93 s style93" colspan="5">No. DE FONACOT</td>
+                                        <td class="column12 style93 s style93" colspan="5">RFC</td>
+                                        <td class="column17 style93 s style93" colspan="7">CURP</td>
+                                        <td class="column24 style56 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row55">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style95 s style95" colspan="5" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="infonavit"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column7 style96 null style96" colspan="5" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="fonacot"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column12 style96 null style96" colspan="5" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="rfc"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column17 style95 null style95" colspan="7" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="curp"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style32 s">&nbsp;</td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row56">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style32 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row57">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style32 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row58">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style32 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row59">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style97 s style97" colspan="2" rowspan="2">PLANTA
+                                        </td>
+                                        <td class="column4 style97 s style97" colspan="2" rowspan="2">EVENTUAL
+                                        </td>
+                                        <td class="column6 style93 s style93" colspan="2">SEXO</td>
+                                        <td class="column8 style97 s style97" colspan="3">HAND KEY</td>
+                                        <td class="column11 style98 s style98" colspan="3">NACIONALIDAD</td>
+                                        <td class="column14 style93 s style93" colspan="3">FECHA DE NACIMIENTO</td>
+                                        <td class="column17 style93 s style93" colspan="7">ESCOLARIDAD</td>
+                                        <td class="column24 style57 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row60">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style1 null"></td>
-                                        <td class="column3 style1 null"></td>
-                                        <td class="column4 style1 null"></td>
-                                        <td class="column5 style72 s style122" colspan="4">NOMBRE Y FIRMA</td>
-                                        <td class="column9 style72 s style122" colspan="6">NOMBRE Y FIRMA</td>
-                                        <td class="column15 style123 s style123" colspan="6">NOMBRE Y FIRMA</td>
-                                        <td class="column21 style123 s style123" colspan="6">NOMBRE Y FIRMA</td>
-                                        <td class="column27 style1 null"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column6 style99 s style99" rowspan="2">M</td>
+                                        <td class="column7 style99 s style99" rowspan="2">F</td>
+                                        <td class="column8 style99 s style99" rowspan="2">SI</td>
+                                        <td class="column9 style99 s style99" colspan="2" rowspan="2">NO</td>
+                                        <td class="column11 style92 null style92" colspan="3" rowspan="4">
+                                            MEXICANA</td>
+                                        <td class="column14 style99 s style99" rowspan="2">DIA</td>
+                                        <td class="column15 style99 s style99" rowspan="2">MES</td>
+                                        <td class="column16 style99 s style99" rowspan="2">AÑO</td>
+                                        <td class="column17 style100 s style100" colspan="4" rowspan="2">
+                                            PREPARATORIA</td>
+                                        <td class="column21 style101 s style101" colspan="3">ESPECIALIDAD</td>
+                                        <td class="column24 style7 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row61">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column5 style74 null style74" colspan="4" rowspan="2"></td>
-                                        <td class="column9 style124 null style129" colspan="6" rowspan="2"></td>
-                                        <td class="column15 style74 null style74" colspan="6" rowspan="2"></td>
-                                        <td class="column21 style74 null style74" colspan="6" rowspan="2"></td>
-                                        <td class="column27 style1 null"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style92 null style92" colspan="2" rowspan="3">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column4 style92 null style92" colspan="2" rowspan="3">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column21 style102 s style102" colspan="3">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style7 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row62">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2">&nbsp;</td>
-                                        <td class="column3">&nbsp;</td>
-                                        <td class="column4">&nbsp;</td>
-                                        <td class="column27 style1 null"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column6 style92 null style92" rowspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column7 style92 s style92" rowspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column8 style92 null style92" rowspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column9 style92 null style92" colspan="2" rowspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column14 style103 null style103" rowspan="2" id="dianac">
+                                        </td>
+                                        <td class="column15 style103 null style103" rowspan="2" id="mesnac">
+                                        </td>
+                                        <td class="column16 style96 null style96" rowspan="2" id="anonac"></td>
+                                        <td class="column17 style101 s style101" colspan="2">TITULADA</td>
+                                        <td class="column19 style101 s style101" colspan="2">PASANTE</td>
+                                        <td class="column21 style101 s style101" colspan="2">TRUNCA</td>
+                                        <td class="column23 style104 s">&nbsp;</td>
+                                        <td class="column24 style7 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row63">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style75 null"></td>
-                                        <td class="column3 style75 null"></td>
-                                        <td class="column4 style76 null"></td>
-                                        <td class="column5 style77 s style130" colspan="4">SOLICITANTE</td>
-                                        <td class="column9 style77 s style130" colspan="6">RESPONSABLE DE AREA</td>
-                                        <td class="column15 style131 s style131" colspan="6">RECLUTAMIENTO</td>
-                                        <td class="column21 style131 s style131" colspan="6">DIRECCION GENERAL</td>
-                                        <td class="column27 style1 null"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column31 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column17 style102 null style102" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column19 style102 s style102" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column21 style102 s style102" colspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column23 style104 null"></td>
+                                        <td class="column24 style7 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                     <tr class="row64">
                                         <td class="column0">&nbsp;</td>
-                                        <td class="column1 style1 null"></td>
-                                        <td class="column2 style197 null"></td>
-                                        <td class="column3 style97 null"></td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style105 s style105" colspan="4">PUESTO NUEVO</td>
+                                        <td class="column6 style105 s style105" colspan="2">EN CASO DE SER PUESTO
+                                            NUEVO, REMPLAZA A</td>
+                                        <td class="column8 style105 s style105" colspan="4">CORREO ELECTRÓNICO</td>
+                                        <td class="column12 style105 s style105" colspan="2">UMF</td>
+                                        <td class="column14 style105 s style105" colspan="4">ESTADO CIVIL</td>
+                                        <td class="column18 style105 s style105" colspan="6">No. DE AFILIACION DEL
+                                            I.M.S.S.</td>
+                                        <td class="column24 style57 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row65">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style99 s style99" colspan="2" rowspan="2">SI</td>
+                                        <td class="column4 style99 s style99" colspan="2" rowspan="2">NO</td>
+                                        <td class="column6 style99 s style99" colspan="2" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2"
+                                                    id="nombrecompleto" placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column8 style106 null style106" colspan="4" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2"
+                                                    id="nombrecompleto" placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column12 style107 null style107" colspan="2" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2"
+                                                    id="nombrecompleto" placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column14 style108 null style108" colspan="4" rowspan="2">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2"
+                                                    id="nombrecompleto" placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column18 style109 null style109" colspan="6" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="nss"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style58 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row66">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style58 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row67">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style92 null style92" colspan="2" rowspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column4 style92 null style92" colspan="2" rowspan="2">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                            </div>
+                                        </td>
+                                        <td class="column14 style99 s style99" colspan="4">No. DE HIJOS</td>
+                                        <td class="column24 style58 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row68">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column14 style110 null style110" colspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="nombrecompleto"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style58 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row69">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style98 s style98" colspan="15">
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRESTACIONES
+                                        </td>
+                                        <td class="column17 style105 s style105" colspan="7">CUENTA BANCO</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row70">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style111 s style111" colspan="2" rowspan="4">SEGURO
+                                            DE ACCIDENTES</td>
+                                        <td class="column4 style99 s style99" colspan="2" rowspan="2">
+                                            Beneficiario</td>
+                                        <td class="column6 style112 null style112" colspan="8" rowspan="2">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="beneficiario"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column14 style113 s style113" colspan="2" rowspan="4">
+                                            PORCENTAJE</td>
+                                        <td class="column16 style114 n style114" rowspan="4">100%</td>
+                                        <td class="column17 style96 null style96" colspan="7" rowspan="4">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="banco"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style2 s">&nbsp;</td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row71">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row72">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column4 style99 s style99" colspan="2" rowspan="2">Parentezco
+                                        </td>
+                                        <td class="column6 style108 null style108" colspan="8" rowspan="2">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="parentesco"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row73">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row74">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2">&nbsp;</td>
+                                        <td class="column3">&nbsp;</td>
                                         <td class="column4">&nbsp;</td>
-                                        <td class="column5 style97 null"></td>
-                                        <td class="column6 style97 null"></td>
-                                        <td class="column7 style97 null"></td>
-                                        <td class="column8 style97 null"></td>
-                                        <td class="column9 style97 null"></td>
-                                        <td class="column10 style97 null"></td>
-                                        <td class="column11 style97 null"></td>
-                                        <td class="column12 style97 null"></td>
-                                        <td class="column13 style97 null"></td>
-                                        <td class="column14 style97 null"></td>
-                                        <td class="column15 style97 null"></td>
-                                        <td class="column16 style97 null"></td>
-                                        <td class="column17 style97 null"></td>
-                                        <td class="column18 style97 null"></td>
-                                        <td class="column19 style97 null"></td>
-                                        <td class="column20 style97 null"></td>
-                                        <td class="column21 style97 null"></td>
-                                        <td class="column22 style97 null"></td>
-                                        <td class="column23 style198 null"></td>
-                                        <td class="column24 style193 null"></td>
-                                        <td class="column25 style189 null"></td>
-                                        <td class="column26 style1 null"></td>
-                                        <td class="column27 style1 null"></td>
-                                        <td class="column28 style1 null"></td>
-                                        <td class="column29 style1 null"></td>
-                                        <td class="column30 style1 null"></td>
-                                        <td class="column32 style1 null"></td>
-
+                                        <td class="column5">&nbsp;</td>
+                                        <td class="column6">&nbsp;</td>
+                                        <td class="column7">&nbsp;</td>
+                                        <td class="column8">&nbsp;</td>
+                                        <td class="column9">&nbsp;</td>
+                                        <td class="column10">&nbsp;</td>
+                                        <td class="column11">&nbsp;</td>
+                                        <td class="column12">&nbsp;</td>
+                                        <td class="column13">&nbsp;</td>
+                                        <td class="column14">&nbsp;</td>
+                                        <td class="column15">&nbsp;</td>
+                                        <td class="column16">&nbsp;</td>
+                                        <td class="column17">&nbsp;</td>
+                                        <td class="column18">&nbsp;</td>
+                                        <td class="column19">&nbsp;</td>
+                                        <td class="column20">&nbsp;</td>
+                                        <td class="column21">&nbsp;</td>
+                                        <td class="column22">&nbsp;</td>
+                                        <td class="column23">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row75">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2">&nbsp;</td>
+                                        <td class="column3">&nbsp;</td>
+                                        <td class="column4">&nbsp;</td>
+                                        <td class="column5">&nbsp;</td>
+                                        <td class="column6">&nbsp;</td>
+                                        <td class="column7">&nbsp;</td>
+                                        <td class="column8">&nbsp;</td>
+                                        <td class="column9">&nbsp;</td>
+                                        <td class="column10">&nbsp;</td>
+                                        <td class="column11">&nbsp;</td>
+                                        <td class="column12">&nbsp;</td>
+                                        <td class="column13">&nbsp;</td>
+                                        <td class="column14">&nbsp;</td>
+                                        <td class="column15">&nbsp;</td>
+                                        <td class="column16">&nbsp;</td>
+                                        <td class="column17">&nbsp;</td>
+                                        <td class="column18">&nbsp;</td>
+                                        <td class="column19">&nbsp;</td>
+                                        <td class="column20">&nbsp;</td>
+                                        <td class="column21">&nbsp;</td>
+                                        <td class="column22">&nbsp;</td>
+                                        <td class="column23">&nbsp;</td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row76">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style115 s style115" colspan="5">NOMBRE Y FIRMA</td>
+                                        <td class="column7 style115 s style115" colspan="5">NOMBRE Y FIRMA</td>
+                                        <td class="column12 style115 s style115" colspan="6">NOMBRE Y FIRMA</td>
+                                        <td class="column18 style115 s style115" colspan="6">NOMBRE Y FIRMA</td>
+                                        <td class="column24 style32 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row77">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style116 null style116" colspan="5" rowspan="3">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp3" id="nombrefirma"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column7 style117 null style117" colspan="5" rowspan="3">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp3" id="nejecutivo"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column12 style117 null style117" colspan="6" rowspan="3">
+                                        </td>
+                                        <td class="column18 style117 null style117" colspan="6" rowspan="3">
+                                        </td>
+                                        <td class="column24 style7 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row78">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style7 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row79">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column24 style7 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row80">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style64 s style64" colspan="5">SOLICITANTE</td>
+                                        <td class="column7 style64 s style64" colspan="5">RESPONSABLE DE AREA</td>
+                                        <td class="column12 style64 s style64" colspan="6">CAPITAL HUMANO</td>
+                                        <td class="column18 style64 s style64" colspan="6">DIRECCION GENERAL</td>
+                                        <td class="column24 style57 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
+                                    </tr>
+                                    <tr class="row81">
+                                        <td class="column0">&nbsp;</td>
+                                        <td class="column1">&nbsp;</td>
+                                        <td class="column2 style2 null"></td>
+                                        <td class="column3 style2 null"></td>
+                                        <td class="column4 style2 null"></td>
+                                        <td class="column5 style2 null"></td>
+                                        <td class="column6 style2 null"></td>
+                                        <td class="column7 style2 null"></td>
+                                        <td class="column8 style2 null"></td>
+                                        <td class="column9 style2 null"></td>
+                                        <td class="column10 style2 null"></td>
+                                        <td class="column11 style2 null"></td>
+                                        <td class="column12 style2 null"></td>
+                                        <td class="column13 style2 null"></td>
+                                        <td class="column14 style2 null"></td>
+                                        <td class="column15 style2 null"></td>
+                                        <td class="column16 style2 null"></td>
+                                        <td class="column17 style2 null"></td>
+                                        <td class="column18 style2 null"></td>
+                                        <td class="column19 style2 null"></td>
+                                        <td class="column20 style2 null"></td>
+                                        <td class="column21 style2 null"></td>
+                                        <td class="column22 style2 null"></td>
+                                        <td class="column23 style2 null"></td>
+                                        <td class="column24 style2 null"></td>
+                                        <td class="column25 style2 null"></td>
+                                        <td class="column26">&nbsp;</td>
+                                        <td class="column27">&nbsp;</td>
+                                        <td class="column28">&nbsp;</td>
+                                        <td class="column29">&nbsp;</td>
+                                        <td class="column30">&nbsp;</td>
+                                        <td class="column31">&nbsp;</td>
+                                        <td class="column32">&nbsp;</td>
+                                        <td class="column33">&nbsp;</td>
+                                        <td class="column34">&nbsp;</td>
+                                        <td class="column35">&nbsp;</td>
+                                        <td class="column36">&nbsp;</td>
+                                        <td class="column37">&nbsp;</td>
+                                        <td class="column38">&nbsp;</td>
+                                        <td class="column39">&nbsp;</td>
+                                        <td class="column40">&nbsp;</td>
+                                        <td class="column41">&nbsp;</td>
+                                        <td class="column42">&nbsp;</td>
+                                        <td class="column43">&nbsp;</td>
+                                        <td class="column44">&nbsp;</td>
+                                        <td class="column45">&nbsp;</td>
+                                        <td class="column46">&nbsp;</td>
+                                        <td class="column47">&nbsp;</td>
+                                        <td class="column48">&nbsp;</td>
+                                        <td class="column49">&nbsp;</td>
+                                        <td class="column50">&nbsp;</td>
+                                        <td class="column51">&nbsp;</td>
+                                        <td class="column52">&nbsp;</td>
+                                        <td class="column53">&nbsp;</td>
+                                        <td class="column54">&nbsp;</td>
+                                        <td class="column55">&nbsp;</td>
+                                        <td class="column56">&nbsp;</td>
+                                        <td class="column57">&nbsp;</td>
+                                        <td class="column58">&nbsp;</td>
+                                        <td class="column59">&nbsp;</td>
+                                        <td class="column60">&nbsp;</td>
+                                        <td class="column61">&nbsp;</td>
+                                        <td class="column62">&nbsp;</td>
+                                        <td class="column63">&nbsp;</td>
+                                        <td class="column64">&nbsp;</td>
+                                        <td class="column65">&nbsp;</td>
+                                        <td class="column66">&nbsp;</td>
+                                        <td class="column67">&nbsp;</td>
+                                        <td class="column68">&nbsp;</td>
+                                        <td class="column69">&nbsp;</td>
+                                        <td class="column70">&nbsp;</td>
+                                        <td class="column71">&nbsp;</td>
+                                        <td class="column72">&nbsp;</td>
+                                        <td class="column73">&nbsp;</td>
+                                        <td class="column74">&nbsp;</td>
+                                        <td class="column75">&nbsp;</td>
+                                        <td class="column76">&nbsp;</td>
+                                        <td class="column77">&nbsp;</td>
+                                        <td class="column78">&nbsp;</td>
+                                        <td class="column79">&nbsp;</td>
+                                        <td class="column80">&nbsp;</td>
+                                        <td class="column81">&nbsp;</td>
+                                        <td class="column82">&nbsp;</td>
+                                        <td class="column83">&nbsp;</td>
+                                        <td class="column84">&nbsp;</td>
+                                        <td class="column85">&nbsp;</td>
+                                        <td class="column86">&nbsp;</td>
+                                        <td class="column87">&nbsp;</td>
+                                        <td class="column88">&nbsp;</td>
+                                        <td class="column89">&nbsp;</td>
+                                        <td class="column90">&nbsp;</td>
+                                        <td class="column91">&nbsp;</td>
+                                        <td class="column92">&nbsp;</td>
+                                        <td class="column93">&nbsp;</td>
+                                        <td class="column94">&nbsp;</td>
                                     </tr>
                                 </tbody>
                             </table>
+
+
+
                         </div>
                         <br>
                         <button class="btn btn-primary "onclick="generarPDF()">Generar PDF</button>
@@ -1861,10 +7089,11 @@
                     const currentWeek = getWeekNumber(currentDate);
 
                     $('#currentweek').text(currentWeek);
-                    $('#idempleado').text(data.id);
-                    nombre = data.nombre + " " + data.apaterno + " " + data.amaterno;
-                    $('#nombrecompleto').text(nombre);
-
+                    $('#idempleado').val(data.id);
+                    nombre = data.apaterno + " " + data.amaterno + " " + data.nombre;
+                    $('#nombrecompleto').val(nombre);
+                    $('#nombrefirma').val(nombre);
+                    $('#nejecutivo').val(data.nejecutivo);
 
                     var arregloFechaingreso = data["fechaalta"].split("-");
                     var diaingreso = arregloFechaingreso[2];
@@ -1899,7 +7128,8 @@
                     $('#anonac').text(anonac);
 
                     $('#causabaja').val(data.causabaja);
-                    $('#puesto').text(data.puesto);
+                    $('#puesto').val(data.puesto);
+                    $('#sueldo').val(data.salario);
                     $('#predio').text(data.predio);
 
 
@@ -1907,11 +7137,12 @@
                         ", " + data.tel;
                     $('#domicilioytelefono').text(domicilioytelefono);
                     $('#rfc').text(data.rfc);
-                    $('#beneficiario').text(data.beneficiario);
-                    $('#parentezco').text(data.parentezco);
+                    $('#beneficiario').val(data.beneficiario);
+                    $('#parentesco').val(data.parentesco);
+                    $('#banco').val(data.banco);
 
-                    $('#curp').text(data.curp);
-                    $('#nss').text(data.nss);
+                    $('#curp').val(data.curp);
+                    $('#nss').val(data.nss);
 
 
 
