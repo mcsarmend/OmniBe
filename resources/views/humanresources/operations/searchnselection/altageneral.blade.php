@@ -639,7 +639,7 @@
                                         <td class="column6 style1 null"></td>
                                         <td class="column9 style62 s style62" colspan="3" rowspan="2">CÓDIGO:
                                             <br />
-                                            OP-MPE/01-02
+                                            F-MPER-RH/18
                                         </td>
                                         <td class="column12 style63 s style63" colspan="3" rowspan="2">
                                             VERSIÓN:02</td>
@@ -1194,7 +1194,7 @@
                                         </td>
                                         <td class="column8 style66 null style66" colspan="2" rowspan="2">
                                             <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                                <input class="form-check-input" type="checkbox" id="checksegescred" checked>
                                             </div>
                                         </td>
                                         <td class="column10 style9 null"></td>
@@ -4048,7 +4048,7 @@
                                         </td>
                                         <td class="column12 style95 null style95" colspan="12" rowspan="5">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2"
+                                                <input type="text" class="form-control backinp2" id = "domicilioytelefonofiscal"
                                                     placeholder="Escribe aquí">
                                             </div>
                                         </td>
@@ -5475,7 +5475,7 @@
                                         <td class="column14 style108 null style108" colspan="4" rowspan="2">
                                             <div class="form-group">
                                                 <input type="text" class="form-control backinp2"
-                                                    id="nombrecompleto" placeholder="Escribe aquí">
+                                                    id="estado_civil" placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column18 style109 null style109" colspan="6" rowspan="4">
@@ -6493,6 +6493,10 @@
                                             </div>
                                         </td>
                                         <td class="column12 style117 null style117" colspan="6" rowspan="3">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp3" id="nejecutivo"
+                                                    placeholder="Escribe aquí">
+                                            </div>
                                         </td>
                                         <td class="column18 style117 null style117" colspan="6" rowspan="3">
                                         </td>
@@ -7354,6 +7358,13 @@
                         ", " + data.cp +
                         ", " + data.telcasa;
                     $('#domicilioytelefono').val(domicilioytelefono);
+
+
+                    domicilioytelefonofiscal = data.calle_fiscal + ", " + data.cp_fiscal + ", " + data.municipio_fiscal + ", " + data.estado +
+                        ", " + data.cp + ", " + data.telefono_fiscal;
+                    $('#domicilioytelefonofiscal').val(domicilioytelefonofiscal);
+
+
                     $('#rfc').val(data.rfc);
                     $('#infonavit').val(data.infonavit);
                     $('#fonacot').val(data.fonacot);

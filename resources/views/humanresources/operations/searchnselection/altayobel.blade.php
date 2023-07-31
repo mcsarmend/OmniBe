@@ -642,7 +642,7 @@
                                         <td class="column6 style1 null"></td>
                                         <td class="column9 style62 s style62" colspan="3" rowspan="2">CÓDIGO:
                                             <br />
-                                            OP-MPE/01-02
+                                            F-MPER-RH/18
                                         </td>
                                         <td class="column12 style63 s style63" colspan="3" rowspan="2">
                                             VERSIÓN:02</td>
@@ -4051,7 +4051,7 @@
                                         </td>
                                         <td class="column12 style95 null style95" colspan="12" rowspan="5">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2"
+                                                <input type="text" class="form-control backinp2" id = "domicilioytelefonofiscal"
                                                     placeholder="Escribe aquí">
                                             </div>
                                         </td>
@@ -5644,7 +5644,7 @@
                                         </td>
                                         <td class="column4 style92 null style92" colspan="2" rowspan="2">
                                             <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" id="checksegescred">
+                                                <input class="form-check-input" type="checkbox" id="" checked>
                                             </div>
                                         </td>
                                         <td class="column14 style99 s style99" colspan="4">No. DE HIJOS</td>
@@ -6496,6 +6496,10 @@
                                             </div>
                                         </td>
                                         <td class="column12 style117 null style117" colspan="6" rowspan="3">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp3" id="nejecutivo"
+                                                    placeholder="Escribe aquí">
+                                            </div>
                                         </td>
                                         <td class="column18 style117 null style117" colspan="6" rowspan="3">
                                         </td>
@@ -7338,8 +7342,13 @@
 
                     domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", " + data.estado +
                         ", " + data.cp +
-                        ", " + data.tel;
+                        ", " + data.telcasa;
                     $('#domicilioytelefono').val(domicilioytelefono);
+
+                    domicilioytelefonofiscal = data.calle_fiscal + ", " + data.cp_fiscal + ", " + data.municipio_fiscal + ", " + data.estado +
+                        ", " + data.cp + ", " + data.telefono_fiscal;
+                    $('#domicilioytelefonofiscal').val(domicilioytelefonofiscal);
+
                     $('#rfc').text(data.rfc);
                     $('#beneficiario').val(data.beneficiario);
                     $('#parentesco').val(data.parentesco);

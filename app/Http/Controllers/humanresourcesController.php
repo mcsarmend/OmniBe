@@ -239,6 +239,11 @@ class humanresourcesController extends Controller
             $nestedData['banco'] = $post->banco;
             $nestedData['num_cuenta'] = $post->num_cuenta;
             $nestedData['salario'] = $post->salario;
+            $nestedData['calle_fiscal'] = $post->calle_fiscal;
+            $nestedData['cp_fiscal'] = $post->cp_fiscal;
+            $nestedData['municipio_fiscal'] = $post->municipio_fiscal;
+            $nestedData['entidad_federativa'] = $post->entidad_federativa;
+            $nestedData['telefono_fiscal'] = $post->telefono_fiscal;
 
             return $nestedData;
 
@@ -505,7 +510,8 @@ class humanresourcesController extends Controller
         }
     }
 
-    public function editarempleadogeneral(Request $request){
+    public function editarempleadogeneral(Request $request)
+    {
         $registro = empleados_general::find($request->id);
         try {
             $registro->puesto = $request->puesto;
@@ -521,13 +527,13 @@ class humanresourcesController extends Controller
             // Guardar los cambios en la base de datos
             $registro->save();
             return response()->json(['success' => "Actualización completada"], 200);
-        }catch(\throwable $th){
+        } catch (\throwable $th) {
             return response()->json(['error' => "Registro no actualizado" . $th], 401);
         }
 
-
     }
-    public function editarempleadoyobel(Request $request){
+    public function editarempleadoyobel(Request $request)
+    {
         $registro = empleados_yobel::find($request->id);
         try {
             $registro->puesto = $request->puesto;
@@ -543,10 +549,9 @@ class humanresourcesController extends Controller
             // Guardar los cambios en la base de datos
             $registro->save();
             return response()->json(['success' => "Actualización completada"], 200);
-        }catch(\throwable $th){
+        } catch (\throwable $th) {
             return response()->json(['error' => "Registro no actualizado" . $th], 401);
         }
-
 
     }
 
