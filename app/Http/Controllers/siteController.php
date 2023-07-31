@@ -43,12 +43,16 @@ class siteController extends Controller
                 'application_date' => strtoupper($request->application_date),
                 'recrutier' => strtoupper($request->recrutier),
                 'nss' => strtoupper($request->nss),
+                'infonavit' => strtoupper($request->infonavit),
+                'fonacot' => strtoupper($request->fonacot),
                 'fecha_nac' => strtoupper($request->fecha_nac),
                 'lugar_nac' => strtoupper($request->lugar_nac),
                 'estado_civil' => strtoupper($request->estado_civil),
                 'escolaridad' => strtoupper($request->escolaridad),
                 'genero' => strtoupper($request->genero),
                 'celular' => strtoupper($request->celular),
+                'telcasa' => strtoupper($request->telcasa),
+                'telcontacto' => strtoupper($request->telcontacto),
                 'cp' => $request->cp,
             ]);
 

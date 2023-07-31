@@ -47,6 +47,7 @@
                         <th>Colonia</th>
                         <th>Codigo Postal</th>
                         <th>Municipio</th>
+                        <th>Estado</th>
                         <th>Causa de baja</th>
                         <th>Beneficiario</th>
                         <th>Parentesco</th>
@@ -5460,7 +5461,7 @@
                                         <td class="column8 style106 null style106" colspan="4" rowspan="4">
                                             <div class="form-group">
                                                 <input type="text" class="form-control backinp2"
-                                                    id="nombrecompleto" placeholder="Escribe aquí">
+                                                    id="correo" placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column12 style107 null style107" colspan="2" rowspan="4">
@@ -6994,7 +6995,7 @@
                             val.amaterno,
                             val.nombre,
                             val.correo,
-                            val.fechaalta2,
+                            val.fechaalta,
                             val.fechabaja,
                             val.status,
                             val.salariomensual,
@@ -7016,6 +7017,7 @@
                             val.col,
                             val.cp,
                             val.munic,
+                            val.estado,
                             val.causabaja,
                             val.beneficiario,
                             val.parentesco,
@@ -7133,10 +7135,14 @@
                     $('#predio').text(data.predio);
 
 
-                    domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", " + data.cp +
-                        ", " + data.tel;
-                    $('#domicilioytelefono').text(domicilioytelefono);
-                    $('#rfc').text(data.rfc);
+                    domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", " + data.estado + ", " + data.cp +
+                        ", " + data.telcasa;
+                    $('#domicilioytelefono').val(domicilioytelefono);
+                    $('#rfc').val(data.rfc);
+                    $('#infonavit').val(data.infonavit);
+                    $('#fonacot').val(data.fonacot);
+                    $('#correo').val(data.correo);
+                    $('#estcivil').val(data.estcivil);
                     $('#beneficiario').val(data.beneficiario);
                     $('#parentesco').val(data.parentesco);
                     $('#banco').val(data.banco);

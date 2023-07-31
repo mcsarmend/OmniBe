@@ -238,6 +238,23 @@
                         </div>
 
                         <div class="col-25">
+                            <label for="infonavit">Infonavit :</label>
+                        </div>
+                        <div class="col-75">
+                            <input class="form-control" type="number" id="infonavit" name="infonavit"
+                                placeholder="Número de infonavit..">
+                        </div>
+
+                        <div class="col-25">
+                            <label for="fonacot">Fonacot :</label>
+                        </div>
+                        <div class="col-75">
+                            <input class="form-control" type="number" id="fonacot" name="fonacot"
+                                placeholder="Número de fonacot..">
+                        </div>
+
+
+                        <div class="col-25">
                             <label for="fecha_nac">Fecha de Nacimiento :</label>
                         </div>
                         <div class="col-75">
@@ -303,6 +320,22 @@
                                 placeholder="Celular.."required>
                         </div>
 
+                        <div class="col-25">
+                            <label for="telcasa">Teléfono casa :</label>
+                        </div>
+                        <div class="col-75">
+                            <input class="form-control" type="number" id="telcasa" name="telcasa"
+                                placeholder="Teléfono casa..">
+                        </div>
+
+                        <div class="col-25">
+                            <label for="telcontacto">Teléfono de contácto :</label>
+                        </div>
+                        <div class="col-75">
+                            <input class="form-control" type="number" id="telcontacto" name="telcontacto"
+                                placeholder="Teléfono de contacto..">
+                        </div>
+
 
                         <div class="col-25">
                             <label for="street">Calle :</label>
@@ -366,11 +399,11 @@
                                 readonly>
                         </div>
                         <div class="col-25">
-                            <label for="recrutier">Reclutador:</label>
+                            <label for="recrutier">Ejecutivo de cuenta:</label>
                         </div>
                         <div class="col-75">
                             <input type="text" id="recrutier" name="recrutier" class="form-control"
-                                placeholder="Reclutador..." required>
+                                placeholder="Ejecutivo de cuenta..." required>
                         </div>
 
 
@@ -520,7 +553,7 @@
             var formData = $(this).serialize(); // Serializa los datos del formulario
 
             warningMessage =
-                '<p>En cumplimiento de la normativa vigente de protección de datos personales, te informamos que los datos personales proporcionados en este formulario serán tratados de manera confidencial y utilizados únicamente con el propósito de<strong>[indicar el propósito, como responder a tu consulta, procesar tu solicitud, etc.]</strong>.</p><p>Tus datos no serán compartidos con terceros sin tu consentimiento previo, excepto cuando sea requerido por ley o por autoridades competentes.</p><p>Tienes derecho a acceder, rectificar, cancelar u oponerte al tratamiento de tus datos personales. Si deseas ejercer alguno de estos derechos o tienes alguna pregunta sobre cómo se tratan tus datos, puedes ponerte en contacto con nosotros a través de<strong>[indicar los medios de contacto, como correo electrónico, teléfono, etc.]</strong>.</p><p>Al enviar este formulario, aceptas que tus datos personales sean procesados de acuerdo con esta política de privacidad.</p>';
+                '<p>En cumplimiento de la normativa vigente de protección de datos personales, te informamos que los datos personales proporcionados en este formulario serán tratados de manera confidencial y utilizados únicamente con el propósito de<strong>procesar tu solicitud</strong>.</p><p>Tus datos no serán compartidos con terceros sin tu consentimiento previo, excepto cuando sea requerido por ley o por autoridades competentes.</p><p>Tienes derecho a acceder, rectificar, cancelar u oponerte al tratamiento de tus datos personales. Si deseas ejercer alguno de estos derechos o tienes alguna pregunta sobre cómo se tratan tus datos, puedes ponerte en contacto con nosotros a través de<strong>capitalhumano@begroup.com.mx</strong>.</p><p>Al enviar este formulario, aceptas que tus datos personales sean procesados de acuerdo con esta política de privacidad.</p>';
             Swal.fire({
                 title: '¡Se enviarán los datos del formulario!',
                 html: warningMessage,

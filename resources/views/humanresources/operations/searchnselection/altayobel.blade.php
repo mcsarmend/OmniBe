@@ -21,6 +21,8 @@
                         <th>Ejecutivo</th>
                         <th>Fecha Notificación</th>
                         <th>NSS</th>
+                        <th>Infonavit</th>
+                        <th>Fonacot</th>
                         <th>Apellido paterno</th>
                         <th>Apellido materno</th>
                         <th>Nombre</th>
@@ -41,12 +43,14 @@
                         <th>Escolaridad</th>
                         <th>Telefono</th>
                         <th>Celular</th>
+                        <th>Telefono contacto</th>
                         <th>Calle</th>
                         <th>Número</th>
                         <th>Manzana</th>
                         <th>Colonia</th>
                         <th>Codigo Postal</th>
                         <th>Municipio</th>
+                        <th>Estado</th>
                         <th>Causa de baja</th>
                         <th>Beneficiario</th>
                         <th>Parentesco</th>
@@ -5460,7 +5464,7 @@
                                         <td class="column8 style106 null style106" colspan="4" rowspan="4">
                                             <div class="form-group">
                                                 <input type="text" class="form-control backinp2"
-                                                    id="nombrecompleto" placeholder="Escribe aquí">
+                                                    id="correo" placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column12 style107 null style107" colspan="2" rowspan="4">
@@ -5472,7 +5476,7 @@
                                         <td class="column14 style108 null style108" colspan="4" rowspan="2">
                                             <div class="form-group">
                                                 <input type="text" class="form-control backinp2"
-                                                    id="nombrecompleto" placeholder="Escribe aquí">
+                                                    id="estado_civil" placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column18 style109 null style109" colspan="6" rowspan="4">
@@ -6988,6 +6992,8 @@
                             val.nejecutivo,
                             val.fechaalta,
                             val.nss,
+                            val.infonavit,
+                            val.fonacot,
                             val.apaterno,
                             val.amaterno,
                             val.nombre,
@@ -7006,14 +7012,16 @@
                             val.lnac,
                             val.estcivil,
                             val.escolaridad,
-                            val.tel,
+                            val.telcasa,
                             val.cel,
+                            val.telcontacto,
                             val.calle,
                             val.numero,
                             val.manzana,
                             val.col,
                             val.cp,
                             val.munic,
+                            val.estado,
                             val.causabaja,
                             val.beneficiario,
                             val.parentesco,
@@ -7131,9 +7139,9 @@
                     $('#predio').text(data.predio);
 
 
-                    domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", " + data.cp +
+                    domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", "+ data.estado + ", " + data.cp +
                         ", " + data.tel;
-                    $('#domicilioytelefono').text(domicilioytelefono);
+                    $('#domicilioytelefono').val(domicilioytelefono);
                     $('#rfc').text(data.rfc);
                     $('#beneficiario').val(data.beneficiario);
                     $('#parentesco').val(data.parentesco);
@@ -7141,6 +7149,10 @@
 
                     $('#curp').val(data.curp);
                     $('#nss').val(data.nss);
+                    $('#infonavit').val(data.infonavit);
+                    $('#fonacot').val(data.fonacot);
+                    $('#correo').val(data.correo);
+                    $('#rfc').val(data.rfc);
 
 
 

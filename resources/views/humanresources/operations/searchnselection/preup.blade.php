@@ -15,27 +15,32 @@
             <table id="prealtatabla" class="table table-hover tabpre" style="width: 600px; overflow-x: auto;">
                 <thead>
                     <tr>
-                        <th>Nombre</th>
-                        <th>Apellido Paterno</th>
-                        <th>Apellido Materno</th>
-                        <th>Correo</th>
+                        <th>NOMBRE</th>
+                        <th>APELLIDO PATERNO</th>
+                        <th>APELLIDO MATERNO</th>
+                        <th>CORREO</th>
                         <th>CURP</th>
                         <th>RFC</th>
-                        <th>Calle</th>
-                        <th>Número</th>
-                        <th>Manzana</th>
-                        <th>Colonia</th>
-                        <th>Municipio</th>
-                        <th>Estado</th>
-                        <th>Fecha de envio</th>
-                        <th>Reclutador</th>
+                        <th>CALLE</th>
+                        <th>NÚMERO</th>
+                        <th>MANZANA</th>
+                        <th>COLONIA</th>
+                        <th>MUNICIPIO</th>
+                        <th>ESTADO</th>
+                        <th>CÓDIGO POSTAL</th>
+                        <th>FECHA DE ENVÍO</th>
+                        <th>EJECUTIVO DE CUENTA</th>
                         <th>NSS</th>
+                        <th>INFONAVIT</th>
+                        <th>FONACOT</th>
                         <th>FECHA NACIMIENTO</th>
                         <th>LUGAR NACIMIENTO</th>
                         <th>ESTADO CIVIL</th>
                         <th>ESCOLARIDAD</th>
                         <th>GENERO</th>
                         <th>CELULAR</th>
+                        <th>TELEFONO CASA</th>
+                        <th>TELEFONO CONTACTO</th>
                         <th>YOBEL</th>
                         <th>GENERAL</th>
                     </tr>
@@ -77,6 +82,10 @@
                                         <input type="text" class="form-control" id="correo" name="correo" required>
                                     </div>
                                     <div class="form-group">
+                                        <label for="telcontacto">Teléfono de contacto:</label>
+                                        <input type="text" class="form-control" id="telcontacto" name="telcontacto" required>
+                                    </div>
+                                    <div class="form-group">
                                         <label for="calle">Calle:</label>
                                         <input type="text" class="form-control" id="calle" name="calle" required>
                                     </div>
@@ -89,32 +98,33 @@
                                         <input type="text" class="form-control" id="cp" name="cp" required>
                                     </div>
                                     <div class="form-group">
+                                        <label for="fonacot">Fonacot:</label>
+                                        <input type="text" class="form-control" id="fonacot"
+                                            name="fonacot" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="genero">Genero:</label>
+                                        <input type="text" class="form-control" id="genero" name="genero"
+                                            required>
+                                    </div>
+
+                                    <div class="form-group">
                                         <label for="fecha_envio">Fecha de envío:</label>
                                         <input type="date" class="form-control" id="fecha_envio" name="fecha_envio"
                                             required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="fecha_nacimiento">Fecha de nacimiento:</label>
-                                        <input type="date" class="form-control" id="fecha_nacimiento"
-                                            name="fecha_nacimiento" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="escolaridad">Escolaridad:</label>
-                                        <input type="text" class="form-control" id="escolaridad" name="escolaridad"
+                                        <label for="reclutador">Ejecutivo de cuenta:</label>
+                                        <input type="text" class="form-control" id="reclutador" name="reclutador"
                                             required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="centro_trabajo">Centro de Trabajo:</label>
-                                        <input type="text" class="form-control" id="centro_trabajo" name="centro_trabajo"
+                                        <label for="centro_costos">Centro de costos:</label>
+                                        <input type="text" class="form-control" id="centro_costos" name="centro_costos"
                                             required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="numero_cuenta">Número de Cuenta:</label>
-                                        <input type="text" class="form-control" id="numero_cuenta" name="numero_cuenta"
-                                            required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="salario">Salario:</label>
+                                        <label for="salario">Salario mensual:</label>
                                         <input type="number" class="form-control" id="salario" name="salario" required>
                                     </div>
                                 </div>
@@ -146,33 +156,59 @@
                                             required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="reclutador">Reclutador:</label>
-                                        <input type="text" class="form-control" id="reclutador" name="reclutador"
+                                        <label for="nss">NSS:</label>
+                                        <input type="text" class="form-control" id="nss" name="nss"
                                             required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="lugar_nacimiento">Lugar de nacimiento:</label>
-                                        <input type="text" class="form-control" id="lugar_nacimiento"
-                                            name="lugar_nacimiento" required>
+                                        <label for="fecha_nacimiento">Fecha de Nacimiento:</label>
+                                        <input type="date" class="form-control" id="fecha_nacimiento"
+                                            name="fecha_nacimiento" required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="genero">Genero:</label>
-                                        <input type="text" class="form-control" id="genero" name="genero"
+                                        <label for="escolaridad">Escolaridad:</label>
+                                        <input type="text" class="form-control" id="escolaridad" name="escolaridad"
                                             required>
                                     </div>
+                                    <div class="form-group">
+                                        <label for="fecha_alta">Fecha de alta:</label>
+                                        <input type="date" class="form-control" id="fecha_alta" name="fecha_alta"
+                                            required>
+                                    </div>
+
                                     <div class="form-group">
                                         <label for="beneficiario">Beneficiario:</label>
                                         <input type="text" class="form-control" id="beneficiario" name="beneficiario"
                                             required>
                                     </div>
-                                    <div class="form-group">
-                                        <label for="parentesco">Parentesco:</label>
-                                        <input type="text" class="form-control" id="parentesco" name="parentesco"
-                                            required>
-                                    </div>
+
                                     <div class="form-group">
                                         <label for="puesto">Puesto:</label>
-                                        <input type="text" class="form-control" id="puesto" name="puesto"
+                                        <div class="form-group">
+                                            <select class="form-control" id="puesto" name="puesto">
+                                                <option value="ANALISTA DE OPERACIONES" >Analista de operaciones</option>
+                                                <option value="ASISTENTE DE DIRECCIÓN" >Asistente de dirección</option>
+                                                <option value="AUDITOR DE INVENTARIOS" >Auditor de inventarios</option>
+                                                <option value="AUXILIAR ADMINISTRATIVO" >Auxiliar administrativo</option>
+                                                <option value="AUXILIAR DE ALMACÉN" >Auxiliar de almacén</option>
+                                                <option value="AUXILIAR DE COMPRAS" >Auxiliar de compras</option>
+                                                <option value="AUXILIAR DE LIMPIEZA" >Auxiliar de limpieza</option>
+                                                <option value="AUXILIAR DE MANTENIMIENTO" >Auxiliar de mantenimiento</option>
+                                                <option value="AUXILIAR DE OPERACIONES" >Auxiliar de operaciones</option>
+                                                <option value="CHOFER PARTICULAR" >Chofer particular</option>
+                                                <option value="GERENTE DE OPERACIONES" >Gerente de operaciones</option>
+                                                <option value="MANTENIMIENTO" >Mantenimiento</option>
+                                                <option value="MONITORISTA" >Monitorista</option>
+                                                <option value="OPERADOR DE MONTACARGAS" >Operador de montacargas</option>
+                                                <option value="RECURSOS HUMANOS" >Recursos humanos</option>
+                                                <option value="SUPERVISOR DE OPERACIONES" >Supervisor de operaciones</option>
+
+                                            </select>
+                                          </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="banco">Banco:</label>
+                                        <input type="text" class="form-control" id="banco" name="banco"
                                             required>
                                     </div>
 
@@ -182,6 +218,11 @@
                                     <div class="form-group">
                                         <label for="amaterno">Apellido Materno:</label>
                                         <input type="text" class="form-control" id="amaterno" name="amaterno"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="telcasa">Teléfono de casa:</label>
+                                        <input type="text" class="form-control" id="telcasa" name="telcasa"
                                             required>
                                     </div>
                                     <div class="form-group">
@@ -199,14 +240,36 @@
                                         <input type="text" class="form-control" id="estado" name="estado"
                                             required>
                                     </div>
+
                                     <div class="form-group">
-                                        <label for="nss">NSS:</label>
-                                        <input type="text" class="form-control" id="nss" name="nss"
+                                        <label for="infonavit">Infonavit:</label>
+                                        <input type="text" class="form-control" id="infonavit" name="infonavit"
                                             required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="lugar_nacimiento">Lugar de nacimiento:</label>
+                                        <input type="text" class="form-control" id="lugar_nacimiento"
+                                            name="lugar_nacimiento" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="estado_civil">Estado civil:</label>
                                         <input type="text" class="form-control" id="estado_civil" name="estado_civil"
+                                            required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="fecha_entrevista">Fecha de Entrevista:</label>
+                                        <input type="date" class="form-control" id="fecha_entrevista" name="fecha_entrevista"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="parentesco">Parentesco:</label>
+                                        <input type="text" class="form-control" id="parentesco" name="parentesco"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="cuenta">Cuenta:</label>
+                                        <input type="text" class="form-control" id="cuenta" name="cuenta"
                                             required>
                                     </div>
                                     <div class="form-group">
@@ -214,16 +277,8 @@
                                         <input type="text" class="form-control" id="cuenta_bancaria"
                                             name="cuenta_bancaria" required>
                                     </div>
-                                    <div class="form-group">
-                                        <label for="banco">Banco:</label>
-                                        <input type="text" class="form-control" id="banco" name="banco"
-                                            required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="predio">Predio:</label>
-                                        <input type="text" class="form-control" id="predio" name="predio"
-                                            required>
-                                    </div>
+
+
                                 </div>
                             </div> <!-- Fin de la división en dos columnas -->
 
@@ -258,65 +313,64 @@
                                 <div class="col">
                                     <div class="form-group">
                                         <label for="nombre">Nombre:</label>
-                                        <input type="text" class="form-control" id="nombre_general" name="nombre"
-                                            required>
+                                        <input type="text" class="form-control" id="nombre_general" name="nombre" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="correo">Correo:</label>
-                                        <input type="text" class="form-control" id="correo_general" name="correo"
-                                            required>
+                                        <input type="text" class="form-control" id="correo_general" name="correo" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="telcontacto">Teléfono de contacto:</label>
+                                        <input type="text" class="form-control" id="telcontacto_general" name="telcontacto" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="calle">Calle:</label>
-                                        <input type="text" class="form-control" id="calle_general" name="calle"
-                                            required>
+                                        <input type="text" class="form-control" id="calle_general" name="calle" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="colonia">Colonia:</label>
-                                        <input type="text" class="form-control" id="colonia_general" name="colonia"
-                                            required>
+                                        <input type="text" class="form-control" id="colonia_general" name="colonia" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="cp">Código postal:</label>
                                         <input type="text" class="form-control" id="cp_general" name="cp" required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="fecha_envio">Fecha de envío:</label>
-                                        <input type="date" class="form-control" id="fecha_envio_general"
-                                            name="fecha_envio" required>
+                                        <label for="fonacot">Fonacot:</label>
+                                        <input type="text" class="form-control" id="fonacot_general"
+                                            name="fonacot" required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="fecha_nacimiento">Fecha de nacimiento:</label>
-                                        <input type="date" class="form-control" id="fecha_nacimiento_general"
-                                            name="fecha_nacimiento" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="escolaridad">Escolaridad:</label>
-                                        <input type="text" class="form-control" id="escolaridad_general"
-                                            name="escolaridad" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="centro_trabajo">Centro de Trabajo:</label>
-                                        <input type="text" class="form-control" id="centro_trabajo_general"
-                                            name="centro_trabajo" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="numero_cuenta">Número de Cuenta:</label>
-                                        <input type="text" class="form-control" id="numero_cuenta_general"
-                                            name="numero_cuenta" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="salario">Salario:</label>
-                                        <input type="number" class="form-control" id="salario_general" name="salario"
+                                        <label for="genero">Genero:</label>
+                                        <input type="text" class="form-control" id="genero_general" name="genero"
                                             required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="fecha_envio">Fecha de envío:</label>
+                                        <input type="date" class="form-control" id="fecha_envio_general" name="fecha_envio"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="reclutador">Ejecutivo de cuenta:</label>
+                                        <input type="text" class="form-control" id="reclutador_general" name="reclutador"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="centro_costos">Centro de costos:</label>
+                                        <input type="text" class="form-control" id="centro_costos_general" name="centro_costos"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="salario">Salario mensual:</label>
+                                        <input type="number" class="form-control" id="salario_general" name="salario" required>
                                     </div>
                                 </div>
                                 <!-- Segunda columna -->
                                 <div class="col">
                                     <div class="form-group">
                                         <label for="apaterno">Apellido paterno:</label>
-                                        <input type="text" class="form-control" id="apaterno_general" name="apaterno"
-                                            required>
+                                        <input type="text" class="form-control" id="apaterno_general" name="apaterno" required>
                                     </div>
 
                                     <div class="form-group">
@@ -324,7 +378,6 @@
                                         <input type="text" class="form-control" id="celular_general" name="celular"
                                             required>
                                     </div>
-
                                     <div class="form-group">
                                         <label for="curp">CURP:</label>
                                         <input type="text" class="form-control" id="curp_general" name="curp"
@@ -337,37 +390,63 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="municipio">Municipio:</label>
-                                        <input type="text" class="form-control" id="municipio_general"
-                                            name="municipio" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="reclutador">Reclutador:</label>
-                                        <input type="text" class="form-control" id="reclutador_general"
-                                            name="reclutador" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="lugar_nacimiento">Lugar de nacimiento:</label>
-                                        <input type="text" class="form-control" id="lugar_nacimiento_general"
-                                            name="lugar_nacimiento" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="genero">Genero:</label>
-                                        <input type="text" class="form-control" id="genero_general" name="genero"
+                                        <input type="text" class="form-control" id="municipio_general" name="municipio"
                                             required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="beneficiario">Beneficiario:</label>
-                                        <input type="text" class="form-control" id="beneficiario_general"
-                                            name="beneficiario" required>
+                                        <label for="nss">NSS:</label>
+                                        <input type="text" class="form-control" id="nss_general" name="nss"
+                                            required>
                                     </div>
                                     <div class="form-group">
-                                        <label for="parentezco">Parentezco:</label>
-                                        <input type="text" class="form-control" id="parentezco_general"
-                                            name="parentezco" required>
+                                        <label for="fecha_nacimiento">Fecha de Nacimiento:</label>
+                                        <input type="date" class="form-control" id="fecha_nacimiento_general"
+                                            name="fecha_nacimiento" required>
                                     </div>
+                                    <div class="form-group">
+                                        <label for="escolaridad">Escolaridad:</label>
+                                        <input type="text" class="form-control" id="escolaridad_general" name="escolaridad"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="fechaalta">Fecha de alta:</label>
+                                        <input type="date" class="form-control" id="municipio_general" name="municipio"
+                                            required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="beneficiario">Beneficiario:</label>
+                                        <input type="text" class="form-control" id="beneficiario_general" name="beneficiario"
+                                            required>
+                                    </div>
+
                                     <div class="form-group">
                                         <label for="puesto">Puesto:</label>
-                                        <input type="text" class="form-control" id="puesto_general" name="puesto"
+                                        <div class="form-group">
+                                            <select class="form-control" id="puesto_general" name = "puesto">
+                                                <option value="ANALISTA DE OPERACIONES" >Analista de operaciones</option>
+                                                <option value="ASISTENTE DE DIRECCIÓN" >Asistente de dirección</option>
+                                                <option value="AUDITOR DE INVENTARIOS" >Auditor de inventarios</option>
+                                                <option value="AUXILIAR ADMINISTRATIVO" >Auxiliar administrativo</option>
+                                                <option value="AUXILIAR DE ALMACÉN" >Auxiliar de almacén</option>
+                                                <option value="AUXILIAR DE COMPRAS" >Auxiliar de compras</option>
+                                                <option value="AUXILIAR DE LIMPIEZA" >Auxiliar de limpieza</option>
+                                                <option value="AUXILIAR DE MANTENIMIENTO" >Auxiliar de mantenimiento</option>
+                                                <option value="AUXILIAR DE OPERACIONES" >Auxiliar de operaciones</option>
+                                                <option value="CHOFER PARTICULAR" >Chofer particular</option>
+                                                <option value="GERENTE DE OPERACIONES" >Gerente de operaciones</option>
+                                                <option value="MANTENIMIENTO" >Mantenimiento</option>
+                                                <option value="MONITORISTA" >Monitorista</option>
+                                                <option value="OPERADOR DE MONTACARGAS" >Operador de montacargas</option>
+                                                <option value="RECURSOS HUMANOS" >Recursos humanos</option>
+                                                <option value="SUPERVISOR DE OPERACIONES" >Supervisor de operaciones</option>
+
+                                            </select>
+                                          </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="banco">Banco:</label>
+                                        <input type="text" class="form-control" id="banco_general" name="banco"
                                             required>
                                     </div>
 
@@ -377,6 +456,11 @@
                                     <div class="form-group">
                                         <label for="amaterno">Apellido Materno:</label>
                                         <input type="text" class="form-control" id="amaterno_general" name="amaterno"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="telcasa">Teléfono de casa:</label>
+                                        <input type="text" class="form-control" id="telcasa_general" name="telcasa"
                                             required>
                                     </div>
                                     <div class="form-group">
@@ -394,31 +478,45 @@
                                         <input type="text" class="form-control" id="estado_general" name="estado"
                                             required>
                                     </div>
+
                                     <div class="form-group">
-                                        <label for="nss">NSS:</label>
-                                        <input type="text" class="form-control" id="nss_general" name="nss"
+                                        <label for="infonavit">Infonavit:</label>
+                                        <input type="text" class="form-control" id="infonavit_general" name="infonavit"
                                             required>
                                     </div>
                                     <div class="form-group">
+                                        <label for="lugar_nacimiento">Lugar de nacimiento:</label>
+                                        <input type="text" class="form-control" id="lugar_nacimiento_general"
+                                            name="lugar_nacimiento" required>
+                                    </div>
+                                    <div class="form-group">
                                         <label for="estado_civil">Estado civil:</label>
-                                        <input type="text" class="form-control" id="estado_civil_general"
-                                            name="estado_civil" required>
+                                        <input type="text" class="form-control" id="estado_civil_general" name="estado_civil"
+                                            required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="fecha_entrevista">Fecha de Entrevista:</label>
+                                        <input type="date" class="form-control" id="fecha_entrevista_general" name="fecha_entrevista"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="parentesco">Parentesco:</label>
+                                        <input type="text" class="form-control" id="parentesco_general" name="parentesco"
+                                            required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="cuenta">Cuenta:</label>
+                                        <input type="text" class="form-control" id="cuenta_general" name="cuenta"
+                                            required>
                                     </div>
                                     <div class="form-group">
                                         <label for="cuenta_bancaria">Número de Cuenta Bancario:</label>
                                         <input type="text" class="form-control" id="cuenta_bancaria_general"
                                             name="cuenta_bancaria" required>
                                     </div>
-                                    <div class="form-group">
-                                        <label for="banco">Banco:</label>
-                                        <input type="text" class="form-control" id="banco_general" name="banco"
-                                            required>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="predio">Predio:</label>
-                                        <input type="text" class="form-control" id="predio_general" name="predio"
-                                            required>
-                                    </div>
+
+
                                 </div>
                             </div> <!-- Fin de la división en dos columnas -->
 
@@ -514,15 +612,20 @@
                             val.col,
                             val.town,
                             val.state,
+                            val.cp,
                             val.application_date,
                             val.recrutier,
                             val.nss,
+                            val.infonavit,
+                            val.fonacot,
                             val.fecha_nac,
                             val.lugar_nac,
                             val.estado_civil,
                             val.escolaridad,
                             val.genero,
                             val.celular,
+                            val.telcasa,
+                            val.telcontacto,
                             botonYobel,
                             botonGeneral
                         ]).draw().node();
@@ -569,10 +672,14 @@
                     $('#rfc').val(data.rfc);
                     $('#manzana').val(data.manzana);
                     $('#estado').val(data.estado);
+                    $('#cp').val(data.cp);
                     $('#nss').val(data.nss);
+                    $('#infonavit').val(data.infonavit);
+                    $('#fonacot').val(data.fonacot);
                     $('#estado_civil').val(data.estado_civil);
                     $('#celular').val(data.celular);
-
+                    $('#telcasa').val(data.telcasa);
+                    $('#telcontacto').val(data.telcontacto);
                     $('#idempleadoyobel').text("Numero de que se asignará: " + data.idnuevoempleado);
                 }
             });
@@ -594,7 +701,7 @@
             var formData = $(this).serialize(); // Serializa los datos del formulario
 
             Swal.fire({
-                title: '¡Se enviarán los datos del formulario!',
+                title: '¡Se enviarán los datos del formulario YOBEL! ',
                 //         html: warningMessage,
                 showDenyButton: true,
                 confirmButtonText: 'Enviar',
@@ -673,10 +780,10 @@
                                 response["success"],
                                 'success'
                             )
-                            $('#modalEmpleadoYobel').modal('hide');
-                            setTimeout(function() {
-                                window.location.reload(true);
-                            }, 4000);
+                            // $('#modalEmpleadoYobel').modal('hide');
+                            // setTimeout(function() {
+                            //     window.location.reload(true);
+                            // }, 4000);
 
                         },
                         error: function(error) {
@@ -727,11 +834,16 @@
                     $('#rfc_general').val(data.rfc);
                     $('#manzana_general').val(data.manzana);
                     $('#estado_general').val(data.estado);
+                    $('#cp_general').val(data.cp);
                     $('#nss_general').val(data.nss);
+                    $('#infonavit_general').val(data.infonavit);
+                    $('#fonacot_general').val(data.fonacot);
                     $('#estado_civil_general').val(data.estado_civil);
                     $('#celular_general').val(data.celular);
+                    $('#telcasa_general').val(data.telcasa);
+                    $('#telcontacto_general').val(data.telcontacto);
 
-                    $('#idempleadoyobel_general').text("Numero de que se asignará: " + data.idnuevoempleado);
+                    $('#idempleado_general').text("Numero de que se asignará: " + data.idnuevoempleado);
                 }
             });
 

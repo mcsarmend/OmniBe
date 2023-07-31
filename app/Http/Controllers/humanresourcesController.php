@@ -73,15 +73,20 @@ class humanresourcesController extends Controller
             $nestedData['col'] = $post->col;
             $nestedData['town'] = $post->town;
             $nestedData['state'] = $post->state;
+            $nestedData['cp'] = $post->cp;
             $nestedData['application_date'] = $post->application_date;
             $nestedData['recrutier'] = $post->recrutier;
             $nestedData['nss'] = $post->nss;
+            $nestedData['infonavit'] = $post->infonavit;
+            $nestedData['fonacot'] = $post->fonacot;
             $nestedData['fecha_nac'] = $post->fecha_nac;
             $nestedData['lugar_nac'] = $post->lugar_nac;
             $nestedData['estado_civil'] = $post->estado_civil;
             $nestedData['escolaridad'] = $post->escolaridad;
             $nestedData['genero'] = $post->genero;
             $nestedData['celular'] = $post->celular;
+            $nestedData['telcasa'] = $post->telcasa;
+            $nestedData['telcontacto'] = $post->telcontacto;
             $nestedData['cryptedid'] = Crypt::encrypt($post->id);
 
             $data[] = $nestedData;
@@ -98,6 +103,8 @@ class humanresourcesController extends Controller
             $nestedData['nejecutivo'] = $post->nejecutivo;
             $nestedData['fechaalta'] = $post->fechaalta;
             $nestedData['nss'] = $post->nss;
+            $nestedData['infonavit'] = $post->infonavit;
+            $nestedData['fonacot'] = $post->fonacot;
             $nestedData['apaterno'] = $post->apaterno;
             $nestedData['amaterno'] = $post->amaterno;
             $nestedData['nombre'] = $post->nombre;
@@ -116,14 +123,16 @@ class humanresourcesController extends Controller
             $nestedData['lnac'] = $post->lnac;
             $nestedData['estcivil'] = $post->estcivil;
             $nestedData['escolaridad'] = $post->escolaridad;
-            $nestedData['tel'] = $post->tel;
+            $nestedData['telcasa'] = $post->telcasa;
             $nestedData['cel'] = $post->cel;
+            $nestedData['telcontacto'] = $post->telcontacto;
             $nestedData['calle'] = $post->calle;
             $nestedData['numero'] = $post->numero;
             $nestedData['manzana'] = $post->manzana;
             $nestedData['col'] = $post->col;
             $nestedData['cp'] = $post->cp;
             $nestedData['munic'] = $post->munic;
+            $nestedData['estado'] = $post->estado;
             $nestedData['causabaja'] = $post->causabaja;
             $nestedData['beneficiario'] = $post->beneficiario;
             $nestedData['parentesco'] = $post->parentesco;
@@ -170,6 +179,7 @@ class humanresourcesController extends Controller
             $nestedData['col'] = $post->col;
             $nestedData['cp'] = $post->cp;
             $nestedData['munic'] = $post->munic;
+            $nestedData['estado'] = $post->estado;
             $nestedData['causabaja'] = $post->causabaja;
             $nestedData['beneficiario'] = $post->beneficiario;
             $nestedData['parentesco'] = $post->parentesco;
@@ -195,9 +205,12 @@ class humanresourcesController extends Controller
             $nestedData['nejecutivo'] = $post->nejecutivo;
             $nestedData['fechaalta'] = $post->fechaalta;
             $nestedData['nss'] = $post->nss;
+            $nestedData['infonavit'] = $post->infonavit;
+            $nestedData['fonacot'] = $post->fonacot;
             $nestedData['apaterno'] = $post->apaterno;
             $nestedData['amaterno'] = $post->amaterno;
             $nestedData['nombre'] = $post->nombre;
+            $nestedData['correo'] = $post->correo;
             $nestedData['fechaalta2'] = $post->fechaalta2;
             $nestedData['fechabaja'] = $post->fechabaja;
             $nestedData['status'] = $post->status;
@@ -218,6 +231,7 @@ class humanresourcesController extends Controller
             $nestedData['col'] = $post->col;
             $nestedData['cp'] = $post->cp;
             $nestedData['munic'] = $post->munic;
+            $nestedData['estado'] = $post->estado;
             $nestedData['causabaja'] = $post->causabaja;
             $nestedData['beneficiario'] = $post->beneficiario;
             $nestedData['parentesco'] = $post->parentesco;
@@ -247,9 +261,12 @@ class humanresourcesController extends Controller
             $nestedData['nejecutivo'] = $post->nejecutivo;
             $nestedData['fechaalta'] = $post->fechaalta;
             $nestedData['nss'] = $post->nss;
+            $nestedData['infonavit'] = $post->infonavit;
+            $nestedData['fonacot'] = $post->fonacot;
             $nestedData['apaterno'] = $post->apaterno;
             $nestedData['amaterno'] = $post->amaterno;
             $nestedData['nombre'] = $post->nombre;
+            $nestedData['correo'] = $post->correo;
             $nestedData['fechaalta2'] = $post->fechaalta2;
             $nestedData['fechabaja'] = $post->fechabaja;
             $nestedData['status'] = $post->status;
@@ -264,12 +281,14 @@ class humanresourcesController extends Controller
             $nestedData['lnac'] = $post->lnac;
             $nestedData['estcivil'] = $post->estcivil;
             $nestedData['escolaridad'] = $post->escolaridad;
-            $nestedData['tel'] = $post->tel;
+            $nestedData['telcasa'] = $post->telcasa;
+            $nestedData['telcontacto'] = $post->telcontacto;
             $nestedData['cel'] = $post->cel;
             $nestedData['calle'] = $post->calle;
             $nestedData['col'] = $post->col;
             $nestedData['cp'] = $post->cp;
             $nestedData['munic'] = $post->munic;
+            $nestedData['estado'] = $post->estado;
             $nestedData['causabaja'] = $post->causabaja;
             $nestedData['beneficiario'] = $post->beneficiario;
             $nestedData['parentesco'] = $post->parentesco;
@@ -294,9 +313,8 @@ class humanresourcesController extends Controller
             $idnuevoempleado = DB::table('empleados_yobel')->max('id');
             $idnuevoempleado++;
         } else {
-            // $idnuevoempleado =  DB::table('empleados_yobel')->max('id');
-            // $idnuevoempleado++;
-            $idnuevoempleado = 123456789;
+            $idnuevoempleado = DB::table('empleados_base')->max('id');
+            $idnuevoempleado++;
         }
 
         // Ejecutar la consulta SQL utilizando el Query Builder
@@ -317,15 +335,20 @@ class humanresourcesController extends Controller
             $nestedData['colonia'] = $post->col;
             $nestedData['municipio'] = $post->town;
             $nestedData['estado'] = $post->state;
+            $nestedData['cp'] = $post->cp;
             $nestedData['fecha_envio'] = $post->application_date;
             $nestedData['reclutador'] = $post->recrutier;
             $nestedData['nss'] = $post->nss;
+            $nestedData['infonavit'] = $post->infonavit;
+            $nestedData['fonacot'] = $post->fonacot;
             $nestedData['fecha_nacimiento'] = $post->fecha_nac;
             $nestedData['lugar_nacimiento'] = $post->lugar_nac;
             $nestedData['estado_civil'] = $post->estado_civil;
             $nestedData['escolaridad'] = $post->escolaridad;
             $nestedData['genero'] = $post->genero;
             $nestedData['celular'] = $post->celular;
+            $nestedData['telcasa'] = $post->telcasa;
+            $nestedData['telcontacto'] = $post->telcontacto;
             $nestedData['idnuevoempleado'] = $idnuevoempleado;
             return $nestedData;
 
@@ -345,18 +368,20 @@ class humanresourcesController extends Controller
             DB::table('empleados_yobel')->insert([
                 'id' =>$idnuevoempleado,
                 'nejecutivo' => strtoupper( $request-> reclutador),
-                'fechaalta' => strtoupper( $fechaactual),
+                'fechaalta' => strtoupper( $request-> fecha_envio),
                 'nss' => strtoupper( $request-> nss),
+                'infonavit' => strtoupper( $request-> infonavit),
+                'fonacot' => strtoupper( $request-> fonacot),
                 'apaterno' => strtoupper( $request-> apaterno),
                 'amaterno' => strtoupper( $request-> amaterno),
                 'nombre' => strtoupper( $request-> nombre),
                 'correo' => strtoupper( $request-> correo),
-                'fechaalta2' => strtoupper( $request-> fecha_envio),
+                'fechaalta2' => strtoupper( $request-> fecha_alta),
                 'status' => strtoupper( 'ALTA'),
                 'salariomensual' => strtoupper( $request-> salario),
                 'puesto' => strtoupper( $request-> puesto),
-                'centrodecostos' => strtoupper( $request-> centro_trabajo),
-                'cuenta' => strtoupper( $request-> numero_cuenta),
+                'centrodecostos' => strtoupper( $request-> centro_costos),
+                'cuenta' => strtoupper( $request-> cuenta),
                 'predio' => strtoupper( $request-> predio),
                 'curp' => strtoupper( $request-> curp),
                 'rfc' => strtoupper( $request-> rfc),
@@ -365,15 +390,19 @@ class humanresourcesController extends Controller
                 'estcivil' => strtoupper( $request-> estado_civil),
                 'escolaridad' => strtoupper( $request-> escolaridad),
                 'cel' => strtoupper( $request-> celular),
+                'telcasa' => strtoupper( $request-> telcasa),
+                'telcontacto' => strtoupper( $request-> telcontacto),
                 'calle' => strtoupper( $request-> calle),
+                'numero' => strtoupper( $request-> numero),
+                'manzana' => strtoupper( $request-> manzana),
                 'col' => strtoupper( $request-> colonia),
                 'cp' => strtoupper( $request-> cp),
                 'munic' => strtoupper( $request-> municipio),
+                'estado' => strtoupper( $request-> estado),
                 'beneficiario' => strtoupper( $request-> beneficiario),
                 'parentesco' => strtoupper( $request-> parentesco),
                 'num_cuenta_bancario' => strtoupper( $request-> cuenta_bancaria),
                 'banco' => strtoupper( $request-> banco),
-                'predio' => strtoupper( $request-> predio),
                 'salario' => strtoupper( $request-> salario)
             ]);
             $prealta = prealta::find($idprealta);
@@ -396,17 +425,20 @@ class humanresourcesController extends Controller
             DB::table('empleados_base')->insert([
                 'id' =>$idnuevoempleado,
                 'nejecutivo' => strtoupper( $request-> reclutador),
-                'fechaalta' => strtoupper( $fechaactual),
+                'fechaalta' => strtoupper( $request-> fecha_entrevista),
                 'nss' => strtoupper( $request-> nss),
+                'infonavit' => strtoupper( $request-> infonavit),
+                'fonacot' => strtoupper( $request-> fonacot),
                 'apaterno' => strtoupper( $request-> apaterno),
                 'amaterno' => strtoupper( $request-> amaterno),
                 'nombre' => strtoupper( $request-> nombre),
                 'correo' => strtoupper( $request-> correo),
+                'sexo' => strtoupper( $request-> genero),
                 'fechanotific' => strtoupper( $request-> fecha_envio),
                 'status' => strtoupper( 'ALTA'),
                 'salariomensual' => strtoupper( $request-> salario),
                 'puesto' => strtoupper( $request-> puesto),
-                'cuenta' => strtoupper( $request-> numero_cuenta),
+                'cuenta' => strtoupper( $request-> cuenta),
                 'predio' => strtoupper( $request-> predio),
                 'curp' => strtoupper( $request-> curp),
                 'rfc' => strtoupper( $request-> rfc),
@@ -415,10 +447,16 @@ class humanresourcesController extends Controller
                 'estcivil' => strtoupper( $request-> estado_civil),
                 'escolaridad' => strtoupper( $request-> escolaridad),
                 'cel' => strtoupper( $request-> celular),
+                'telcasa' => strtoupper( $request-> telcasa),
+                'telcontacto' => strtoupper( $request-> telcontacto),
+                'cel' => strtoupper( $request-> celular),
                 'calle' => strtoupper( $request-> calle),
+                'numero' => strtoupper( $request-> numero),
+                'manzana' => strtoupper( $request-> manzana),
                 'col' => strtoupper( $request-> colonia),
                 'cp' => strtoupper( $request-> cp),
                 'munic' => strtoupper( $request-> municipio),
+                'estado' => strtoupper( $request-> estado),
                 'beneficiario' => strtoupper( $request-> beneficiario),
                 'parentesco' => strtoupper( $request-> parentesco),
                 'num_cuenta_bancario' => strtoupper( $request-> cuenta_bancaria),
@@ -426,8 +464,9 @@ class humanresourcesController extends Controller
                 'predio' => strtoupper( $request-> predio),
                 'salario' => strtoupper( $request-> salario)
             ]);
-            $prealta = prealta::find($idprealta);
-            $prealta->delete();
+
+    //        $prealta = prealta::find($idprealta);
+    //        $prealta->delete();
 
             return response()->json(['success' => "El usuario ha sido asigando a la base General"], 200);
 
