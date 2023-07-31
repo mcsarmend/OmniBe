@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\empleados_yobel;
 use App\Models\empleados_general;
+use App\Models\empleados_yobel;
 use App\Models\prealta;
 use App\Models\stalls;
 use Illuminate\Http\Request;
@@ -136,9 +136,9 @@ class humanresourcesController extends Controller
             $nestedData['causabaja'] = $post->causabaja;
             $nestedData['beneficiario'] = $post->beneficiario;
             $nestedData['parentesco'] = $post->parentesco;
-            $nestedData['num_cuenta_bancario'] = $post-> num_cuenta_bancario;
-            $nestedData['banco'] = $post-> banco;
-            $nestedData['salario'] = $post-> salario;
+            $nestedData['num_cuenta_bancario'] = $post->num_cuenta_bancario;
+            $nestedData['banco'] = $post->banco;
+            $nestedData['salario'] = $post->salario;
             $data[] = $nestedData;
         }
 
@@ -183,9 +183,9 @@ class humanresourcesController extends Controller
             $nestedData['causabaja'] = $post->causabaja;
             $nestedData['beneficiario'] = $post->beneficiario;
             $nestedData['parentesco'] = $post->parentesco;
-            $nestedData['num_cuenta_bancario'] = $post-> num_cuenta_bancario;
-            $nestedData['banco'] = $post-> banco;
-            $nestedData['salario'] = $post-> salario;
+            $nestedData['num_cuenta_bancario'] = $post->num_cuenta_bancario;
+            $nestedData['banco'] = $post->banco;
+            $nestedData['salario'] = $post->salario;
             $data[] = $nestedData;
         }
 
@@ -296,6 +296,11 @@ class humanresourcesController extends Controller
             $nestedData['banco'] = $post->banco;
             $nestedData['num_cuenta'] = $post->num_cuenta;
             $nestedData['salario'] = $post->salario;
+            $nestedData['calle_fiscal'] = $post->calle_fiscal;
+            $nestedData['cp_fiscal'] = $post->cp_fiscal;
+            $nestedData['municipio_fiscal'] = $post->municipio_fiscal;
+            $nestedData['entidad_federativa'] = $post->entidad_federativa;
+            $nestedData['telefono_fiscal'] = $post->telefono_fiscal;
 
             return $nestedData;
 
@@ -361,49 +366,49 @@ class humanresourcesController extends Controller
     public function asignarEmpleadoYobel(Request $request)
     {
         $idprealta = prealta::where('curp', $request->curp)->pluck('id')->first();
-        $fechaactual =now()->format('Y-m-d');
+        $fechaactual = now()->format('Y-m-d');
         $idnuevoempleado = DB::table('empleados_yobel')->max('id');
         $idnuevoempleado++;
         try {
             DB::table('empleados_yobel')->insert([
-                'id' =>$idnuevoempleado,
-                'nejecutivo' => strtoupper( $request-> reclutador),
-                'fechaalta' => strtoupper( $request-> fecha_envio),
-                'nss' => strtoupper( $request-> nss),
-                'infonavit' => strtoupper( $request-> infonavit),
-                'fonacot' => strtoupper( $request-> fonacot),
-                'apaterno' => strtoupper( $request-> apaterno),
-                'amaterno' => strtoupper( $request-> amaterno),
-                'nombre' => strtoupper( $request-> nombre),
-                'correo' => strtoupper( $request-> correo),
-                'fechaalta2' => strtoupper( $request-> fecha_alta),
-                'status' => strtoupper( 'ALTA'),
-                'salariomensual' => strtoupper( $request-> salario),
-                'puesto' => strtoupper( $request-> puesto),
-                'centrodecostos' => strtoupper( $request-> centro_costos),
-                'cuenta' => strtoupper( $request-> cuenta),
-                'predio' => strtoupper( $request-> predio),
-                'curp' => strtoupper( $request-> curp),
-                'rfc' => strtoupper( $request-> rfc),
-                'fechanac' => strtoupper( $request-> fecha_nacimiento),
-                'lnac' => strtoupper( $request-> lugar_nacimiento),
-                'estcivil' => strtoupper( $request-> estado_civil),
-                'escolaridad' => strtoupper( $request-> escolaridad),
-                'cel' => strtoupper( $request-> celular),
-                'telcasa' => strtoupper( $request-> telcasa),
-                'telcontacto' => strtoupper( $request-> telcontacto),
-                'calle' => strtoupper( $request-> calle),
-                'numero' => strtoupper( $request-> numero),
-                'manzana' => strtoupper( $request-> manzana),
-                'col' => strtoupper( $request-> colonia),
-                'cp' => strtoupper( $request-> cp),
-                'munic' => strtoupper( $request-> municipio),
-                'estado' => strtoupper( $request-> estado),
-                'beneficiario' => strtoupper( $request-> beneficiario),
-                'parentesco' => strtoupper( $request-> parentesco),
-                'num_cuenta_bancario' => strtoupper( $request-> cuenta_bancaria),
-                'banco' => strtoupper( $request-> banco),
-                'salario' => strtoupper( $request-> salario)
+                'id' => $idnuevoempleado,
+                'nejecutivo' => strtoupper($request->reclutador),
+                'fechaalta' => strtoupper($request->fecha_envio),
+                'nss' => strtoupper($request->nss),
+                'infonavit' => strtoupper($request->infonavit),
+                'fonacot' => strtoupper($request->fonacot),
+                'apaterno' => strtoupper($request->apaterno),
+                'amaterno' => strtoupper($request->amaterno),
+                'nombre' => strtoupper($request->nombre),
+                'correo' => strtoupper($request->correo),
+                'fechaalta2' => strtoupper($request->fecha_alta),
+                'status' => strtoupper('ALTA'),
+                'salariomensual' => strtoupper($request->salario),
+                'puesto' => strtoupper($request->puesto),
+                'centrodecostos' => strtoupper($request->centro_costos),
+                'cuenta' => strtoupper($request->cuenta),
+                'predio' => strtoupper($request->predio),
+                'curp' => strtoupper($request->curp),
+                'rfc' => strtoupper($request->rfc),
+                'fechanac' => strtoupper($request->fecha_nacimiento),
+                'lnac' => strtoupper($request->lugar_nacimiento),
+                'estcivil' => strtoupper($request->estado_civil),
+                'escolaridad' => strtoupper($request->escolaridad),
+                'cel' => strtoupper($request->celular),
+                'telcasa' => strtoupper($request->telcasa),
+                'telcontacto' => strtoupper($request->telcontacto),
+                'calle' => strtoupper($request->calle),
+                'numero' => strtoupper($request->numero),
+                'manzana' => strtoupper($request->manzana),
+                'col' => strtoupper($request->colonia),
+                'cp' => strtoupper($request->cp),
+                'munic' => strtoupper($request->municipio),
+                'estado' => strtoupper($request->estado),
+                'beneficiario' => strtoupper($request->beneficiario),
+                'parentesco' => strtoupper($request->parentesco),
+                'num_cuenta_bancario' => strtoupper($request->cuenta_bancaria),
+                'banco' => strtoupper($request->banco),
+                'salario' => strtoupper($request->salario),
             ]);
             $prealta = prealta::find($idprealta);
             $prealta->delete();
@@ -418,61 +423,130 @@ class humanresourcesController extends Controller
     public function asignarEmpleadoGeneral(Request $request)
     {
         $idprealta = prealta::where('curp', $request->curp)->pluck('id')->first();
-        $fechaactual =now()->format('Y-m-d');
+        $fechaactual = now()->format('Y-m-d');
         $idnuevoempleado = DB::table('empleados_base')->max('id');
         $idnuevoempleado++;
         try {
             DB::table('empleados_base')->insert([
-                'id' =>$idnuevoempleado,
-                'nejecutivo' => strtoupper( $request-> reclutador),
-                'fechaalta' => strtoupper( $request-> fecha_entrevista),
-                'nss' => strtoupper( $request-> nss),
-                'infonavit' => strtoupper( $request-> infonavit),
-                'fonacot' => strtoupper( $request-> fonacot),
-                'apaterno' => strtoupper( $request-> apaterno),
-                'amaterno' => strtoupper( $request-> amaterno),
-                'nombre' => strtoupper( $request-> nombre),
-                'correo' => strtoupper( $request-> correo),
-                'sexo' => strtoupper( $request-> genero),
-                'fechanotific' => strtoupper( $request-> fecha_envio),
-                'status' => strtoupper( 'ALTA'),
-                'salariomensual' => strtoupper( $request-> salario),
-                'puesto' => strtoupper( $request-> puesto),
-                'cuenta' => strtoupper( $request-> cuenta),
-                'predio' => strtoupper( $request-> predio),
-                'curp' => strtoupper( $request-> curp),
-                'rfc' => strtoupper( $request-> rfc),
-                'fechanac' => strtoupper( $request-> fecha_nacimiento),
-                'lnac' => strtoupper( $request-> lugar_nacimiento),
-                'estcivil' => strtoupper( $request-> estado_civil),
-                'escolaridad' => strtoupper( $request-> escolaridad),
-                'cel' => strtoupper( $request-> celular),
-                'telcasa' => strtoupper( $request-> telcasa),
-                'telcontacto' => strtoupper( $request-> telcontacto),
-                'cel' => strtoupper( $request-> celular),
-                'calle' => strtoupper( $request-> calle),
-                'numero' => strtoupper( $request-> numero),
-                'manzana' => strtoupper( $request-> manzana),
-                'col' => strtoupper( $request-> colonia),
-                'cp' => strtoupper( $request-> cp),
-                'munic' => strtoupper( $request-> municipio),
-                'estado' => strtoupper( $request-> estado),
-                'beneficiario' => strtoupper( $request-> beneficiario),
-                'parentesco' => strtoupper( $request-> parentesco),
-                'num_cuenta_bancario' => strtoupper( $request-> cuenta_bancaria),
-                'banco' => strtoupper( $request-> banco),
-                'predio' => strtoupper( $request-> predio),
-                'salario' => strtoupper( $request-> salario)
+                'id' => $idnuevoempleado,
+                'nejecutivo' => strtoupper($request->reclutador),
+                'fechaalta' => strtoupper($request->fecha_entrevista),
+                'nss' => strtoupper($request->nss),
+                'infonavit' => strtoupper($request->infonavit),
+                'fonacot' => strtoupper($request->fonacot),
+                'apaterno' => strtoupper($request->apaterno),
+                'amaterno' => strtoupper($request->amaterno),
+                'nombre' => strtoupper($request->nombre),
+                'correo' => strtoupper($request->correo),
+                'sexo' => strtoupper($request->genero),
+                'fechanotific' => strtoupper($request->fecha_envio),
+                'status' => strtoupper('ALTA'),
+                'salariomensual' => strtoupper($request->salario),
+                'puesto' => strtoupper($request->puesto),
+                'cuenta' => strtoupper($request->cuenta),
+                'predio' => strtoupper($request->centro_costos),
+                'curp' => strtoupper($request->curp),
+                'rfc' => strtoupper($request->rfc),
+                'fechanac' => strtoupper($request->fecha_nacimiento),
+                'lnac' => strtoupper($request->lugar_nacimiento),
+                'estcivil' => strtoupper($request->estado_civil),
+                'escolaridad' => strtoupper($request->escolaridad),
+                'cel' => strtoupper($request->celular),
+                'telcasa' => strtoupper($request->telcasa),
+                'telcontacto' => strtoupper($request->telcontacto),
+                'cel' => strtoupper($request->celular),
+                'calle' => strtoupper($request->calle),
+                'numero' => strtoupper($request->numero),
+                'manzana' => strtoupper($request->manzana),
+                'col' => strtoupper($request->colonia),
+                'cp' => strtoupper($request->cp),
+                'munic' => strtoupper($request->municipio),
+                'estado' => strtoupper($request->estado),
+                'beneficiario' => strtoupper($request->beneficiario),
+                'parentesco' => strtoupper($request->parentesco),
+                'num_cuenta_bancario' => strtoupper($request->cuenta_bancaria),
+                'banco' => strtoupper($request->banco),
+                'predio' => strtoupper($request->predio),
+                'salario' => strtoupper($request->salario),
             ]);
 
-    //        $prealta = prealta::find($idprealta);
-    //        $prealta->delete();
+            $prealta = prealta::find($idprealta);
+            $prealta->delete();
 
             return response()->json(['success' => "El usuario ha sido asigando a la base General"], 200);
 
         } catch (\Throwable $th) {
             return response()->json(['error' => "Ocurrió un error: " . $th], 401);
         }
+
+    }
+
+    public function eliminarempleadogeneral(Request $request)
+    {
+        try {
+            $prealta = empleados_general::find($request->id);
+            $prealta->delete();
+            return response()->json(['success' => "El registro ha sido eliminado"], 200);
+
+        } catch (\Throwable $th) {
+            return response()->json(['error' => "No se elimina registro"], 401);
+        }
+    }
+    public function eliminarempleadoyobel(Request $request)
+    {
+
+        try {
+            $prealta = empleados_yobel::find($request->id);
+            $prealta->delete();
+            return response()->json(['success' => "El registro ha sido eliminado"], 200);
+
+        } catch (\Throwable $th) {
+            return response()->json(['error' => "No se elimina registro"], 401);
+        }
+    }
+
+    public function editarempleadogeneral(Request $request){
+        $registro = empleados_general::find($request->id);
+        try {
+            $registro->puesto = $request->puesto;
+            $registro->predio = $request->centrocostos;
+            $registro->salario = $request->sueldo;
+            $registro->calle_fiscal = $request->calle_fiscal;
+            $registro->cp_fiscal = $request->cp_fiscal;
+            $registro->municipio_fiscal = $request->municipio_fiscal;
+            $registro->telefono_fiscal = $request->telefono_fiscal;
+            $registro->entidad_federativa = $request->entidad_federativa;
+            // Actualiza los demás campos según tu modelo y formulario
+
+            // Guardar los cambios en la base de datos
+            $registro->save();
+            return response()->json(['success' => "Actualización completada"], 200);
+        }catch(\throwable $th){
+            return response()->json(['error' => "Registro no actualizado" . $th], 401);
+        }
+
+
+    }
+    public function editarempleadoyobel(Request $request){
+        $registro = empleados_yobel::find($request->id);
+        try {
+            $registro->puesto = $request->puesto;
+            $registro->centrodecostos = $request->centrocostos;
+            $registro->salario = $request->sueldo;
+            $registro->calle_fiscal = $request->calle_fiscal;
+            $registro->cp_fiscal = $request->cp_fiscal;
+            $registro->municipio_fiscal = $request->municipio_fiscal;
+            $registro->telefono_fiscal = $request->telefono_fiscal;
+            $registro->entidad_federativa = $request->entidad_federativa;
+            // Actualiza los demás campos según tu modelo y formulario
+
+            // Guardar los cambios en la base de datos
+            $registro->save();
+            return response()->json(['success' => "Actualización completada"], 200);
+        }catch(\throwable $th){
+            return response()->json(['error' => "Registro no actualizado" . $th], 401);
+        }
+
 
     }
 

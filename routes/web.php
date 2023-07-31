@@ -82,6 +82,10 @@ Route::get('capitalhumano/operaciones/busquedayseleccion/obtenerEmpleadoGeneral'
 Route::get('capitalhumano/operaciones/busquedayseleccion/obtenerEmpleadoPrealta', [humanresourcesController::class, 'obtenerEmpleadoPrealta'])->middleware('auth');
 Route::post('capitalhumano/operaciones/busquedayseleccion/asignarEmpleadoYobel', [humanresourcesController::class, 'asignarEmpleadoYobel']);
 Route::post('capitalhumano/operaciones/busquedayseleccion/asignarEmpleadoGeneral', [humanresourcesController::class, 'asignarEmpleadoGeneral']);
+Route::post('capitalhumano/operaciones/busquedayseleccion/eliminarempleadoyobel', [humanresourcesController::class, 'eliminarempleadoyobel']);
+Route::post('capitalhumano/operaciones/busquedayseleccion/eliminarempleadogeneral', [humanresourcesController::class, 'eliminarempleadogeneral']);
+Route::post('capitalhumano/operaciones/busquedayseleccion/editarempleadoyobel', [humanresourcesController::class, 'editarempleadoyobel']);
+Route::post('capitalhumano/operaciones/busquedayseleccion/editarempleadogeneral', [humanresourcesController::class, 'editarempleadogeneral']);
 
 
 

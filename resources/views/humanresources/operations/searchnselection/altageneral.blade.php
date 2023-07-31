@@ -55,6 +55,8 @@
                         <th>Banco</th>
                         <th>Salario</th>
                         <th>MOPER ALTA</th>
+                        <th>EDITAR</th>
+                        <th>ELIMINAR</th>
 
                     </tr>
                 </thead>
@@ -5460,8 +5462,8 @@
                                         </td>
                                         <td class="column8 style106 null style106" colspan="4" rowspan="4">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2"
-                                                    id="correo" placeholder="Escribe aquí">
+                                                <input type="text" class="form-control backinp2" id="correo"
+                                                    placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column12 style107 null style107" colspan="2" rowspan="4">
@@ -5720,8 +5722,8 @@
                                         <td class="column1">&nbsp;</td>
                                         <td class="column14 style110 null style110" colspan="4">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2" id="nombrecompleto"
-                                                    placeholder="Escribe aquí">
+                                                <input type="text" class="form-control backinp2"
+                                                    id="nombrecompleto" placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column24 style58 null"></td>
@@ -6905,6 +6907,147 @@
             </div>
         </div>
 
+
+        <div class="modal fade" id="modaleditar" tabindex="-1" aria-labelledby="modaleditarLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <!-- Agregamos la clase modal-lg -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modaleditarLabel">EDITAR</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                            aria-label="Cerrar"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form class="mt-3" id="formulario_editar">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="id">Empleado id:</label>
+                                        <input type="text" class="form-control" id="id" name="id"
+                                            readonly required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="puesto">Puesto:</label>
+                                        <div class="form-group">
+                                            <select class="form-control" id="puesto_general" name="puesto">
+                                                <option value="ANALISTA DE OPERACIONES">Analista de operaciones</option>
+                                                <option value="ASISTENTE DE DIRECCIÓN">Asistente de dirección</option>
+                                                <option value="AUDITOR DE INVENTARIOS">Auditor de inventarios</option>
+                                                <option value="AUXILIAR ADMINISTRATIVO">Auxiliar administrativo</option>
+                                                <option value="AUXILIAR DE ALMACÉN">Auxiliar de almacén</option>
+                                                <option value="AUXILIAR DE COMPRAS">Auxiliar de compras</option>
+                                                <option value="AUXILIAR DE LIMPIEZA">Auxiliar de limpieza</option>
+                                                <option value="AUXILIAR DE MANTENIMIENTO">Auxiliar de mantenimiento
+                                                </option>
+                                                <option value="AUXILIAR DE OPERACIONES">Auxiliar de operaciones</option>
+                                                <option value="CHOFER PARTICULAR">Chofer particular</option>
+                                                <option value="GERENTE DE OPERACIONES">Gerente de operaciones</option>
+                                                <option value="MANTENIMIENTO">Mantenimiento</option>
+                                                <option value="MONITORISTA">Monitorista</option>
+                                                <option value="OPERADOR DE MONTACARGAS">Operador de montacargas</option>
+                                                <option value="RECURSOS HUMANOS">Recursos humanos</option>
+                                                <option value="SUPERVISOR DE OPERACIONES">Supervisor de operaciones
+                                                </option>
+                                                <option value="SUPERVISOR DE CALL CENTER">Supervisor de Call Center
+                                                </option>
+                                                <option value="AUXILIAR ADMINISTRATIVO">Auxiliar Administrativo</option>
+                                                <option value="MINERIA DE DATOS">Mineria de datos</option>
+                                                <option value="GESTOR DE COBRANZA">Gestor de cobranza</option>
+                                                <option value="DIRECCIÓN GENERAL">Dirección general</option>
+                                                <option value="DIRECCIÓN DE OPERACIONES">Dirección de operaciones</option>
+                                                <option value="COORDINACION DE DESARROLLO ORGANIZACIONAL">Coordinación de
+                                                    desarrollo organzacional</option>
+                                                <option value="AUXILIAR CONTABLE">Auxiliar contable</option>
+                                                <option value="AUXILIAR DE NOMINA">Auxiliar de nómina</option>
+                                                <option value="JEFE DE CALL CENTER">Jefe de Call Center</option>
+                                                <option value="MEDIOS DE COMUNICACION">Medios de comunicación</option>
+                                                <option value="EJECUTIVA DE CUENTA">Ejecutiva de cuenta</option>
+                                                <option value="GUARDIA DE SEGURIDAD">Guardia de seguridad</option>
+                                                <option value="SISTEMAS">SISTEMAS</option>
+                                                <option value="ASISTE DE DIRECCION">Asisten te de dirección</option>
+                                                <option value="COORDINADOR DE OPERACIONES">Coordinador de operaciones
+                                                </option>
+
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="centrocostos">Centro de costos:</label>
+                                        <select class="form-control" id="centrocostos" name="centrocostos">
+                                            <option value="000001 ADMINISTRACION">000001 Administración</option>
+                                            <option value="000002 GUADALAJARA">000001 Guadalajara</option>
+                                            <option value="000003 MONTERREY">000003 Monterrey</option>
+                                            <option value="000009 QUERETARO">000009 Queretaro</option>
+                                            <option value="000014 TELMEX">000014 Telmex</option>
+                                            <option value="000020 TORRE DE CONTROL">000020 Torre de Control</option>
+                                            <option value="000023 EQUIPO AMARILLO">000023 Equipo Amarillo</option>
+                                            <option value="000058 EQUIPO AZUL 1">000058 Equipo Azul 1</option>
+                                            <option value="000060 EQUIPO ROJO">000060 Equipo Rojo</option>
+                                            <option value="000061 EQUIPO VERDE">000061 Equipo Verde</option>
+                                            <option value="000065 EQUIPO NARANJA">000065 Equipo Naranja</option>
+                                            <option value="000070 JJ">000070 JJ</option>
+                                            <option value="000071 SAN LUIS POTOSI">000071 San Luis Potosi</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="sueldo">Sueldo:</label>
+                                        <input type="number" class="form-control" id="sueldo" name="sueldo"
+                                            required>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2>Dirección Fiscal</h2>
+                            <div class="row">
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="calle_fiscal">Calle, Número y Colonia:</label>
+                                        <input type="text" class="form-control" id="calle_fiscal"
+                                            name="calle_fiscal" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="cp_fiscal">Codigo postal:</label>
+                                        <input type="number" class="form-control" id="cp_fiscal" name="cp_fiscal"
+                                            required>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="municipio_fiscal">Municipio:</label>
+                                        <input type="text" class="form-control" id="municipio_fiscal"
+                                            name="municipio_fiscal" required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="telefono_fiscal">Número telefónico:</label>
+                                        <input type="text" class="form-control" id="telefono_fiscal"
+                                            name="telefono_fiscal" required>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="entidad_federativa">Entidad Federativa:</label>
+                                        <input type="text" class="form-control" id="entidad_federativa"
+                                            name="entidad_federativa" required>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <br>
+                            <button type="submit" class="btn btn-primary">Enviar</button>
+
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 @stop
 
@@ -6920,6 +7063,13 @@
         .tabpre {
             width: auto;
             overflow-x: auto;
+        }
+
+        ..form-control input {
+            width: 100%;
+            /* Opcional: Establece el ancho del input al 100% del div */
+            font-size: 14px;
+            /* Ajusta el tamaño del texto según tus necesidades */
         }
     </style>
 @stop
@@ -6986,6 +7136,13 @@
                     dataJson.forEach(function(val) {
                         moper = '<button class="btn btn-info" onClick="moperAlta(\'' + val.id +
                             '\')">Previo</button>';
+                        editar = '<button class="btn btn-warning" onClick="editargeneral(\'' +
+                            val.id +
+                            '\')">Editar</button>';
+                        eliminar =
+                            '<button class="btn btn-danger" onClick="eliminargeneral(\'' + val
+                            .id +
+                            '\')">Eliminar</button>';
                         var row = table.row.add([
                             val.id,
                             val.nejecutivo,
@@ -7024,7 +7181,9 @@
                             val.num_cuenta_bancario,
                             val.banco,
                             val.salario,
-                            moper
+                            moper,
+                            editar,
+                            eliminar
                         ]).draw().node();
                     });
 
@@ -7036,6 +7195,62 @@
                         error); // Muestra cualquier error en la consola para depuración
 
                 }
+            });
+
+
+            $('#formulario_editar').submit(function(event) {
+                event.preventDefault(); // Evita el envío del formulario por defecto
+
+                var formData = $(this).serialize(); // Serializa los datos del formulario
+
+                Swal.fire({
+                    title: '¡Se editará el registro! ',
+                    //         html: warningMessage,
+                    showDenyButton: true,
+                    confirmButtonText: 'Enviar',
+                    denyButtonText: `No enviar`,
+
+                }).then((result) => {
+
+                    if (result.isConfirmed) {
+
+                        $.ajax({
+                            url: "editarempleadogeneral",
+                            method: "POST",
+                            dataType: "JSON",
+                            headers: {
+                                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                            },
+                            type: 'POST', // Utiliza el método HTTP POST
+                            data: formData, // Envía los datos del formulario
+                            success: function(response) {
+                                Swal.fire(
+                                    '¡Gracias por esperar!',
+                                    response["success"],
+                                    'success'
+                                )
+                                $('#modalEmpleadoYobel').modal('hide');
+                                setTimeout(function() {
+                                    window.location.reload(true);
+                                }, 4000);
+
+                            },
+                            error: function(error) {
+                                // Se ejecuta cuando hay un error en la solicitud
+                                console.log('Error en la solicitud');
+                                console.log(error);
+                            }
+                        });
+
+
+                    } else if (result.isDenied) {
+                        Swal.fire({
+                            icon: 'info',
+                            title: 'No se asigna empleado',
+                            text: "No se realiza la asignación en yobel del empleado",
+                        });
+                    }
+                })
             });
         });
 
@@ -7135,7 +7350,8 @@
                     $('#predio').text(data.predio);
 
 
-                    domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", " + data.estado + ", " + data.cp +
+                    domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", " + data.estado +
+                        ", " + data.cp +
                         ", " + data.telcasa;
                     $('#domicilioytelefono').val(domicilioytelefono);
                     $('#rfc').val(data.rfc);
@@ -7162,6 +7378,84 @@
 
 
             $('#modalmoperalta').modal('show');
+        }
+
+        function editargeneral(id) {
+            $('#modaleditar').modal('show');
+
+            $.ajax({
+                url: "obtenerEmpleadoGeneral",
+                method: "GET",
+                dataType: "JSON",
+                data: {
+                    "id": id
+                },
+                success: function(data) {
+                    $('#id').val(data.id);
+                    $('#puesto').val(data.puesto);
+                    $('#centrocostos').val(data.predio);
+                    $('#sueldo').val(data.salario);
+                    $('#calle_fiscal').val(data.calle_fiscal);
+                    $('#cp_fiscal').val(data.cp_fiscal);
+                    $('#municipio_fiscal').val(data.municipio_fiscal);
+                    $('#entidad_federativa').val(data.entidad_federativa);
+                    $('#telefono_fiscal').val(data.telefono_fiscal);
+                }
+            });
+
+        }
+
+        function eliminargeneral(id) {
+            Swal.fire({
+                title: '¡Se eliminará el registro! ',
+                //         html: warningMessage,
+                showDenyButton: true,
+                confirmButtonText: 'Eliminar',
+                denyButtonText: `No eliminar`,
+
+            }).then((result) => {
+
+                if (result.isConfirmed) {
+
+                    $.ajax({
+                        url: "eliminarempleadogeneral",
+                        method: "POST",
+                        dataType: "JSON",
+                        headers: {
+                            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                        },
+                        type: 'POST', // Utiliza el método HTTP POST
+                        data: {
+                            "id": id
+                        }, // Envía los datos del formulario
+                        success: function(response) {
+                            Swal.fire(
+                                '¡Gracias por esperar!',
+                                response["success"],
+                                'success'
+                            )
+
+                            setTimeout(function() {
+                                window.location.reload(true);
+                            }, 4000);
+
+                        },
+                        error: function(error) {
+                            // Se ejecuta cuando hay un error en la solicitud
+                            console.log('Error en la solicitud');
+                            console.log(error);
+                        }
+                    });
+
+
+                } else if (result.isDenied) {
+                    Swal.fire({
+                        icon: 'info',
+                        title: 'Sin cambios',
+                        text: "No se elimina registro de la base general",
+                    });
+                }
+            });
         }
 
         function generarPDF() {
@@ -7205,6 +7499,8 @@
             ];
             return months[monthNumber];
         }
+
+
 
         function getWeekNumber(date) {
             // Copia la fecha proporcionada para no modificar la original

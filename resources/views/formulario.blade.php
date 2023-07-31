@@ -402,12 +402,18 @@
                             <label for="recrutier">Ejecutivo de cuenta:</label>
                         </div>
                         <div class="col-75">
-                            <input type="text" id="recrutier" name="recrutier" class="form-control"
-                                placeholder="Ejecutivo de cuenta..." required>
+                            <div class="form-group">
+                                <select class="form-control" id="recrutier" name="recrutier">
+                                    <option value="AGUILAR CAMACHO MARIA NANCY">AGUILAR CAMACHO MARIA NANCY</option>
+                                    <option value="ANGULO ACEVEDO MIREYA">ANGULO ACEVEDO MIREYA</option>
+                                    <option value="BELTRAN ZAMORA JOVANA RAXEL">BELTRAN ZAMORA JOVANA RAXEL</option>
+                                    <option value="CASTRO MONROY BIANCA DANIELA">CASTRO MONROY BIANCA DANIELA</option>
+                                    <option value="CRUZ MONTES ERIKA HATZIRI">CRUZ MONTES ERIKA HATZIRI</option>
+                                    <option value="GARCIA MARTINEZ ANGELICA MARIVELIA">GARCIA MARTINEZ ANGELICA MARIVELIA</option>
+                                    <option value="NUÑEZ GARCIA NATALIA">NUÑEZ GARCIA NATALIA</option>
+                                </select>
+                            </div>
                         </div>
-
-
-
                         <div class="row">
                             <input type="submit" value="Enviar">
                         </div>

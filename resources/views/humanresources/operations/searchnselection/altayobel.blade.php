@@ -58,6 +58,8 @@
                         <th>Banco</th>
                         <th>Salario</th>
                         <th>MOPER ALTA</th>
+                        <th>EDITAR</th>
+                        <th>ELIMINAR</th>
 
                     </tr>
                 </thead>
@@ -5463,8 +5465,8 @@
                                         </td>
                                         <td class="column8 style106 null style106" colspan="4" rowspan="4">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2"
-                                                    id="correo" placeholder="Escribe aquí">
+                                                <input type="text" class="form-control backinp2" id="correo"
+                                                    placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column12 style107 null style107" colspan="2" rowspan="4">
@@ -5475,8 +5477,8 @@
                                         </td>
                                         <td class="column14 style108 null style108" colspan="4" rowspan="2">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2"
-                                                    id="estado_civil" placeholder="Escribe aquí">
+                                                <input type="text" class="form-control backinp2" id="estado_civil"
+                                                    placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column18 style109 null style109" colspan="6" rowspan="4">
@@ -6906,6 +6908,138 @@
             </div>
         </div>
 
+        <div class="modal fade" id="modaleditar" tabindex="-1" aria-labelledby="modaleditarLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <!-- Agregamos la clase modal-lg -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modaleditarLabel">EDITAR</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                            aria-label="Cerrar"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form class="mt-3" id="formulario_editar">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="id">Empleado id:</label>
+                                        <input type="text" class="form-control" id="id" name="id"
+                                            readonly required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="puesto">Puesto:</label>
+                                        <div class="form-group">
+                                            <select class="form-control" id="puesto_general" name="puesto">
+                                                <option value="ANALISTA DE OPERACIONES">Analista de operaciones</option>
+                                                <option value="ASISTENTE DE DIRECCIÓN">Asistente de dirección</option>
+                                                <option value="AUDITOR DE INVENTARIOS">Auditor de inventarios</option>
+                                                <option value="AUXILIAR ADMINISTRATIVO">Auxiliar administrativo</option>
+                                                <option value="AUXILIAR DE ALMACÉN">Auxiliar de almacén</option>
+                                                <option value="AUXILIAR DE COMPRAS">Auxiliar de compras</option>
+                                                <option value="AUXILIAR DE LIMPIEZA">Auxiliar de limpieza</option>
+                                                <option value="AUXILIAR DE MANTENIMIENTO">Auxiliar de mantenimiento</option>
+                                                <option value="AUXILIAR DE OPERACIONES">Auxiliar de operaciones</option>
+                                                <option value="CHOFER PARTICULAR">Chofer particular</option>
+                                                <option value="GERENTE DE OPERACIONES">Gerente de operaciones</option>
+                                                <option value="MANTENIMIENTO">Mantenimiento</option>
+                                                <option value="MONITORISTA">Monitorista</option>
+                                                <option value="OPERADOR DE MONTACARGAS">Operador de montacargas</option>
+                                                <option value="RECURSOS HUMANOS">Recursos humanos</option>
+                                                <option value="SUPERVISOR DE OPERACIONES">Supervisor de operaciones
+                                                </option>
+                                                <option value="SUPERVISOR DE CALL CENTER">Supervisor de Call Center
+                                                </option>
+                                                <option value="AUXILIAR ADMINISTRATIVO">Auxiliar Administrativo</option>
+                                                <option value="MINERIA DE DATOS">Mineria de datos</option>
+                                                <option value="GESTOR DE COBRANZA">Gestor de cobranza</option>
+                                                <option value="DIRECCIÓN GENERAL">Dirección general</option>
+                                                <option value="DIRECCIÓN DE OPERACIONES">Dirección de operaciones</option>
+                                                <option value="COORDINACION DE DESARROLLO ORGANIZACIONAL">Coordinación de
+                                                    desarrollo organzacional</option>
+                                                <option value="AUXILIAR CONTABLE">Auxiliar contable</option>
+                                                <option value="AUXILIAR DE NOMINA">Auxiliar de nómina</option>
+                                                <option value="JEFE DE CALL CENTER">Jefe de Call Center</option>
+                                                <option value="MEDIOS DE COMUNICACION">Medios de comunicación</option>
+                                                <option value="EJECUTIVA DE CUENTA">Ejecutiva de cuenta</option>
+                                                <option value="GUARDIA DE SEGURIDAD">Guardia de seguridad</option>
+                                                <option value="SISTEMAS">SISTEMAS</option>
+                                                <option value="ASISTE DE DIRECCION">Asisten te de dirección</option>
+                                                <option value="COORDINADOR DE OPERACIONES">Coordinador de operaciones
+                                                </option>
+
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="centrocostos">Centro de costos:</label>
+                                            <select class="form-control" id="centrocostos" name="centrocostos">
+                                                <option value="MANUFACTURA">Manufactura</option>
+                                                <option value="CALL CENTER">Call Center</option>
+                                                <option value="CENTRO DE COSTOS">CENTRO DE COSTOS</option>
+                                                <option value="LIVERPOOL">Liverpool</option>
+                                                <option value="SUBURBIA">Suburbia</option>
+                                            </select>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="sueldo">Sueldo:</label>
+                                        <input type="number" class="form-control" id="sueldo" name="sueldo"
+                                            required>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2>Dirección Fiscal</h2>
+                            <div class="row">
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="calle_fiscal">Calle, Número y Colonia:</label>
+                                        <input type="text" class="form-control" id="calle_fiscal"
+                                            name="calle_fiscal" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="cp_fiscal">Codigo postal:</label>
+                                        <input type="number" class="form-control" id="cp_fiscal" name="cp_fiscal"
+                                            required>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="municipio_fiscal">Municipio:</label>
+                                        <input type="text" class="form-control" id="municipio_fiscal"
+                                            name="municipio_fiscal" required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="telefono_fiscal">Número telefónico:</label>
+                                        <input type="text" class="form-control" id="telefono_fiscal"
+                                            name="telefono_fiscal" required>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <label for="entidad_federativa">Entidad Federativa:</label>
+                                        <input type="text" class="form-control" id="entidad_federativa"
+                                            name="entidad_federativa" required>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <br>
+                            <button type="submit" class="btn btn-primary">Enviar</button>
+
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 @stop
 
@@ -6987,6 +7121,12 @@
                     dataJson.forEach(function(val) {
                         moper = '<button class="btn btn-info" onClick="moperAlta(\'' + val.id +
                             '\')">Previo</button>';
+                        editar = '<button class="btn btn-warning" onClick="editaryobel(\'' + val
+                            .id +
+                            '\')">Editar</button>';
+                        eliminar = '<button class="btn btn-danger" onClick="eliminaryobel(\'' +
+                            val.id +
+                            '\')">Eliminar</button>';
                         var row = table.row.add([
                             val.id,
                             val.nejecutivo,
@@ -7028,7 +7168,9 @@
                             val.num_cuenta_bancario,
                             val.banco,
                             val.salario,
-                            moper
+                            moper,
+                            editar,
+                            eliminar
                         ]).draw().node();
                     });
 
@@ -7040,6 +7182,61 @@
                         error); // Muestra cualquier error en la consola para depuración
 
                 }
+            });
+
+            $('#formulario_editar').submit(function(event) {
+                event.preventDefault(); // Evita el envío del formulario por defecto
+
+                var formData = $(this).serialize(); // Serializa los datos del formulario
+
+                Swal.fire({
+                    title: '¡Se editará el registro! ',
+                    //         html: warningMessage,
+                    showDenyButton: true,
+                    confirmButtonText: 'Enviar',
+                    denyButtonText: `No enviar`,
+
+                }).then((result) => {
+
+                    if (result.isConfirmed) {
+
+                        $.ajax({
+                            url: "editarempleadoyobel",
+                            method: "POST",
+                            dataType: "JSON",
+                            headers: {
+                                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                            },
+                            type: 'POST', // Utiliza el método HTTP POST
+                            data: formData, // Envía los datos del formulario
+                            success: function(response) {
+                                Swal.fire(
+                                    '¡Gracias por esperar!',
+                                    response["success"],
+                                    'success'
+                                )
+                                $('#modalEmpleadoYobel').modal('hide');
+                                setTimeout(function() {
+                                    window.location.reload(true);
+                                }, 4000);
+
+                            },
+                            error: function(error) {
+                                // Se ejecuta cuando hay un error en la solicitud
+                                console.log('Error en la solicitud');
+                                console.log(error);
+                            }
+                        });
+
+
+                    } else if (result.isDenied) {
+                        Swal.fire({
+                            icon: 'info',
+                            title: 'No se asigna empleado',
+                            text: "No se realiza la asignación en yobel del empleado",
+                        });
+                    }
+                })
             });
         });
 
@@ -7139,7 +7336,8 @@
                     $('#predio').text(data.predio);
 
 
-                    domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", "+ data.estado + ", " + data.cp +
+                    domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", " + data.estado +
+                        ", " + data.cp +
                         ", " + data.tel;
                     $('#domicilioytelefono').val(domicilioytelefono);
                     $('#rfc').text(data.rfc);
@@ -7163,6 +7361,84 @@
 
 
             $('#modalmoperalta').modal('show');
+        }
+
+        function editaryobel(id) {
+            $('#modaleditar').modal('show');
+
+            $.ajax({
+                url: "obtenerEmpleadoYobel",
+                method: "GET",
+                dataType: "JSON",
+                data: {
+                    "id": id
+                },
+                success: function(data) {
+                    $('#id').val(data.id);
+                    $('#puesto').val(data.puesto);
+                    $('#centrocostos').val(data.predio);
+                    $('#sueldo').val(data.salario);
+                    $('#calle_fiscal').val(data.calle_fiscal);
+                    $('#cp_fiscal').val(data.cp_fiscal);
+                    $('#municipio_fiscal').val(data.municipio_fiscal);
+                    $('#entidad_federativa').val(data.entidad_federativa);
+                    $('#telefono_fiscal').val(data.telefono_fiscal);
+                }
+            });
+
+        }
+
+        function eliminaryobel(id) {
+            Swal.fire({
+                title: '¡Se eliminará el registro! ',
+                //         html: warningMessage,
+                showDenyButton: true,
+                confirmButtonText: 'Eliminar',
+                denyButtonText: `No eliminar`,
+
+            }).then((result) => {
+
+                if (result.isConfirmed) {
+
+                    $.ajax({
+                        url: "eliminarempleadoyobel",
+                        method: "POST",
+                        dataType: "JSON",
+                        headers: {
+                            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                        },
+                        type: 'POST', // Utiliza el método HTTP POST
+                        data: {
+                            "id": id
+                        }, // Envía los datos del formulario
+                        success: function(response) {
+                            Swal.fire(
+                                '¡Gracias por esperar!',
+                                response["success"],
+                                'success'
+                            )
+
+                            setTimeout(function() {
+                                window.location.reload(true);
+                            }, 4000);
+
+                        },
+                        error: function(error) {
+                            // Se ejecuta cuando hay un error en la solicitud
+                            console.log('Error en la solicitud');
+                            console.log(error);
+                        }
+                    });
+
+
+                } else if (result.isDenied) {
+                    Swal.fire({
+                        icon: 'info',
+                        title: 'Sin cambios',
+                        text: "No se elimina registro de la base general",
+                    });
+                }
+            });
         }
 
         function generarPDF() {

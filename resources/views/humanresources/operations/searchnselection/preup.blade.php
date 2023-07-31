@@ -100,7 +100,7 @@
                                     <div class="form-group">
                                         <label for="fonacot">Fonacot:</label>
                                         <input type="text" class="form-control" id="fonacot"
-                                            name="fonacot" required>
+                                            name="fonacot">
                                     </div>
                                     <div class="form-group">
                                         <label for="genero">Genero:</label>
@@ -120,8 +120,15 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="centro_costos">Centro de costos:</label>
-                                        <input type="text" class="form-control" id="centro_costos" name="centro_costos"
-                                            required>
+                                        <div class="form-group">
+                                            <select class="form-control" id="centro_costos" name="centro_costos">
+                                                <option value="MANUFACTURA">Manufactura</option>
+                                                <option value="CALL CENTER">Call Center</option>
+                                                <option value="CENTRO DE COSTOS">CENTRO DE COSTOS</option>
+                                                <option value="LIVERPOOL">Liverpool</option>
+                                                <option value="SUBURBIA">Suburbia</option>
+                                            </select>
+                                        </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="salario">Salario mensual:</label>
@@ -196,12 +203,16 @@
                                                 <option value="AUXILIAR DE MANTENIMIENTO" >Auxiliar de mantenimiento</option>
                                                 <option value="AUXILIAR DE OPERACIONES" >Auxiliar de operaciones</option>
                                                 <option value="CHOFER PARTICULAR" >Chofer particular</option>
+                                                <option value="ESPECIALISTA EN EMPAQUE Y ETIQUETADO" >Especialista en empaque y etiquetado</option>
+                                                <option value="ESPECIALISTA DE DESARROLLO NUEVAS INICIATIVAS EN E Y E" >Especialista de desarrollo de nuevas iniciativas en E y E</option>
                                                 <option value="GERENTE DE OPERACIONES" >Gerente de operaciones</option>
                                                 <option value="MANTENIMIENTO" >Mantenimiento</option>
                                                 <option value="MONITORISTA" >Monitorista</option>
                                                 <option value="OPERADOR DE MONTACARGAS" >Operador de montacargas</option>
                                                 <option value="RECURSOS HUMANOS" >Recursos humanos</option>
                                                 <option value="SUPERVISOR DE OPERACIONES" >Supervisor de operaciones</option>
+                                                <option value="TECNICO EN EMPAQUE Y ETIQUETADO" >Técnico en empaque y etiquetado</option>
+
 
                                             </select>
                                           </div>
@@ -223,7 +234,7 @@
                                     <div class="form-group">
                                         <label for="telcasa">Teléfono de casa:</label>
                                         <input type="text" class="form-control" id="telcasa" name="telcasa"
-                                            required>
+                                            >
                                     </div>
                                     <div class="form-group">
                                         <label for="rfc">RFC:</label>
@@ -243,8 +254,7 @@
 
                                     <div class="form-group">
                                         <label for="infonavit">Infonavit:</label>
-                                        <input type="text" class="form-control" id="infonavit" name="infonavit"
-                                            required>
+                                        <input type="text" class="form-control" id="infonavit" name="infonavit">
                                     </div>
                                     <div class="form-group">
                                         <label for="lugar_nacimiento">Lugar de nacimiento:</label>
@@ -264,12 +274,19 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="parentesco">Parentesco:</label>
-                                        <input type="text" class="form-control" id="parentesco" name="parentesco"
-                                            required>
+                                        <div class="form-group">
+                                            <select class="form-control" id="parentesco" name="parentesco">
+                                                <option value="MADRE" >MADRE</option>
+                                                <option value="PADRE" >PADRE</option>
+                                                <option value="HERMANO(A)" >HERMANO(A)</option>
+                                                <option value="HIJO(A)" >HIJO(A)</option>
+                                                <option value="OTRO" >OTRO</option>
+                                            </select>
+                                          </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="cuenta">Cuenta:</label>
-                                        <input type="text" class="form-control" id="cuenta" name="cuenta"
+                                        <input type="text" class="form-control" id="cuenta" name="cuenta" value="YOBEL"
                                             required>
                                     </div>
                                     <div class="form-group">
@@ -338,7 +355,7 @@
                                     <div class="form-group">
                                         <label for="fonacot">Fonacot:</label>
                                         <input type="text" class="form-control" id="fonacot_general"
-                                            name="fonacot" required>
+                                            name="fonacot" >
                                     </div>
                                     <div class="form-group">
                                         <label for="genero">Genero:</label>
@@ -358,8 +375,24 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="centro_costos">Centro de costos:</label>
-                                        <input type="text" class="form-control" id="centro_costos_general" name="centro_costos"
-                                            required>
+                                            <div class="form-group">
+                                                <select class="form-control" id="centro_costos_general" name="centro_costos">
+                                                    <option value="000001 ADMINISTRACION">000001 Administración</option>
+                                                    <option value="000002 GUADALAJARA">000001 Guadalajara</option>
+                                                    <option value="000003 MONTERREY">000003 Monterrey</option>
+                                                    <option value="000009 QUERETARO">000009 Queretaro</option>
+                                                    <option value="000014 TELMEX">000014 Telmex</option>
+                                                    <option value="000020 TORRE DE CONTROL">000020 Torre de Control</option>
+                                                    <option value="000001 ADMINISTRACION">000001 ADMINISTRACION</option>
+                                                    <option value="000023 EQUIPO AMARILLO">000023 Equipo Amarillo</option>
+                                                    <option value="000058 EQUIPO AZUL 1">000058 Equipo Azul 1</option>
+                                                    <option value="000060 EQUIPO ROJO">000060 Equipo Rojo</option>
+                                                    <option value="000061 EQUIPO VERDE">000061 Equipo Verde</option>
+                                                    <option value="000065 EQUIPO NARANJA">000065 Equipo Naranja</option>
+                                                    <option value="000070 JJ">000070 JJ</option>
+                                                    <option value="000071 SAN LUIS POTOSI">000071 San Luis Potosi</option>
+                                                </select>
+                                            </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="salario">Salario mensual:</label>
@@ -440,6 +473,22 @@
                                                 <option value="OPERADOR DE MONTACARGAS" >Operador de montacargas</option>
                                                 <option value="RECURSOS HUMANOS" >Recursos humanos</option>
                                                 <option value="SUPERVISOR DE OPERACIONES" >Supervisor de operaciones</option>
+                                                <option value="SUPERVISOR DE CALL CENTER" >Supervisor de Call Center</option>
+                                                <option value="AUXILIAR ADMINISTRATIVO" >Auxiliar Administrativo</option>
+                                                <option value="MINERIA DE DATOS" >Mineria de datos</option>
+                                                <option value="GESTOR DE COBRANZA" >Gestor de cobranza</option>
+                                                <option value="DIRECCIÓN GENERAL" >Dirección general</option>
+                                                <option value="DIRECCIÓN DE OPERACIONES" >Dirección de operaciones</option>
+                                                <option value="COORDINACION DE DESARROLLO ORGANIZACIONAL" >Coordinación de desarrollo organzacional</option>
+                                                <option value="AUXILIAR CONTABLE" >Auxiliar contable</option>
+                                                <option value="AUXILIAR DE NOMINA" >Auxiliar de nómina</option>
+                                                <option value="JEFE DE CALL CENTER" >Jefe de Call Center</option>
+                                                <option value="MEDIOS DE COMUNICACION" >Medios de comunicación</option>
+                                                <option value="EJECUTIVA DE CUENTA" >Ejecutiva de cuenta</option>
+                                                <option value="GUARDIA DE SEGURIDAD" >Guardia de seguridad</option>
+                                                <option value="SISTEMAS" >SISTEMAS</option>
+                                                <option value="ASISTE DE DIRECCION" >Asisten te de dirección</option>
+                                                <option value="COORDINADOR DE OPERACIONES" >Coordinador de operaciones</option>
 
                                             </select>
                                           </div>
@@ -461,7 +510,7 @@
                                     <div class="form-group">
                                         <label for="telcasa">Teléfono de casa:</label>
                                         <input type="text" class="form-control" id="telcasa_general" name="telcasa"
-                                            required>
+                                            >
                                     </div>
                                     <div class="form-group">
                                         <label for="rfc">RFC:</label>
@@ -481,8 +530,7 @@
 
                                     <div class="form-group">
                                         <label for="infonavit">Infonavit:</label>
-                                        <input type="text" class="form-control" id="infonavit_general" name="infonavit"
-                                            required>
+                                        <input type="text" class="form-control" id="infonavit_general" name="infonavit">
                                     </div>
                                     <div class="form-group">
                                         <label for="lugar_nacimiento">Lugar de nacimiento:</label>
@@ -502,8 +550,15 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="parentesco">Parentesco:</label>
-                                        <input type="text" class="form-control" id="parentesco_general" name="parentesco"
-                                            required>
+                                        <div class="form-group">
+                                            <select class="form-control" id="parentesco_general" name="parentesco">
+                                                <option value="MADRE" >MADRE</option>
+                                                <option value="PADRE" >PADRE</option>
+                                                <option value="HERMANO(A)" >HERMANO(A)</option>
+                                                <option value="HIJO(A)" >HIJO(A)</option>
+                                                <option value="OTRO" >OTRO</option>
+                                            </select>
+                                          </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="cuenta">Cuenta:</label>
@@ -780,10 +835,10 @@
                                 response["success"],
                                 'success'
                             )
-                            // $('#modalEmpleadoYobel').modal('hide');
-                            // setTimeout(function() {
-                            //     window.location.reload(true);
-                            // }, 4000);
+                            $('#modalEmpleadoYobel').modal('hide');
+                            setTimeout(function() {
+                                window.location.reload(true);
+                            }, 4000);
 
                         },
                         error: function(error) {
