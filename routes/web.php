@@ -88,6 +88,9 @@ Route::post('capitalhumano/operaciones/busquedayseleccion/editarempleadoyobel', 
 Route::post('capitalhumano/operaciones/busquedayseleccion/editarempleadogeneral', [humanresourcesController::class, 'editarempleadogeneral']);
 
 
+Route::get('capitalhumano/operaciones/incidencias', [humanresourcesController::class, 'incidencias']);
+Route::get('capitalhumano/operaciones/horariosempleados', [humanresourcesController::class, 'horariosempleados']);
+
 
 
 // clientes

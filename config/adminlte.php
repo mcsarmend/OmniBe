@@ -328,7 +328,7 @@ return [
         ],
         [
             'text' => 'CAPITAL HUMANO',
-            'icon' => 'fas fa-fw fa-user-astronaut:',
+            'icon' => 'fas fa-fw fa-user-astronaut',
             'submenu' => [
 
                 [
@@ -337,7 +337,8 @@ return [
                     'submenu' => [
                         [
                             'text' => 'BUSQUEDA Y SELECCION',
-                            'url' => 'etiquetado/mambu/bursa',
+                            'url' => '#',
+                            'icon' => 'fas fa-fw fa-user-astronaut',
                             'submenu' => [
                                 [
                                     'text' => 'CATALOGO DE PUESTOS',
@@ -370,8 +371,17 @@ return [
                                     'url' => 'capitalhumano/operaciones/busquedayseleccion/altageneral',
                                 ],
 
-                            ]
+                            ],
                         ],
+                        [
+
+                            'text' => 'INCIDENCIAS',
+                            'url' => 'capitalhumano/operaciones/incidencias',
+                            'icon' => 'fas fa-fw fa-user-astronaut',
+                            // 'submenu' => [
+
+                            // ]
+                        ]
                     ]
                 ],
                 [
@@ -381,19 +391,19 @@ return [
                     'submenu' => [
                         [
                             'text' => 'Opción 1',
-                            'url' => 'etiquetado/mambu/bursa',
+                            'url' => '#',
                         ],
                         [
                             'text' => 'Opción 2',
-                            'url' => 'etiquetado/mambu/promecap',
+                            'url' => '#',
                         ],
                         [
                             'text' => 'Opción 3',
-                            'url' => 'etiquetado/mambu/blao',
+                            'url' => '#',
                         ],
                         [
                             'text' => 'Opción 4',
-                            'url' => 'etiquetado/mambu/mintos',
+                            'url' => '#',
                         ],
 
                     ]
@@ -405,19 +415,19 @@ return [
                     'submenu' => [
                         [
                             'text' => 'Opción 1',
-                            'url' => 'etiquetado/mambu/bursa',
+                            'url' => '#',
                         ],
                         [
                             'text' => 'Opción 2',
-                            'url' => 'etiquetado/mambu/promecap',
+                            'url' => '#',
                         ],
                         [
                             'text' => 'Opción 3',
-                            'url' => 'etiquetado/mambu/blao',
+                            'url' => '#',
                         ],
                         [
                             'text' => 'Opción 4',
-                            'url' => 'etiquetado/mambu/mintos',
+                            'url' => '#',
                         ],
 
                     ]

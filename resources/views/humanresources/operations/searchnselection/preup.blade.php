@@ -83,7 +83,8 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="telcontacto">Teléfono de contacto:</label>
-                                        <input type="text" class="form-control" id="telcontacto" name="telcontacto" required>
+                                        <input type="text" class="form-control" id="telcontacto" name="telcontacto"
+                                            required>
                                     </div>
                                     <div class="form-group">
                                         <label for="calle">Calle:</label>
@@ -99,13 +100,11 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="fonacot">Fonacot:</label>
-                                        <input type="text" class="form-control" id="fonacot"
-                                            name="fonacot">
+                                        <input type="text" class="form-control" id="fonacot" name="fonacot">
                                     </div>
                                     <div class="form-group">
                                         <label for="genero">Genero:</label>
-                                        <input type="text" class="form-control" id="genero" name="genero"
-                                            required>
+                                        <input type="text" class="form-control" id="genero" name="genero" required>
                                     </div>
 
                                     <div class="form-group">
@@ -121,25 +120,22 @@
                                     <div class="form-group">
                                         <label for="centro_costos">Centro de costos:</label>
                                         <div class="form-group">
-                                            <select class="form-control" id="centro_costos" name="centro_costos">
-                                                <option value="MANUFACTURA">Manufactura</option>
-                                                <option value="CALL CENTER">Call Center</option>
-                                                <option value="CENTRO DE COSTOS">CENTRO DE COSTOS</option>
-                                                <option value="LIVERPOOL">Liverpool</option>
-                                                <option value="SUBURBIA">Suburbia</option>
-                                            </select>
+                                            <input type="text" class="form-control" id="centro_costos"
+                                                name="centro_costos" required value="MOD MANUFACTURA">
                                         </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="salario">Salario mensual:</label>
-                                        <input type="number" class="form-control" id="salario" name="salario" required>
+                                        <input type="number" class="form-control" id="salario" name="salario"
+                                            min="0.01" max="100000.00" step="0.01" required>
                                     </div>
                                 </div>
                                 <!-- Segunda columna -->
                                 <div class="col">
                                     <div class="form-group">
                                         <label for="apaterno">Apellido paterno:</label>
-                                        <input type="text" class="form-control" id="apaterno" name="apaterno" required>
+                                        <input type="text" class="form-control" id="apaterno" name="apaterno"
+                                            required>
                                     </div>
 
                                     <div class="form-group">
@@ -193,29 +189,14 @@
                                         <label for="puesto">Puesto:</label>
                                         <div class="form-group">
                                             <select class="form-control" id="puesto" name="puesto">
-                                                <option value="ANALISTA DE OPERACIONES" >Analista de operaciones</option>
-                                                <option value="ASISTENTE DE DIRECCIÓN" >Asistente de dirección</option>
-                                                <option value="AUDITOR DE INVENTARIOS" >Auditor de inventarios</option>
-                                                <option value="AUXILIAR ADMINISTRATIVO" >Auxiliar administrativo</option>
-                                                <option value="AUXILIAR DE ALMACÉN" >Auxiliar de almacén</option>
-                                                <option value="AUXILIAR DE COMPRAS" >Auxiliar de compras</option>
-                                                <option value="AUXILIAR DE LIMPIEZA" >Auxiliar de limpieza</option>
-                                                <option value="AUXILIAR DE MANTENIMIENTO" >Auxiliar de mantenimiento</option>
-                                                <option value="AUXILIAR DE OPERACIONES" >Auxiliar de operaciones</option>
-                                                <option value="CHOFER PARTICULAR" >Chofer particular</option>
-                                                <option value="ESPECIALISTA EN EMPAQUE Y ETIQUETADO" >Especialista en empaque y etiquetado</option>
-                                                <option value="ESPECIALISTA DE DESARROLLO NUEVAS INICIATIVAS EN E Y E" >Especialista de desarrollo de nuevas iniciativas en E y E</option>
-                                                <option value="GERENTE DE OPERACIONES" >Gerente de operaciones</option>
-                                                <option value="MANTENIMIENTO" >Mantenimiento</option>
-                                                <option value="MONITORISTA" >Monitorista</option>
-                                                <option value="OPERADOR DE MONTACARGAS" >Operador de montacargas</option>
-                                                <option value="RECURSOS HUMANOS" >Recursos humanos</option>
-                                                <option value="SUPERVISOR DE OPERACIONES" >Supervisor de operaciones</option>
-                                                <option value="TECNICO EN EMPAQUE Y ETIQUETADO" >Técnico en empaque y etiquetado</option>
-
-
+                                                <option value="ESPECIALISTA EN EMPAQUE Y ETIQUETADO">Especialista en
+                                                    empaque y etiquetado</option>
+                                                <option value="ESPECIALISTA DE DESARROLLO NUEVAS INICIATIVAS EN E Y E">
+                                                    Especialista de desarrollo de nuevas iniciativas en E y E</option>
+                                                <option value="TECNICO EN MANTENIMIENTO DE EMPAQUE Y ETIQUETADO">Técnico en
+                                                    mantenimiento de empaque y etiquetado</option>
                                             </select>
-                                          </div>
+                                        </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="banco">Banco:</label>
@@ -233,8 +214,7 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="telcasa">Teléfono de casa:</label>
-                                        <input type="text" class="form-control" id="telcasa" name="telcasa"
-                                            >
+                                        <input type="text" class="form-control" id="telcasa" name="telcasa">
                                     </div>
                                     <div class="form-group">
                                         <label for="rfc">RFC:</label>
@@ -269,25 +249,25 @@
 
                                     <div class="form-group">
                                         <label for="fecha_entrevista">Fecha de Entrevista:</label>
-                                        <input type="date" class="form-control" id="fecha_entrevista" name="fecha_entrevista"
-                                            required>
+                                        <input type="date" class="form-control" id="fecha_entrevista"
+                                            name="fecha_entrevista" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="parentesco">Parentesco:</label>
                                         <div class="form-group">
                                             <select class="form-control" id="parentesco" name="parentesco">
-                                                <option value="MADRE" >MADRE</option>
-                                                <option value="PADRE" >PADRE</option>
-                                                <option value="HERMANO(A)" >HERMANO(A)</option>
-                                                <option value="HIJO(A)" >HIJO(A)</option>
-                                                <option value="OTRO" >OTRO</option>
+                                                <option value="MADRE">MADRE</option>
+                                                <option value="PADRE">PADRE</option>
+                                                <option value="HERMANO(A)">HERMANO(A)</option>
+                                                <option value="HIJO(A)">HIJO(A)</option>
+                                                <option value="OTRO">OTRO</option>
                                             </select>
-                                          </div>
+                                        </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="cuenta">Cuenta:</label>
-                                        <input type="text" class="form-control" id="cuenta" name="cuenta" value="YOBEL"
-                                            required>
+                                        <input type="text" class="form-control" id="cuenta" name="cuenta"
+                                            value="YOBEL" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="cuenta_bancaria">Número de Cuenta Bancario:</label>
@@ -330,32 +310,37 @@
                                 <div class="col">
                                     <div class="form-group">
                                         <label for="nombre">Nombre:</label>
-                                        <input type="text" class="form-control" id="nombre_general" name="nombre" required>
+                                        <input type="text" class="form-control" id="nombre_general" name="nombre"
+                                            required>
                                     </div>
                                     <div class="form-group">
                                         <label for="correo">Correo:</label>
-                                        <input type="text" class="form-control" id="correo_general" name="correo" required>
+                                        <input type="text" class="form-control" id="correo_general" name="correo"
+                                            required>
                                     </div>
                                     <div class="form-group">
                                         <label for="telcontacto">Teléfono de contacto:</label>
-                                        <input type="text" class="form-control" id="telcontacto_general" name="telcontacto" required>
+                                        <input type="text" class="form-control" id="telcontacto_general"
+                                            name="telcontacto" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="calle">Calle:</label>
-                                        <input type="text" class="form-control" id="calle_general" name="calle" required>
+                                        <input type="text" class="form-control" id="calle_general" name="calle"
+                                            required>
                                     </div>
                                     <div class="form-group">
                                         <label for="colonia">Colonia:</label>
-                                        <input type="text" class="form-control" id="colonia_general" name="colonia" required>
+                                        <input type="text" class="form-control" id="colonia_general" name="colonia"
+                                            required>
                                     </div>
                                     <div class="form-group">
                                         <label for="cp">Código postal:</label>
-                                        <input type="text" class="form-control" id="cp_general" name="cp" required>
+                                        <input type="text" class="form-control" id="cp_general" name="cp"
+                                            required>
                                     </div>
                                     <div class="form-group">
                                         <label for="fonacot">Fonacot:</label>
-                                        <input type="text" class="form-control" id="fonacot_general"
-                                            name="fonacot" >
+                                        <input type="text" class="form-control" id="fonacot_general" name="fonacot">
                                     </div>
                                     <div class="form-group">
                                         <label for="genero">Genero:</label>
@@ -365,45 +350,52 @@
 
                                     <div class="form-group">
                                         <label for="fecha_envio">Fecha de envío:</label>
-                                        <input type="date" class="form-control" id="fecha_envio_general" name="fecha_envio"
-                                            required>
+                                        <input type="date" class="form-control" id="fecha_envio_general"
+                                            name="fecha_envio" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="reclutador">Ejecutivo de cuenta:</label>
-                                        <input type="text" class="form-control" id="reclutador_general" name="reclutador"
-                                            required>
+                                        <input type="text" class="form-control" id="reclutador_general"
+                                            name="reclutador" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="centro_costos">Centro de costos:</label>
-                                            <div class="form-group">
-                                                <select class="form-control" id="centro_costos_general" name="centro_costos">
-                                                    <option value="000001 ADMINISTRACION">000001 Administración</option>
-                                                    <option value="000002 GUADALAJARA">000001 Guadalajara</option>
-                                                    <option value="000003 MONTERREY">000003 Monterrey</option>
-                                                    <option value="000009 QUERETARO">000009 Queretaro</option>
-                                                    <option value="000014 TELMEX">000014 Telmex</option>
-                                                    <option value="000020 TORRE DE CONTROL">000020 Torre de Control</option>
-                                                    <option value="000001 ADMINISTRACION">000001 ADMINISTRACION</option>
-                                                    <option value="000023 EQUIPO AMARILLO">000023 Equipo Amarillo</option>
-                                                    <option value="000058 EQUIPO AZUL 1">000058 Equipo Azul 1</option>
-                                                    <option value="000060 EQUIPO ROJO">000060 Equipo Rojo</option>
-                                                    <option value="000061 EQUIPO VERDE">000061 Equipo Verde</option>
-                                                    <option value="000065 EQUIPO NARANJA">000065 Equipo Naranja</option>
-                                                    <option value="000070 JJ">000070 JJ</option>
-                                                    <option value="000071 SAN LUIS POTOSI">000071 San Luis Potosi</option>
-                                                </select>
-                                            </div>
+                                        <div class="form-group">
+                                            <select class="form-control" id="centro_costos_general" name="centro_costos">
+                                                <option value="GUADALAJARA">Guadalajara</option>
+                                                <option value="MONTERREY">Monterrey</option>
+                                                <option value="QUERETARO">Queretaro</option>
+                                                <option value="TELMEX">Telmex</option>
+                                                <option value="TORRE DE CONTROL">Torre de Control</option>
+                                                <option value="EQUIPO AMARILLO">Equipo Amarillo</option>
+                                                <option value="EQUIPO AZUL 1">Equipo Azul 1</option>
+                                                <option value="EQUIPO ROJO">Equipo Rojo</option>
+                                                <option value="EQUIPO VERDE">Equipo Verde</option>
+                                                <option value="EQUIPO NARANJA">Equipo Naranja</option>
+                                                <option value="JJ">JJ</option>
+                                                <option value="SAN LUIS POTOSI">San Luis Potosi</option>
+                                                <option value="CALL CENTER SUBURBIA">Call Center Suburbia</option>
+                                                <option value="CALL CENTER LIVERPOOL">Call Center Liverpool</option>
+                                                <option value="DIRECCION">Dirección</option>
+                                                <option value="DESARROLLO ORGANIZACIONAL">Desarrollo Organizacional
+                                                </option>
+                                                <option value="OPERACIONES">Operaciones</option>
+                                                <option value="ADMINISTRACION">Administración</option>
+                                            </select>
+                                        </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="salario">Salario mensual:</label>
-                                        <input type="number" class="form-control" id="salario_general" name="salario" required>
+                                        <input type="number" class="form-control" id="salario_general" name="salario"
+                                            min="0.01" max="100000.00" step="0.01" required>
                                     </div>
                                 </div>
                                 <!-- Segunda columna -->
                                 <div class="col">
                                     <div class="form-group">
                                         <label for="apaterno">Apellido paterno:</label>
-                                        <input type="text" class="form-control" id="apaterno_general" name="apaterno" required>
+                                        <input type="text" class="form-control" id="apaterno_general" name="apaterno"
+                                            required>
                                     </div>
 
                                     <div class="form-group">
@@ -423,8 +415,8 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="municipio">Municipio:</label>
-                                        <input type="text" class="form-control" id="municipio_general" name="municipio"
-                                            required>
+                                        <input type="text" class="form-control" id="municipio_general"
+                                            name="municipio" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="nss">NSS:</label>
@@ -438,60 +430,70 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="escolaridad">Escolaridad:</label>
-                                        <input type="text" class="form-control" id="escolaridad_general" name="escolaridad"
-                                            required>
+                                        <input type="text" class="form-control" id="escolaridad_general"
+                                            name="escolaridad" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="fechaalta">Fecha de alta:</label>
-                                        <input type="date" class="form-control" id="municipio_general" name="municipio"
-                                            required>
+                                        <input type="date" class="form-control" id="municipio_general"
+                                            name="municipio" required>
                                     </div>
 
                                     <div class="form-group">
                                         <label for="beneficiario">Beneficiario:</label>
-                                        <input type="text" class="form-control" id="beneficiario_general" name="beneficiario"
-                                            required>
+                                        <input type="text" class="form-control" id="beneficiario_general"
+                                            name="beneficiario" required>
                                     </div>
 
                                     <div class="form-group">
                                         <label for="puesto">Puesto:</label>
                                         <div class="form-group">
-                                            <select class="form-control" id="puesto_general" name = "puesto">
-                                                <option value="ANALISTA DE OPERACIONES" >Analista de operaciones</option>
-                                                <option value="ASISTENTE DE DIRECCIÓN" >Asistente de dirección</option>
-                                                <option value="AUDITOR DE INVENTARIOS" >Auditor de inventarios</option>
-                                                <option value="AUXILIAR ADMINISTRATIVO" >Auxiliar administrativo</option>
-                                                <option value="AUXILIAR DE ALMACÉN" >Auxiliar de almacén</option>
-                                                <option value="AUXILIAR DE COMPRAS" >Auxiliar de compras</option>
-                                                <option value="AUXILIAR DE LIMPIEZA" >Auxiliar de limpieza</option>
-                                                <option value="AUXILIAR DE MANTENIMIENTO" >Auxiliar de mantenimiento</option>
-                                                <option value="AUXILIAR DE OPERACIONES" >Auxiliar de operaciones</option>
-                                                <option value="CHOFER PARTICULAR" >Chofer particular</option>
-                                                <option value="GERENTE DE OPERACIONES" >Gerente de operaciones</option>
-                                                <option value="MANTENIMIENTO" >Mantenimiento</option>
-                                                <option value="MONITORISTA" >Monitorista</option>
-                                                <option value="OPERADOR DE MONTACARGAS" >Operador de montacargas</option>
-                                                <option value="RECURSOS HUMANOS" >Recursos humanos</option>
-                                                <option value="SUPERVISOR DE OPERACIONES" >Supervisor de operaciones</option>
-                                                <option value="SUPERVISOR DE CALL CENTER" >Supervisor de Call Center</option>
-                                                <option value="AUXILIAR ADMINISTRATIVO" >Auxiliar Administrativo</option>
-                                                <option value="MINERIA DE DATOS" >Mineria de datos</option>
-                                                <option value="GESTOR DE COBRANZA" >Gestor de cobranza</option>
-                                                <option value="DIRECCIÓN GENERAL" >Dirección general</option>
-                                                <option value="DIRECCIÓN DE OPERACIONES" >Dirección de operaciones</option>
-                                                <option value="COORDINACION DE DESARROLLO ORGANIZACIONAL" >Coordinación de desarrollo organzacional</option>
-                                                <option value="AUXILIAR CONTABLE" >Auxiliar contable</option>
-                                                <option value="AUXILIAR DE NOMINA" >Auxiliar de nómina</option>
-                                                <option value="JEFE DE CALL CENTER" >Jefe de Call Center</option>
-                                                <option value="MEDIOS DE COMUNICACION" >Medios de comunicación</option>
-                                                <option value="EJECUTIVA DE CUENTA" >Ejecutiva de cuenta</option>
-                                                <option value="GUARDIA DE SEGURIDAD" >Guardia de seguridad</option>
-                                                <option value="SISTEMAS" >SISTEMAS</option>
-                                                <option value="ASISTE DE DIRECCION" >Asisten te de dirección</option>
-                                                <option value="COORDINADOR DE OPERACIONES" >Coordinador de operaciones</option>
-
+                                            <select class="form-control" id="puesto_general" name="puesto">
+                                                <option value="ANALISTA DE OPERACIONES">Analista de operaciones</option>
+                                                <option value="ASISTENTE DE DIRECCION">Asistente de dirección</option>
+                                                <option value="AUDITOR DE INVENTARIOS">Auditor de inventarios</option>
+                                                <option value="AUXILIAR ADMINISTRATIVO">Auxiliar administrativo</option>
+                                                <option value="AUXILIAR CONTABLE">Auxiliar contable</option>
+                                                <option value="AUXILIAR DE ALMACÉN">Auxiliar de almacén</option>
+                                                <option value="AUXILIAR DE COMPRAS">Auxiliar de compras</option>
+                                                <option value="AUXILIAR DE LIMPIEZA">Auxiliar de limpieza</option>
+                                                <option value="AUXILIAR DE MANTENIMIENTO">Auxiliar de mantenimiento
+                                                </option>
+                                                <option value="AUXILIAR DE NOMINA">Auxiliar de nómina</option>
+                                                <option value="AUXILIAR DE OPERACIONES">Auxiliar de operaciones</option>
+                                                <option value="CALIDAD">Calidad</option>
+                                                <option value="CHOFER PARTICULAR">Chofer particular</option>
+                                                <option value="CIRCULACION">Circulación</option>
+                                                <option value="CONTADOR GENERAL">Contador General</option>
+                                                <option value="COMERCIALIZACION">Comercialización</option>
+                                                <option value="COMMUNITY MANAGER">Community manager</option>
+                                                <option value="COORDINADOR DE DESARROLLO ORGANIZACIONAL">Coordinador de
+                                                    desarrollo organizacional</option>
+                                                <option value="DIRECCIÓN DE OPERACIONES">Dirección de operaciones</option>
+                                                <option value="DIRECCIÓN GENERAL">Dirección general</option>
+                                                <option value="DIRECTORA ADMINISTRATIVA Y FINANCIERA">Directora
+                                                    administrativa y financiera</option>
+                                                <option value="EJECUTIVA DE CUENTA">Ejecutiva de cuenta</option>
+                                                <option value="ENFERMERA">Enfermera</option>
+                                                <option value="FOTOGRAFO">Fotógrafo</option>
+                                                <option value="GESTOR DE COBRANZA">Gestor de cobranza</option>
+                                                <option value="GUARDIA DE SEGURIDAD">Guardia de seguridad</option>
+                                                <option value="JEFE DE CALL CENTER">Jefe de Call Center</option>
+                                                <option value="MANTENIMIENTO">Mantenimiento</option>
+                                                <option value="MEDIOS DE COMUNICACION">Medios de comunicación</option>
+                                                <option value="MENSAJERO">Mensajero</option>
+                                                <option value="MINERIA DE DATOS">Minería de datos</option>
+                                                <option value="MONITORISTA">Monitorista</option>
+                                                <option value="OPERADOR DE MONTACARGAS">Operador de montacargas</option>
+                                                <option value="RECURSOS HUMANOS">Recursos humanos</option>
+                                                <option value="REDACTOR">Redactor</option>
+                                                <option value="SISTEMAS">Sistemas</option>
+                                                <option value="SUPERVISOR DE CALL CENTER">Supervisor de Call Center
+                                                </option>
+                                                <option value="SUPERVISOR DE OPERACIONES">Supervisor de operaciones
+                                                </option>
                                             </select>
-                                          </div>
+                                        </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="banco">Banco:</label>
@@ -509,8 +511,7 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="telcasa">Teléfono de casa:</label>
-                                        <input type="text" class="form-control" id="telcasa_general" name="telcasa"
-                                            >
+                                        <input type="text" class="form-control" id="telcasa_general" name="telcasa">
                                     </div>
                                     <div class="form-group">
                                         <label for="rfc">RFC:</label>
@@ -530,7 +531,8 @@
 
                                     <div class="form-group">
                                         <label for="infonavit">Infonavit:</label>
-                                        <input type="text" class="form-control" id="infonavit_general" name="infonavit">
+                                        <input type="text" class="form-control" id="infonavit_general"
+                                            name="infonavit">
                                     </div>
                                     <div class="form-group">
                                         <label for="lugar_nacimiento">Lugar de nacimiento:</label>
@@ -539,31 +541,36 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="estado_civil">Estado civil:</label>
-                                        <input type="text" class="form-control" id="estado_civil_general" name="estado_civil"
-                                            required>
+                                        <input type="text" class="form-control" id="estado_civil_general"
+                                            name="estado_civil" required>
                                     </div>
 
                                     <div class="form-group">
                                         <label for="fecha_entrevista">Fecha de Entrevista:</label>
-                                        <input type="date" class="form-control" id="fecha_entrevista_general" name="fecha_entrevista"
-                                            required>
+                                        <input type="date" class="form-control" id="fecha_entrevista_general"
+                                            name="fecha_entrevista" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="parentesco">Parentesco:</label>
                                         <div class="form-group">
                                             <select class="form-control" id="parentesco_general" name="parentesco">
-                                                <option value="MADRE" >MADRE</option>
-                                                <option value="PADRE" >PADRE</option>
-                                                <option value="HERMANO(A)" >HERMANO(A)</option>
-                                                <option value="HIJO(A)" >HIJO(A)</option>
-                                                <option value="OTRO" >OTRO</option>
+                                                <option value="MADRE">MADRE</option>
+                                                <option value="PADRE">PADRE</option>
+                                                <option value="HERMANO(A)">HERMANO(A)</option>
+                                                <option value="HIJO(A)">HIJO(A)</option>
+                                                <option value="OTRO">OTRO</option>
                                             </select>
-                                          </div>
+                                        </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="cuenta">Cuenta:</label>
-                                        <input type="text" class="form-control" id="cuenta_general" name="cuenta"
-                                            required>
+                                        <select class="form-control" id="cuenta_general" name="cuenta">
+                                            <option value="GRUPO ED">Grupo ED</option>
+                                            <option value="CALL CENTER">Call Center</option>
+                                            <option value="STAFF">Staff</option>
+                                            <option value="ELEMENTAL">Elemental</option>
+                                        </select>
+
                                     </div>
                                     <div class="form-group">
                                         <label for="cuenta_bancaria">Número de Cuenta Bancario:</label>

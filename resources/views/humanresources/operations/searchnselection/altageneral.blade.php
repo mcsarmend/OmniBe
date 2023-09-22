@@ -1194,7 +1194,8 @@
                                         </td>
                                         <td class="column8 style66 null style66" colspan="2" rowspan="2">
                                             <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" id="checksegescred" checked>
+                                                <input class="form-check-input" type="checkbox" id="checksegescred"
+                                                    checked>
                                             </div>
                                         </td>
                                         <td class="column10 style9 null"></td>
@@ -1639,9 +1640,24 @@
                                     <tr class="row21">
                                         <td class="column0">&nbsp;</td>
                                         <td class="column1">&nbsp;</td>
-                                        <td class="column12 style71 null style71" colspan="2" id="diaingreso"></td>
-                                        <td class="column14 style71 null style71" colspan="2" id="mesingreso"></td>
-                                        <td class="column16 style71 null style71" colspan="2" id="anoingreso"></td>
+                                        <td class="column12 style71 null style71" colspan="2">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp" id="diaingreso"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column14 style71 null style71" colspan="2" id="">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp" id="mesingreso"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
+                                        <td class="column16 style71 null style71" colspan="2" id="">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp" id="anoingreso"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
                                         <td class="column18 style72 null style72" colspan="2" id="diabaja"></td>
                                         <td class="column20 style72 null style72" colspan="2" id="mesbaja"></td>
                                         <td class="column22 style72 null style72" colspan="2" id="anobaja"></td>
@@ -2653,7 +2669,7 @@
                                     <tr class="row32">
                                         <td class="column0 style50 null"></td>
                                         <td class="column1">&nbsp;</td>
-                                        <td class="column2 style81 s style81" colspan="3">AREA</td>
+                                        <td class="column2 style81 s style81" colspan="3">CENTRO DE COSTOS</td>
                                         <td class="column5 style82 null style82" colspan="8">
                                             <div class="form-control backinp2">
                                                 <input type="text" class="form-control backinp2"
@@ -4042,14 +4058,12 @@
                                         <td class="column1">&nbsp;</td>
                                         <td class="column2 style94 null style94" colspan="10" rowspan="5">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2"
-                                                    id="domicilioytelefono" placeholder="Escribe aquí">
+                                                <div class="form-control backinp2" id="domicilioytelefono"></div>
                                             </div>
                                         </td>
                                         <td class="column12 style95 null style95" colspan="12" rowspan="5">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2" id = "domicilioytelefonofiscal"
-                                                    placeholder="Escribe aquí">
+                                                <div class="form-control backinp2" id="domicilioytelefonofiscal"></div>
                                             </div>
                                         </td>
                                         <td class="column24 style52 null"></td>
@@ -5007,7 +5021,11 @@
                                         <td class="column15 style99 s style99" rowspan="2">MES</td>
                                         <td class="column16 style99 s style99" rowspan="2">AÑO</td>
                                         <td class="column17 style100 s style100" colspan="4" rowspan="2">
-                                            PREPARATORIA</td>
+                                            <div class="form-group">
+                                                <input type="text" class="form-control backinp2" id="escolaridad"
+                                                    placeholder="Escribe aquí">
+                                            </div>
+                                        </td>
                                         <td class="column21 style101 s style101" colspan="3">ESPECIALIDAD</td>
                                         <td class="column24 style7 null"></td>
                                         <td class="column25 style2 null"></td>
@@ -5474,8 +5492,8 @@
                                         </td>
                                         <td class="column14 style108 null style108" colspan="4" rowspan="2">
                                             <div class="form-group">
-                                                <input type="text" class="form-control backinp2"
-                                                    id="estado_civil" placeholder="Escribe aquí">
+                                                <input type="text" class="form-control backinp2" id="estado_civil"
+                                                    placeholder="Escribe aquí">
                                             </div>
                                         </td>
                                         <td class="column18 style109 null style109" colspan="6" rowspan="4">
@@ -6936,43 +6954,48 @@
                                         <div class="form-group">
                                             <select class="form-control" id="puesto_general" name="puesto">
                                                 <option value="ANALISTA DE OPERACIONES">Analista de operaciones</option>
-                                                <option value="ASISTENTE DE DIRECCIÓN">Asistente de dirección</option>
+                                                <option value="ASISTENTE DE DIRECCION">Asistente de dirección</option>
                                                 <option value="AUDITOR DE INVENTARIOS">Auditor de inventarios</option>
                                                 <option value="AUXILIAR ADMINISTRATIVO">Auxiliar administrativo</option>
+                                                <option value="AUXILIAR CONTABLE">Auxiliar contable</option>
                                                 <option value="AUXILIAR DE ALMACÉN">Auxiliar de almacén</option>
                                                 <option value="AUXILIAR DE COMPRAS">Auxiliar de compras</option>
                                                 <option value="AUXILIAR DE LIMPIEZA">Auxiliar de limpieza</option>
                                                 <option value="AUXILIAR DE MANTENIMIENTO">Auxiliar de mantenimiento
                                                 </option>
+                                                <option value="AUXILIAR DE NOMINA">Auxiliar de nómina</option>
                                                 <option value="AUXILIAR DE OPERACIONES">Auxiliar de operaciones</option>
+                                                <option value="CALIDAD">Calidad</option>
                                                 <option value="CHOFER PARTICULAR">Chofer particular</option>
-                                                <option value="GERENTE DE OPERACIONES">Gerente de operaciones</option>
+                                                <option value="CIRCULACION">Circulación</option>
+                                                <option value="CONTADOR GENERAL">Contador General</option>
+                                                <option value="COMERCIALIZACION">Comercialización</option>
+                                                <option value="COMMUNITY MANAGER">Community manager</option>
+                                                <option value="COORDINADOR DE DESARROLLO ORGANIZACIONAL">Coordinador de
+                                                    desarrollo organizacional</option>
+                                                <option value="DIRECCIÓN DE OPERACIONES">Dirección de operaciones</option>
+                                                <option value="DIRECCIÓN GENERAL">Dirección general</option>
+                                                <option value="DIRECTORA ADMINISTRATIVA Y FINANCIERA">Directora
+                                                    administrativa y financiera</option>
+                                                <option value="EJECUTIVA DE CUENTA">Ejecutiva de cuenta</option>
+                                                <option value="ENFERMERA">Enfermera</option>
+                                                <option value="FOTOGRAFO">Fotógrafo</option>
+                                                <option value="GESTOR DE COBRANZA">Gestor de cobranza</option>
+                                                <option value="GUARDIA DE SEGURIDAD">Guardia de seguridad</option>
+                                                <option value="JEFE DE CALL CENTER">Jefe de Call Center</option>
                                                 <option value="MANTENIMIENTO">Mantenimiento</option>
+                                                <option value="MEDIOS DE COMUNICACION">Medios de comunicación</option>
+                                                <option value="MENSAJERO">Mensajero</option>
+                                                <option value="MINERIA DE DATOS">Minería de datos</option>
                                                 <option value="MONITORISTA">Monitorista</option>
                                                 <option value="OPERADOR DE MONTACARGAS">Operador de montacargas</option>
                                                 <option value="RECURSOS HUMANOS">Recursos humanos</option>
-                                                <option value="SUPERVISOR DE OPERACIONES">Supervisor de operaciones
-                                                </option>
+                                                <option value="REDACTOR">Redactor</option>
+                                                <option value="SISTEMAS">Sistemas</option>
                                                 <option value="SUPERVISOR DE CALL CENTER">Supervisor de Call Center
                                                 </option>
-                                                <option value="AUXILIAR ADMINISTRATIVO">Auxiliar Administrativo</option>
-                                                <option value="MINERIA DE DATOS">Mineria de datos</option>
-                                                <option value="GESTOR DE COBRANZA">Gestor de cobranza</option>
-                                                <option value="DIRECCIÓN GENERAL">Dirección general</option>
-                                                <option value="DIRECCIÓN DE OPERACIONES">Dirección de operaciones</option>
-                                                <option value="COORDINACION DE DESARROLLO ORGANIZACIONAL">Coordinación de
-                                                    desarrollo organzacional</option>
-                                                <option value="AUXILIAR CONTABLE">Auxiliar contable</option>
-                                                <option value="AUXILIAR DE NOMINA">Auxiliar de nómina</option>
-                                                <option value="JEFE DE CALL CENTER">Jefe de Call Center</option>
-                                                <option value="MEDIOS DE COMUNICACION">Medios de comunicación</option>
-                                                <option value="EJECUTIVA DE CUENTA">Ejecutiva de cuenta</option>
-                                                <option value="GUARDIA DE SEGURIDAD">Guardia de seguridad</option>
-                                                <option value="SISTEMAS">SISTEMAS</option>
-                                                <option value="ASISTE DE DIRECCION">Asisten te de dirección</option>
-                                                <option value="COORDINADOR DE OPERACIONES">Coordinador de operaciones
+                                                <option value="SUPERVISOR DE OPERACIONES">Supervisor de operaciones
                                                 </option>
-
                                             </select>
                                         </div>
                                     </div>
@@ -6982,19 +7005,31 @@
                                     <div class="form-group">
                                         <label for="centrocostos">Centro de costos:</label>
                                         <select class="form-control" id="centrocostos" name="centrocostos">
-                                            <option value="000001 ADMINISTRACION">000001 Administración</option>
-                                            <option value="000002 GUADALAJARA">000001 Guadalajara</option>
-                                            <option value="000003 MONTERREY">000003 Monterrey</option>
-                                            <option value="000009 QUERETARO">000009 Queretaro</option>
-                                            <option value="000014 TELMEX">000014 Telmex</option>
-                                            <option value="000020 TORRE DE CONTROL">000020 Torre de Control</option>
-                                            <option value="000023 EQUIPO AMARILLO">000023 Equipo Amarillo</option>
-                                            <option value="000058 EQUIPO AZUL 1">000058 Equipo Azul 1</option>
-                                            <option value="000060 EQUIPO ROJO">000060 Equipo Rojo</option>
-                                            <option value="000061 EQUIPO VERDE">000061 Equipo Verde</option>
-                                            <option value="000065 EQUIPO NARANJA">000065 Equipo Naranja</option>
-                                            <option value="000070 JJ">000070 JJ</option>
-                                            <option value="000071 SAN LUIS POTOSI">000071 San Luis Potosi</option>
+                                            <option value="GUADALAJARA" selected>Guadalajara</option>
+                                            <option value="MONTERREY">Monterrey</option>
+                                            <option value="QUERETARO">Queretaro</option>
+                                            <option value="TELMEX">Telmex</option>
+                                            <option value="TORRE DE CONTROL">Torre de Control</option>
+                                            <option value="EQUIPO AMARILLO">Equipo Amarillo</option>
+                                            <option value="EQUIPO AZUL 1">Equipo Azul 1</option>
+                                            <option value="EQUIPO ROJO">Equipo Rojo</option>
+                                            <option value="EQUIPO VERDE">Equipo Verde</option>
+                                            <option value="EQUIPO NARANJA">Equipo Naranja</option>
+                                            <option value="JJ">JJ</option>
+                                            <option value="SAN LUIS POTOSI">San Luis Potosi</option>
+                                            <option value="CALL CENTER SUBURBIA">Call Center Suburbia</option>
+                                            <option value="CALL CENTER LIVERPOOL">Call Center Liverpool</option>
+                                            <option value="DIRECCION">Dirección</option>
+                                            <option value="DESARROLLO ORGANIZACIONAL">Desarrollo Organizacional</option>
+                                            <option value="OPERACIONES">Operaciones</option>
+                                            <option value="ADMINISTRACION">Administración</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="estatus">Estatus:</label>
+                                        <select class="form-control" id="estatus" name="estatus">
+                                            <option value="ALTA">ALTA</option>
+                                            <option value="BAJA">BAJA</option>
                                         </select>
                                     </div>
                                 </div>
@@ -7002,9 +7037,23 @@
                                     <div class="form-group">
                                         <label for="sueldo">Sueldo:</label>
                                         <input type="number" class="form-control" id="sueldo" name="sueldo"
-                                            required>
+                                            min="0.01" max="100000.00" step="0.01" required>
+                                    </div>
+                                    <div class="form-group d-none" id="fb">
+                                        <label for="fecha_baja">Fecha de baja:</label>
+                                        <input type="date" class="form-control" id="fecha_baja"
+                                            name="fecha_baja">
                                     </div>
                                 </div>
+                                <div class="col">
+                                    <div class="form-group d-none">
+                                    </div>
+                                    <div class="form-group d-none" id="mb">
+                                        <label for="motivo_baja">Motivo de baja:</label>
+                                        <textarea class="form-control" id="motivo_baja" name="motivo_baja" rows="5"></textarea>
+                                    </div>
+                                </div>
+
 
                             </div>
                             <h2>Dirección Fiscal</h2>
@@ -7071,9 +7120,22 @@
 
         ..form-control input {
             width: 100%;
-            /* Opcional: Establece el ancho del input al 100% del div */
-            font-size: 14px;
-            /* Ajusta el tamaño del texto según tus necesidades */
+            /* Asegurar que el input ocupe todo el espacio disponible */
+            border: none;
+            /* Quitar el borde del input */
+            background: transparent;
+            /* Hacer el fondo transparente */
+            padding: 0;
+            /* Eliminar el relleno del input */
+            line-height: 1.5;
+            /* Ajustar la altura de línea según tus preferencias */
+        }
+
+        .td-content {
+            width: 100%;
+            /* Ajustar el ancho del contenido */
+            overflow: hidden;
+            /* Ocultar el desbordamiento de contenido */
         }
     </style>
 @stop
@@ -7091,7 +7153,17 @@
         $(document).ready(function() {
 
 
+            $('#estatus').on('change', function() {
+                const selectedValue = $(this).val();
 
+                if (selectedValue === 'BAJA') {
+                    $('#fb').removeClass('d-none');
+                    $('#mb').removeClass('d-none');
+                } else {
+                    $('#fb').addClass('d-none');
+                    $('#mb').addClass('d-none');
+                }
+            });
 
             let dataJson;
             $.blockUI({
@@ -7321,9 +7393,9 @@
                     var mesingreso = arregloFechaingreso[1];
                     var anoingreso = arregloFechaingreso[0];
 
-                    $('#diaingreso').text(diaingreso);
-                    $('#mesingreso').text(mesingreso);
-                    $('#anoingreso').text(anoingreso);
+                    $('#diaingreso').val(diaingreso);
+                    $('#mesingreso').val(mesingreso);
+                    $('#anoingreso').val(anoingreso);
 
                     if (data["fechabaja"] != null) {
                         var arregloFechabaja = data["fechabaja"].split("-");
@@ -7357,12 +7429,13 @@
                     domicilioytelefono = data.calle + ", " + data.col + ", " + data.munic + ", " + data.estado +
                         ", " + data.cp +
                         ", " + data.telcasa;
-                    $('#domicilioytelefono').val(domicilioytelefono);
+                    $('#domicilioytelefono').text(domicilioytelefono);
 
 
-                    domicilioytelefonofiscal = data.calle_fiscal + ", " + data.cp_fiscal + ", " + data.municipio_fiscal + ", " + data.estado +
+                    domicilioytelefonofiscal = data.calle_fiscal + ", " + data.cp_fiscal + ", " + data
+                        .municipio_fiscal + ", " + data.estado +
                         ", " + data.cp + ", " + data.telefono_fiscal;
-                    $('#domicilioytelefonofiscal').val(domicilioytelefonofiscal);
+                    $('#domicilioytelefonofiscal').text(domicilioytelefonofiscal);
 
 
                     $('#rfc').val(data.rfc);
@@ -7373,6 +7446,7 @@
                     $('#beneficiario').val(data.beneficiario);
                     $('#parentesco').val(data.parentesco);
                     $('#banco').val(data.banco);
+                    $('#escolaridad').val(data.escolaridad);
 
                     $('#curp').val(data.curp);
                     $('#nss').val(data.nss);
@@ -7404,7 +7478,7 @@
                 success: function(data) {
                     $('#id').val(data.id);
                     $('#puesto').val(data.puesto);
-                    $('#centrocostos').val(data.predio);
+                    // $('#centrocostos').val(data.predio);
                     $('#sueldo').val(data.salario);
                     $('#calle_fiscal').val(data.calle_fiscal);
                     $('#cp_fiscal').val(data.cp_fiscal);
@@ -7477,7 +7551,7 @@
             const day = today.getDate();
             const year = today.getFullYear();
 
-            mopername = "MOPER - " + $('#nombrecompleto').text() + " - " + day.toString() + " - " + year.toString() +
+            mopername = "MOPER - " + $('#nombrecompleto').val() + " - " + day.toString() + " - " + year.toString() +
                 ".pdf";
             const pdf = new jsPDF();
 

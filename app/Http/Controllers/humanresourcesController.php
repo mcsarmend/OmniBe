@@ -36,6 +36,9 @@ class humanresourcesController extends Controller
     {
         return view('humanresources.operations.searchnselection.altageneral');
     }
+    public function incidencias(){
+        return view('humanresources.operations.incidencias');
+    }
     public function infostalls()
     {
 
@@ -522,8 +525,12 @@ class humanresourcesController extends Controller
             $registro->municipio_fiscal = $request->municipio_fiscal;
             $registro->telefono_fiscal = $request->telefono_fiscal;
             $registro->entidad_federativa = $request->entidad_federativa;
+            $registro->status = $request->estatus;
             // Actualiza los demás campos según tu modelo y formulario
-
+            if ($request->estatus == "BAJA") {
+                $registro->fechabaja = $request->fecha_baja;
+                $registro->causabaja = $request->motivo_baja;
+            }
             // Guardar los cambios en la base de datos
             $registro->save();
             return response()->json(['success' => "Actualización completada"], 200);
@@ -534,6 +541,7 @@ class humanresourcesController extends Controller
     }
     public function editarempleadoyobel(Request $request)
     {
+
         $registro = empleados_yobel::find($request->id);
         try {
             $registro->puesto = $request->puesto;
@@ -544,6 +552,11 @@ class humanresourcesController extends Controller
             $registro->municipio_fiscal = $request->municipio_fiscal;
             $registro->telefono_fiscal = $request->telefono_fiscal;
             $registro->entidad_federativa = $request->entidad_federativa;
+            $registro->status = $request->estatus;
+            if ($request->estatus == "BAJA") {
+                $registro->fechabaja = $request->fecha_baja;
+                $registro->causabaja = $request->motivo_baja;
+            }
             // Actualiza los demás campos según tu modelo y formulario
 
             // Guardar los cambios en la base de datos
@@ -554,5 +567,12 @@ class humanresourcesController extends Controller
         }
 
     }
+
+    public function horariosempleados(Request $request){
+        $results = DB::table('horarios_empleados')->get();
+        return $results;
+    }
+
+
 
 }
