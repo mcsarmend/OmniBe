@@ -539,7 +539,7 @@
 
                         if (!groupedData[fecha][idUsuario]) {
                             groupedData[fecha][idUsuario] = {
-                                "ID de Usuario": numero,
+                                "ID de Usuario": idUsuario,
                                 Nombre: registro.Nombre,
                                 Fecha: fecha,
                                 Entrada: registro.Tiempo,
@@ -548,6 +548,7 @@
                                 HorasTrabajadas: 0,
                                 TiempoExtra: false,
                                 Cuenta:null,
+                                HorasExtra:"-",
                                 Retardo: false
                             };
                         } else {
@@ -597,6 +598,7 @@
                             } else {
                                 // Si no se encuentra el horario, asigna Retardo como falso
                                 registro.Cuenta= "No Activo";
+                                registro.HorasExtra = "-";
                                 registro.Retardo = false;
                             }
                         });
