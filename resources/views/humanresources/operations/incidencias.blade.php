@@ -65,6 +65,9 @@
                         <th>Cuenta</th>
                         <th>ID de Usuario</th>
                         <th>Nombre</th>
+                        <th>Fecha Ingreso</th>
+                        <th>Horario</th>
+                        <th>Puesto</th>
                         <th>Entrada</th>
                         <th>Retardos</th>
                         <th>Salida</th>
@@ -73,6 +76,7 @@
                         <th>Hora fin</th>
                         <th>Horas Extra</th>
                         <th>Fecha</th>
+                        <th>Incidencia</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -88,7 +92,7 @@
 
     <div class="modal fade" id="activosmodal">
         <div class="modal-dialog modal-lg">
-            <div class="modal-content" style="width: 130%">
+            <div class="modal-content" style="width: 185%; left: -290px;">
                 <!-- Cabecera del Modal -->
                 <div class="modal-header">
                     <h4 class="modal-title">Activos</h4>
@@ -97,17 +101,23 @@
                 <!-- Contenido del Modal -->
                 <div class="modal-body modalAnexo">
                     <div class="p-3">
-                        <table id="tablahistoricopromecap" class="table table-striped table-bordered" style="width:100%; ">
+                        <table id="tablaactivos" class="table table-striped table-bordered" style="width:100%; ">
                             <thead>
                                 <tr>
+                                    <th>Tipo</th>
                                     <th>ID Empleado</th>
                                     <th>Nombre</th>
+                                    <th>Fecha de ingreso</th>
+                                    <th>Horario</th>
+                                    <th>Puesto</th>
                                     <th>Entrada_LV</th>
                                     <th>Salida_LV</th>
                                     <th>Horas_LV</th>
                                     <th>Entrada_S</th>
                                     <th>Salida_S</th>
                                     <th>Horas_S</th>
+                                    <th>Aplicar_tiempo_extra</th>
+
                                 </tr>
                             </thead>
                             <tbody>
@@ -323,10 +333,10 @@
                                 Fecha: fecha,
                                 Entrada: registro.Tiempo,
                                 Salida: registro.Tiempo,
-                                Horafin:null,
+                                Horafin: null,
                                 HorasTrabajadas: 0,
                                 TiempoExtra: false,
-                                Cuenta:null,
+                                Cuenta: null,
                                 Retardo: false
                             };
                         } else {
@@ -349,8 +359,8 @@
 
                             if (horario) {
                                 registro.Nombre = horario.nombre;
-                                registro.Horafin=horario.salida_lv;
-                                registro.Cuenta= tipo;
+                                registro.Horafin = horario.salida_lv;
+                                registro.Cuenta = tipo;
                                 const diaSemana = obtenerDiaSemana(fecha);
                                 let r = false; // Inicializa r como falso
 
@@ -427,7 +437,7 @@
                                 // Asigna el resultado a registro.Retardo
                                 registro.Retardo = r;
                             } else {
-                                registro.Cuenta= "No Activo";
+                                registro.Cuenta = "No Activo";
                                 registro.TiempoExtra = false;
                                 registro.HorasExtra = "-";
                                 // Si no se encuentra el horario, asigna Retardo como falso
@@ -544,11 +554,11 @@
                                 Fecha: fecha,
                                 Entrada: registro.Tiempo,
                                 Salida: registro.Tiempo,
-                                Horafin:null,
+                                Horafin: null,
                                 HorasTrabajadas: 0,
                                 TiempoExtra: false,
-                                Cuenta:null,
-                                HorasExtra:"-",
+                                Cuenta: null,
+                                HorasExtra: "-",
                                 Retardo: false
                             };
                         } else {
@@ -575,8 +585,8 @@
                             // Evita comparar con 'undefined' y agrega un chequeo de nulidad
                             if (horario) {
                                 registro.Nombre = horario.nombre;
-                                registro.Horafin=horario.salida_lv;
-                                registro.Cuenta= "bg";
+                                registro.Horafin = horario.salida_lv;
+                                registro.Cuenta = "bg";
                                 const diaSemana = obtenerDiaSemana(fecha);
                                 let r = false; // Inicializa r como falso
 
@@ -597,7 +607,7 @@
                                 registro.Retardo = r;
                             } else {
                                 // Si no se encuentra el horario, asigna Retardo como falso
-                                registro.Cuenta= "No Activo";
+                                registro.Cuenta = "No Activo";
                                 registro.HorasExtra = "-";
                                 registro.Retardo = false;
                             }
@@ -647,6 +657,98 @@
         }
 
         function creartabla(data) {
+
+
+            // ************************DATOS DE LA TABLA************************
+            var empleados = $('#tablaactivos').DataTable().rows().data().toArray();
+
+            const turnos = {
+                "06:00:00": "1ER TURNO",
+                "14:00:00": "2DO TURNO",
+                "22:00:00": "3ER TURNO",
+                "08:00:00": "MIXTO"
+            };
+            data.forEach(element => {
+                const datosempleado = empleados.filter(objeto => objeto.id_empleado === parseInt(element[
+                    "ID de Usuario"]));
+                empleado = datosempleado[0];
+                if (empleado) {
+
+                    if (empleado.fecha_de_ingreso != null) {
+                        element.FechaIngreso = empleado.fecha_de_ingreso;
+                    } else {
+                        element.FechaIngreso = "-";
+                    }
+                    empleado.puesto != null ? element.Puesto = empleado.puesto : element.Puesto = "-";
+                    element.Cuenta == "YOBEL" ? element.Horario = turnos[empleado.entrada_lv] : element.Horario =
+                        "-";
+                    element.Cuenta = empleado.tipo;
+
+                } else {
+                    element.FechaIngreso = "-";
+                    element.Puesto = "-";
+                    element.Horario = "-";
+                }
+
+
+                element.Incidencia = 'NA';
+            });
+
+
+
+            var fechasUnicas = new Set();
+            data.forEach(function(dato) {
+                fechasUnicas.add(dato.Fecha);
+            });
+            var fechas = Array.from(fechasUnicas);
+
+
+            var clientesunicos = new Set();
+            data.forEach(function(dato) {
+                clientesunicos.add(dato.Fecha);
+            });
+            var fechas = Array.from(fechasUnicas);
+
+
+            jornadas = [];
+
+            fechas.forEach(fechabuscada => {
+                empleados.forEach(empleado => {
+                    var elementoEncontrado = data.find(function(dato) {
+                        return dato.Fecha === fechabuscada && dato["ID de Usuario"] == empleado.id_empleado;
+                    });
+                    if(empleado.id_empleado === 703953) {
+                        console.log(empleado);
+                    }
+                    if (elementoEncontrado!= undefined ) {
+                        jornadas.push(elementoEncontrado);
+                    } else {
+
+                        var faltaRegistro = {
+                            "Cuenta": empleado.id_empleado,
+                            "Entrada": "-",
+                            "Fecha": fechabuscada,
+                            "FechaIngreso": "-",
+                            "Horafin": "-",
+                            "Horario": "-",
+                            "HorasExtra": "-",
+                            "HorasTrabajadas": "-",
+                            "ID de Usuario": empleado.id_empleado,
+                            "Incidencia": "FALTA",
+                            "Nombre": empleado.nombre,
+                            "Puesto": "-",
+                            "Retardo": false,
+                            "Salida": "-",
+                            "TiempoExtra": false
+                        };
+                        jornadas.push(faltaRegistro);
+                    }
+
+                });
+
+            });
+
+
             $('#miTabla').DataTable({
                 destroy: true,
                 scrollX: true,
@@ -676,19 +778,53 @@
                 processing: true,
                 sort: true,
                 paging: true,
-                data: data,
-                columns: [
-                    { data: 'Cuenta' },
-                    { data: 'ID de Usuario' },
-                    { data: 'Nombre' },
-                    { data: 'Entrada' },
-                    { data: 'Retardo' },
-                    { data: 'Salida' },
-                    { data: 'HorasTrabajadas' },
-                    { data: 'TiempoExtra' },
-                    { data: 'Horafin' },
-                    { data: 'HorasExtra' },
-                    { data: 'Fecha' }
+                data: jornadas,
+                columns: [{
+                        data: 'Cuenta'
+                    },
+                    {
+                        data: 'ID de Usuario'
+                    },
+                    {
+                        data: 'Nombre'
+                    },
+                    {
+                        data: 'FechaIngreso'
+                    },
+                    {
+                        data: 'Horario'
+                    },
+                    {
+                        data: 'Puesto'
+                    },
+
+                    {
+                        data: 'Entrada'
+                    },
+                    {
+                        data: 'Retardo'
+                    },
+                    {
+                        data: 'Salida'
+                    },
+                    {
+                        data: 'HorasTrabajadas'
+                    },
+                    {
+                        data: 'TiempoExtra'
+                    },
+                    {
+                        data: 'Horafin'
+                    },
+                    {
+                        data: 'HorasExtra'
+                    },
+                    {
+                        data: 'Fecha'
+                    },
+                    {
+                        data: 'Incidencia'
+                    }
                 ]
             });
         }
@@ -854,7 +990,7 @@
                 },
                 success: function(aforocalcpromecap) {
                     listaactivos = aforocalcpromecap;
-                    $('#tablahistoricopromecap').DataTable({
+                    $('#tablaactivos').DataTable({
                         destroy: true,
                         scrollCollapse: true,
                         language: {
@@ -883,10 +1019,22 @@
                         autoWidth: true,
                         data: aforocalcpromecap,
                         columns: [{
+                                data: 'tipo'
+                            },
+                            {
                                 data: 'id_empleado'
                             },
                             {
                                 data: 'nombre'
+                            },
+                            {
+                                data: 'fecha_de_ingreso'
+                            },
+                            {
+                                data: 'horario'
+                            },
+                            {
+                                data: 'puesto'
                             },
                             {
                                 data: 'entrada_lv'
@@ -905,7 +1053,14 @@
                             },
                             {
                                 data: 'horas_s'
-                            }
+                            },
+                            {
+                                data: null,
+                                render: function(data, type, row) {
+                                    return '<input type="checkbox" class="checkbox-class" id="' +
+                                        data.id_empleado + '" turno="' + data.horario + '">';
+                                }
+                            },
                         ]
                     });
                 }
